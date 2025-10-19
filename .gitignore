@@ -15,3 +15,5 @@ discogs_scrape_OLD2.R
 analysis_ideas.txt
 analysis_ideas.*
 analysis_ideas*
+/data
+/data/*.RDS

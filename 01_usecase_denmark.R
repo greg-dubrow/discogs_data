@@ -23,6 +23,8 @@ den_88_clean<- clean_discogs_data(den_88_raw)
 
 glimpse(den_88_clean)
 
+saveRDS(den_88_clean, "data/den_88_clean.RDS")
+
 den_88_clean %>%
   count(artist) %>%
   arrange(desc(n)) %>%
