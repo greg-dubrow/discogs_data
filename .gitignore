@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+.httr-oauth
+.Rprofile
+discogs scrape_OLD.R
+00_functions_OLD1.R
+00_functions_OLD2.R
+better workflow.R
+better workflow_2.R
+discogs_scrape_OLD1.R
+discogs_scrape_OLD2.R
+analysis_ideas.txt
+analysis_ideas.*
+analysis_ideas*
