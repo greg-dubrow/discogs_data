@@ -4,6 +4,9 @@ library(httr)
 library(jsonlite)
 library(tidyverse)
 library(tidylog)
+library(gregeRs)
+
+source("00_functions.R")
 
 # load Discogs API credentials
 discogs_key    <- Sys.getenv("DISCOGS_KEY")
