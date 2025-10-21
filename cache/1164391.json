@@ -1,0 +1,348 @@
+{
+  "id": 1164391,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/1164391",
+  "uri": "https://www.discogs.com/release/1164391-The-Rain-2-To-The-Citadel",
+  "artists": [
+    {
+      "name": "The Rain (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 888293,
+      "resource_url": "https://api.discogs.com/artists/888293",
+      "thumbnail_url": "https://i.discogs.com/Gk-0uo6BxvQ60cKb_B__woQq5fk9bvVrFXDwNCaHuYg/rs:fit/g:sm/q:90/h:578/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg4ODI5/My0xNjA1MTY2MzU3/LTkwNDkuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Rain (2), The",
+  "labels": [
+    {
+      "name": "Orangewood",
+      "catno": "CITRUS 001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 101522,
+      "resource_url": "https://api.discogs.com/labels/101522"
+    },
+    {
+      "name": "Orangewood",
+      "catno": "Citrus 001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 101522,
+      "resource_url": "https://api.discogs.com/labels/101522"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Matinee Music Studios",
+      "catno": "",
+      "entity_type": "24",
+      "entity_type_name": "Engineered At",
+      "id": 343109,
+      "resource_url": "https://api.discogs.com/labels/343109"
+    },
+    {
+      "name": "The Cartel",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 264740,
+      "resource_url": "https://api.discogs.com/labels/264740",
+      "thumbnail_url": "https://i.discogs.com/Tu57cgrIHZJewN2SVvKcLf1IuRmf6y-PgAV2HCv8tp0/rs:fit/g:sm/q:90/h:109/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDc0/MC0xMzE0NzQxMzAx/LmpwZWc.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 87,
+    "want": 52,
+    "rating": {
+      "count": 6,
+      "average": 4.33
+    },
+    "submitter": {
+      "username": "clivefenwick",
+      "resource_url": "https://api.discogs.com/users/clivefenwick"
+    },
+    "contributors": [
+      {
+        "username": "clivefenwick",
+        "resource_url": "https://api.discogs.com/users/clivefenwick"
+      },
+      {
+        "username": "strange_idol",
+        "resource_url": "https://api.discogs.com/users/strange_idol"
+      },
+      {
+        "username": "MusicBoxTW",
+        "resource_url": "https://api.discogs.com/users/MusicBoxTW"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "rebmusicologist",
+        "resource_url": "https://api.discogs.com/users/rebmusicologist"
+      },
+      {
+        "username": "lonesomesound",
+        "resource_url": "https://api.discogs.com/users/lonesomesound"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2008-03-13T12:36:32-07:00",
+  "date_changed": "2024-07-24T03:02:01-07:00",
+  "num_for_sale": 9,
+  "lowest_price": 7.65,
+  "title": "To The Citadel",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Year of release not noted on record or sleeve.\n\nCatalogue number styled 'Citrus 001' on the back sleeve and labels and 'CITRUS 001' on the spine.",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "CITRUS _001 A1 MPO MEDIUM COOL DAYS...",
+      "description": "Runout, side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "CITRUS _001 B1 MPO ... ARE OVER!",
+      "description": "Runout, side B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=DL-C3XsFXY4",
+      "title": "The Rain - The Moneymen (1989)",
+      "description": "A tribute to the Lost But Not Forgotten 80's\n\nNo Copyright infringement intended!",
+      "duration": 174,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RGiQ7Dg5HdY",
+      "title": "The Rain - First Of May",
+      "description": "The band was formed by singer/guitarist Clive Stubbings, bassist Tony Duckworth (ex-Junk Factory)and drummer Chris Morrell. Their first single, \"Tom Paine\" was self-released, but caught the ear of Medium Cool Records, who signed them up. They contributed ",
+      "duration": 167,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=cY4Z8PkMdVE",
+      "title": "The Rain - Hi There 1968",
+      "description": "Basingstoke's forgotten kings of the jangly scene with their paean to their spiritual forefathers The Byrds.",
+      "duration": 295,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5HBhSG4jpF0",
+      "title": "The Rain - First Of May (1987)",
+      "description": "A tribute to the Lost But Not Forgotten 80's\n\nNo Copyright infringement intended!",
+      "duration": 174,
+      "embed": true
+    }
+  ],
+  "genres": ["Rock", "Pop"],
+  "styles": ["Indie Rock", "Indie Pop"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Hi There 1968!",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "St. Martin's-In-The-Fields",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Bright Pavilions",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Tom Paine",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Summer's Almost Gone",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "The Doors",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 56798,
+          "resource_url": "https://api.discogs.com/artists/56798"
+        }
+      ]
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "First Of May",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Alright With The World",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "The Moneymen",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Down Here",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Seven Red Apples",
+      "duration": "",
+      "extraartists": {}
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Tony Duckworth",
+      "anv": "",
+      "join": "",
+      "role": "Bass, Vocals",
+      "tracks": "",
+      "id": 975645,
+      "resource_url": "https://api.discogs.com/artists/975645"
+    },
+    {
+      "name": "Chris Morrell",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 975646,
+      "resource_url": "https://api.discogs.com/artists/975646"
+    },
+    {
+      "name": "Russell Raisey",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 562813,
+      "resource_url": "https://api.discogs.com/artists/562813"
+    },
+    {
+      "name": "Clive Stubbings",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Vocals",
+      "tracks": "",
+      "id": 975647,
+      "resource_url": "https://api.discogs.com/artists/975647"
+    },
+    {
+      "name": "Chris Morrell",
+      "anv": "",
+      "join": "",
+      "role": "Performer [The Rain Are]",
+      "tracks": "",
+      "id": 975646,
+      "resource_url": "https://api.discogs.com/artists/975646"
+    },
+    {
+      "name": "Clive Stubbings",
+      "anv": "",
+      "join": "",
+      "role": "Performer [The Rain Are]",
+      "tracks": "",
+      "id": 975647,
+      "resource_url": "https://api.discogs.com/artists/975647"
+    },
+    {
+      "name": "Tony Duckworth",
+      "anv": "",
+      "join": "",
+      "role": "Performer [The Rain Are]",
+      "tracks": "",
+      "id": 975645,
+      "resource_url": "https://api.discogs.com/artists/975645"
+    },
+    {
+      "name": "Clive Stubbings",
+      "anv": "Stubbings",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "All except A5",
+      "id": 975647,
+      "resource_url": "https://api.discogs.com/artists/975647"
+    },
+    {
+      "name": "The Rain (2)",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "All except A5",
+      "id": 888293,
+      "resource_url": "https://api.discogs.com/artists/888293"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/_wgd4l-ltmM7axxYM_kDZdLW35CvibpipvgnbdEfpjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/OTEtMTQwNzg2MDcx/Ny02ODAxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_wgd4l-ltmM7axxYM_kDZdLW35CvibpipvgnbdEfpjE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/OTEtMTQwNzg2MDcx/Ny02ODAxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/BOF5FqfGVxJMEcdzEIC8ZoTiD4WnG8JR-ELK-2WaatU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/OTEtMTQwNzg2MDcx/Ny02ODAxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/BOF5FqfGVxJMEcdzEIC8ZoTiD4WnG8JR-ELK-2WaatU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjQz/OTEtMTQwNzg2MDcx/Ny02ODAxLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

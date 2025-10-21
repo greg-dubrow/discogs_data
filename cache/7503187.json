@@ -1,0 +1,563 @@
+{
+  "id": 7503187,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/7503187",
+  "uri": "https://www.discogs.com/release/7503187-Bombalurina-Featuring-Timmy-Mallett-Huggin-Ana-Kissin-Non-Stop-Party-Version",
+  "artists": [
+    {
+      "name": "Bombalurina",
+      "anv": "",
+      "join": "Featuring",
+      "role": "",
+      "tracks": "",
+      "id": 130817,
+      "resource_url": "https://api.discogs.com/artists/130817"
+    },
+    {
+      "name": "Timmy Mallett",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 285474,
+      "resource_url": "https://api.discogs.com/artists/285474",
+      "thumbnail_url": "https://i.discogs.com/PGAK47YmDXXzddplt4uW9hTzDVtaA1O8Zys1k7EyPmw/rs:fit/g:sm/q:90/h:300/w:204/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI4NTQ3/NC0xMTEwMzEwNDQ3/LmpwZw.jpeg"
+    }
+  ],
+  "artists_sort": "Bombalurina Featuring Timmy Mallett",
+  "labels": [
+    {
+      "name": "Polydor",
+      "catno": "847 672-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1610,
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+    },
+    {
+      "name": "Carpet Records",
+      "catno": "847 672-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 6452,
+      "resource_url": "https://api.discogs.com/labels/6452",
+      "thumbnail_url": "https://i.discogs.com/PiNg7-6t3s-0rB2QD8JXkXSJDkKg7-un8YJmLHEGZZ0/rs:fit/g:sm/q:90/h:321/w:311/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY0NTIt/MTYxMjE4MzE3OS01/MDIzLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 5,
+    "want": 2,
+    "rating": {
+      "count": 0,
+      "average": 0
+    },
+    "submitter": {
+      "username": "OlaDj",
+      "resource_url": "https://api.discogs.com/users/OlaDj"
+    },
+    "contributors": [
+      {
+        "username": "OlaDj",
+        "resource_url": "https://api.discogs.com/users/OlaDj"
+      },
+      {
+        "username": "RoswellAlien",
+        "resource_url": "https://api.discogs.com/users/RoswellAlien"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2015-09-21T02:42:24-07:00",
+  "date_changed": "2016-06-16T07:19:18-07:00",
+  "num_for_sale": 2,
+  "lowest_price": 10.82,
+  "master_id": 112828,
+  "master_url": "https://api.discogs.com/masters/112828",
+  "title": "Huggin' An'a Kissin' - Non Stop Party Version",
+  "country": "UK",
+  "released": "1990",
+  "notes": "- Comes with poster with the lyrics.\r\n- Comes with T-Shirt/Sweatshirt order coupon.",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "042284767217"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 0309"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "8476721 A-1U-1-1",
+      "description": "side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "8476721 B-1U-1-3",
+      "description": "side B"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=VIwUhrbXUbo",
+      "title": "Bombalurina   Itsy bitsy teeny weeny yellow polka dot bikini   1990 Top of the pops",
+      "description": "Broadcast 25th December 1990 BBC 1",
+      "duration": 203,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YBmZ8k6eYeE",
+      "title": "BOMBALURINA=SEVEN LITTLE GIRLS SITTING IN THE BACK SEAT",
+      "description": " ",
+      "duration": 187,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=yOas_bo5_NM",
+      "title": "Speedy Gonzales",
+      "description": "Provided to YouTube by Universal Music Group\n\nSpeedy Gonzales · Bombalurina · Timmy Mallett\n\nHuggin' An' A Kissin'\n\n℗ 1990 Polydor Records Ltd. (U.K.)\n\nReleased on: 1990-12-01\n\nProducer: Les McCutcheon\nProducer: Andrew Lloyd Webber\nStudio  Personnel, ",
+      "duration": 206,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=msYDazgC2Zs",
+      "title": "Down Came The Rain",
+      "description": "Provided to YouTube by Universal Music Group\n\nDown Came The Rain · Bombalurina · Timmy Mallett\n\nHuggin' An' A Kissin'\n\n℗ 1990 Polydor Records Ltd. (U.K.)\n\nReleased on: 1990-12-01\n\nStudio  Personnel, Engineer: Robin Sellars\nProducer: Nigel Wright\nAssoc",
+      "duration": 189,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=hnugxRjcGJo",
+      "title": "Lollipop",
+      "description": "Provided to YouTube by Universal Music Group\n\nLollipop · Bombalurina · Timmy Mallett\n\nHuggin' An' A Kissin'\n\n℗ 1990 Polydor Records Ltd. (U.K.)\n\nReleased on: 1990-12-01\n\nStudio  Personnel, Engineer: Robin Sellars\nProducer: Nigel Wright\nAssociated  Per",
+      "duration": 185,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1VBrBvxiY0I",
+      "title": "Sweet Nothin's",
+      "description": "Provided to YouTube by Universal Music Group\n\nSweet Nothin's · Bombalurina · Timmy Mallett\n\nHuggin' An' A Kissin'\n\n℗ 1990 Polydor Records Ltd. (U.K.)\n\nReleased on: 1990-12-01\n\nStudio  Personnel, Engineer: Robin Sellars\nProducer: Nigel Wright\nAssociate",
+      "duration": 207,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_tAJeP6VQak",
+      "title": "She Taught Me How To Yodel",
+      "description": "Provided to YouTube by Universal Music Group\n\nShe Taught Me How To Yodel · Bombalurina · Timmy Mallett\n\nHuggin' An' A Kissin'\n\n℗ 1990 Polydor Records Ltd. (U.K.)\n\nReleased on: 1990-12-01\n\nStudio  Personnel, Engineer: Robin Sellars\nProducer: Nigel Wrig",
+      "duration": 196,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=XblU4hBS5uc",
+      "title": "Bombalurina featuring Timmy Mallett - Seven Little Girls (Sitting In the Back Seat)",
+      "description": "Bombalurina Seven Little Girls (Sitting In the Back Seat) Timmy Mallett.  1990 single charting at #18 in the UK in December 1990, #26 in Ireland in December 1990, and #180 in Australia in April 1991.  From the album 'Huggin An'a Kissin'', this track is a ",
+      "duration": 194,
+      "embed": true
+    }
+  ],
+  "genres": ["Rock", "Pop", "Folk, World, & Country"],
+  "styles": ["Pop Rock", "Rock & Roll", "Novelty", "Country Rock", "Vocal"],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "The Dance Mix including",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Lee Pockriss",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 486972,
+          "resource_url": "https://api.discogs.com/artists/486972"
+        },
+        {
+          "name": "Paul Vance",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 412900,
+          "resource_url": "https://api.discogs.com/artists/412900"
+        }
+      ]
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "My Boomerang Won't Come Back",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Charlie Drake",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 279909,
+          "resource_url": "https://api.discogs.com/artists/279909"
+        },
+        {
+          "name": "Max Diamond",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 1020851,
+          "resource_url": "https://api.discogs.com/artists/1020851"
+        }
+      ]
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "She Taught Me How To Yodel",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Esther Van Sciver",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 1505387,
+          "resource_url": "https://api.discogs.com/artists/1505387"
+        },
+        {
+          "name": "Paul Roberts (11)",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 1505386,
+          "resource_url": "https://api.discogs.com/artists/1505386"
+        },
+        {
+          "name": "Tom Emerson",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 1505388,
+          "resource_url": "https://api.discogs.com/artists/1505388"
+        }
+      ]
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Lollipop",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Beverly Ross",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 605519,
+          "resource_url": "https://api.discogs.com/artists/605519"
+        },
+        {
+          "name": "Julius Dixon",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 605518,
+          "resource_url": "https://api.discogs.com/artists/605518"
+        }
+      ]
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Kiss Me Honey Honey Kiss Me",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Albon Timothy",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 831319,
+          "resource_url": "https://api.discogs.com/artists/831319"
+        },
+        {
+          "name": "Michael Julien",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 831320,
+          "resource_url": "https://api.discogs.com/artists/831320"
+        }
+      ]
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Seven Little Girls (Sitting In The Back Seat)",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Bob Hilliard",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 632719,
+          "resource_url": "https://api.discogs.com/artists/632719"
+        },
+        {
+          "name": "Lee Pockriss",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 486972,
+          "resource_url": "https://api.discogs.com/artists/486972"
+        }
+      ]
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "The Rock 'N' Roll Mix including",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Three Bells",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Bert Reisfeld",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 615284,
+          "resource_url": "https://api.discogs.com/artists/615284"
+        },
+        {
+          "name": "Jean Villard",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 706104,
+          "resource_url": "https://api.discogs.com/artists/706104"
+        }
+      ]
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Speedy Gonzales",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Buddy Kaye",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 587168,
+          "resource_url": "https://api.discogs.com/artists/587168"
+        },
+        {
+          "name": "David Hill (4)",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 712356,
+          "resource_url": "https://api.discogs.com/artists/712356"
+        },
+        {
+          "name": "Ethel Lee",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 712358,
+          "resource_url": "https://api.discogs.com/artists/712358"
+        }
+      ]
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Splish Splash",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Bobby Darin",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 48822,
+          "resource_url": "https://api.discogs.com/artists/48822"
+        },
+        {
+          "name": "Jean Murray",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 773849,
+          "resource_url": "https://api.discogs.com/artists/773849"
+        }
+      ]
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Baby Sittin' Boogie",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Johnny Parker (2)",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 625574,
+          "resource_url": "https://api.discogs.com/artists/625574"
+        }
+      ]
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Hoots Mon",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Henry Robertson",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 1785454,
+          "resource_url": "https://api.discogs.com/artists/1785454"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/bU1MRH3xohD3cOckZyhYS7mYpV4PFEXtQ1l8ZCczBag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY1/Ny01Mjk1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/bU1MRH3xohD3cOckZyhYS7mYpV4PFEXtQ1l8ZCczBag/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY1/Ny01Mjk1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_YuPi5qXOwOOGVMcsU4u_MpO1f7lRs0YjNADW9f_Wmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY1/Ny01Mjk1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3grGqQm9FSYy7gPrrO-pQHOHEAv2ya1VlHeq_ZAACa0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY3/Ny01NjY2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/3grGqQm9FSYy7gPrrO-pQHOHEAv2ya1VlHeq_ZAACa0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY3/Ny01NjY2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/9-waXZk974xDM76_EfZNeX_dakyBCB6sazET5EPtRug/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY3/Ny01NjY2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/B5z5UdSlJ5735GfNK09bOZmOZ531TGDig67TPeda03I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY5/OS04Njk1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/B5z5UdSlJ5735GfNK09bOZmOZ531TGDig67TPeda03I/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY5/OS04Njk1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/tFHP5eOCrKhFSXADc3bQR_XoXn267Q_PfmpaNNtSQPg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY5/OS04Njk1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jCLq2vzbQ1OrAggerLv_5WJHvzk3i9GNmEMfMB8UE9Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY3/MS0yMzc3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jCLq2vzbQ1OrAggerLv_5WJHvzk3i9GNmEMfMB8UE9Y/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY3/MS0yMzc3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Mm9PqGe5beQQGEAIVMfoyBPrhK8mmi8gUYWjlp0HzNU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY3/MS0yMzc3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/SZddoPyqywoSJRbeAFaxTIdUXSJxWkl0WHawddY6-Ew/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY2/OC0yNjUwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/SZddoPyqywoSJRbeAFaxTIdUXSJxWkl0WHawddY6-Ew/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY2/OC0yNjUwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/M5EyUirgE2q1IFw7LbEsnkOaFrf1zmBDhfa31d5G-JU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY2/OC0yNjUwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 569
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CHMoyIMX1r831FW48cm0Klr5TZp3B7KmWdsBrrHhqk8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY0/Ni02NjMzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/CHMoyIMX1r831FW48cm0Klr5TZp3B7KmWdsBrrHhqk8/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY0/Ni02NjMzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/RnqM8pJtJ708PEs47uFhbcwjBQsRVbvLIGj2RJ1Dk3E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY0/Ni02NjMzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2CExONxJqWdujcUtq83H7LYfUMKTas4Brhkeabyp5so/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc0/MS03NjA5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/2CExONxJqWdujcUtq83H7LYfUMKTas4Brhkeabyp5so/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc0/MS03NjA5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/tzEqHX17df3wy_swkwMfMvcQzQA4BWCQ70RS7bGQFSI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc0/MS03NjA5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/TAXCSqKV6m5X9lIty0VRItICGqApUbaT8ILVTovx2FQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODcy/Ny01MDgxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/TAXCSqKV6m5X9lIty0VRItICGqApUbaT8ILVTovx2FQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODcy/Ny01MDgxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/P76m2uYB0r26q6qSm3SCITCz2E4qHwPEgyUFVrcWhks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODcy/Ny01MDgxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/wqv4xCUHpUEcK8mfrVYgGRwX2n0iFYlXlIuOzSe3IZ4/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc1/MC0xNTcyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/wqv4xCUHpUEcK8mfrVYgGRwX2n0iFYlXlIuOzSe3IZ4/rs:fit/g:sm/q:90/h:297/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc1/MC0xNTcyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/W-yPnb8vzfcsVmPcvMMLc8zrsqeXSaF6s7QxBlKnrfI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc1/MC0xNTcyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 297
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/PTFnNoDrzmYAPzMtclPG3s_l48sTH61_TxYYGb3f3ps/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc1/OC02OTQyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/PTFnNoDrzmYAPzMtclPG3s_l48sTH61_TxYYGb3f3ps/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc1/OC02OTQyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/T0isPvuMBIq7z49Bvl7Kwi5tAhMj0AypDiLv8I3Zdro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODc1/OC02OTQyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 300
+    }
+  ],
+  "thumb": "https://i.discogs.com/_YuPi5qXOwOOGVMcsU4u_MpO1f7lRs0YjNADW9f_Wmc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1MDMx/ODctMTQ0MjgyODY1/Ny01Mjk1LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

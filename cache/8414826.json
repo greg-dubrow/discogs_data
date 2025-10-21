@@ -1,0 +1,252 @@
+{
+  "id": 8414826,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/8414826",
+  "uri": "https://www.discogs.com/release/8414826-Vaughan-Williams-Bryden-Thomson-Conducts-The-London-Symphony-Orchestra-Symphony-No-8-In-D-Minor-Part",
+  "artists": [
+    {
+      "name": "Ralph Vaughan Williams",
+      "anv": "Vaughan Williams",
+      "join": ",",
+      "role": "",
+      "tracks": "",
+      "id": 662168,
+      "resource_url": "https://api.discogs.com/artists/662168",
+      "thumbnail_url": "https://i.discogs.com/cB9Gl_Bv-t_6JiPWAXYLW5F-rfV1BgpnmZdzBg3ynjU/rs:fit/g:sm/q:90/h:313/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY2MjE2/OC0xMTk0MzU4NTYw/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Bryden Thomson",
+      "anv": "",
+      "join": "Conducts",
+      "role": "",
+      "tracks": "",
+      "id": 846282,
+      "resource_url": "https://api.discogs.com/artists/846282",
+      "thumbnail_url": "https://i.discogs.com/cU2FrLTVfouqgnGxSwG-i6uUjyvqoBahZg-m0puhfy0/rs:fit/g:sm/q:90/h:204/w:201/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg0NjI4/Mi0xMzYxMjEyOTcx/LTM0OTYuanBlZw.jpeg"
+    },
+    {
+      "name": "London Symphony Orchestra",
+      "anv": "The London Symphony Orchestra",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 212726,
+      "resource_url": "https://api.discogs.com/artists/212726",
+      "thumbnail_url": "https://i.discogs.com/EWCK2dw8dNQzfmK3MXIX1Y7NgPe_pkWpAeoyJDIeiFE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxMjcy/Ni0xNzAxODY4MzE3/LTYwNzUucG5n.jpeg"
+    }
+  ],
+  "artists_sort": "Ralph Vaughan Williams, Bryden Thomson Conducts London Symphony Orchestra",
+  "labels": [
+    {
+      "name": "Chandos",
+      "catno": "ABRD 1453",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 42471,
+      "resource_url": "https://api.discogs.com/labels/42471",
+      "thumbnail_url": "https://i.discogs.com/oEurOl2a8ReVwqEkVcQsj_-SrWsErN1Dx4-RUBf0hXA/rs:fit/g:sm/q:90/h:52/w:262/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQyNDcx/LTEyMTU3NzY5MTIu/anBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 13,
+    "want": 9,
+    "rating": {
+      "count": 1,
+      "average": 2
+    },
+    "submitter": {
+      "username": "rchaynesjr",
+      "resource_url": "https://api.discogs.com/users/rchaynesjr"
+    },
+    "contributors": [
+      {
+        "username": "rchaynesjr",
+        "resource_url": "https://api.discogs.com/users/rchaynesjr"
+      },
+      {
+        "username": "vivaldi55",
+        "resource_url": "https://api.discogs.com/users/vivaldi55"
+      },
+      {
+        "username": "tarantoga",
+        "resource_url": "https://api.discogs.com/users/tarantoga"
+      },
+      {
+        "username": "M3acull",
+        "resource_url": "https://api.discogs.com/users/M3acull"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2016-04-20T05:02:51-07:00",
+  "date_changed": "2024-02-04T09:49:40-08:00",
+  "num_for_sale": 1,
+  "lowest_price": 33.8,
+  "master_id": 1029049,
+  "master_url": "https://api.discogs.com/masters/1029049",
+  "title": "Symphony No. 8 In D Minor / Partita For Double String Orchestra / Fantasia On 'Greensleeves' / Two Hymn-Tune Preludes",
+  "country": "UK",
+  "released": "1990-05-00",
+  "released_formatted": "May 1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": "Classical",
+  "styles": ["Neo-Romantic", "Modern"],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "index",
+      "title": "Symphony No. 8 In D Minor",
+      "duration": "",
+      "sub_tracks": [
+        {
+          "position": "A1",
+          "type_": "track",
+          "title": "I. Fantasia (Variazioni Senza Tema)",
+          "duration": ""
+        },
+        {
+          "position": "A2",
+          "type_": "track",
+          "title": "II. Scherzo Alla Marcia (Per Stromento A Fiato)",
+          "duration": ""
+        },
+        {
+          "position": "A3",
+          "type_": "track",
+          "title": "III. Cavatina (Per Stromenti Ad Arco)",
+          "duration": ""
+        },
+        {
+          "position": "A4",
+          "type_": "track",
+          "title": "IV. Toccata",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "position": "",
+      "type_": "index",
+      "title": "Two Hymn-Tune Preludes",
+      "duration": "",
+      "sub_tracks": [
+        {
+          "position": "B1",
+          "type_": "track",
+          "title": "I. Eventide (Monk)",
+          "duration": ""
+        },
+        {
+          "position": "B2",
+          "type_": "track",
+          "title": "II. Dominus Regit Me (Dykes)",
+          "duration": ""
+        }
+      ]
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Fantasia On 'Greensleeves'",
+      "duration": "",
+      "sub_tracks": {}
+    },
+    {
+      "position": "",
+      "type_": "index",
+      "title": "Partita For Double String Orchestra",
+      "duration": "",
+      "sub_tracks": [
+        {
+          "position": "B4",
+          "type_": "track",
+          "title": "I. Prelude",
+          "duration": ""
+        },
+        {
+          "position": "B5",
+          "type_": "track",
+          "title": "II. Scherzo Ostinato",
+          "duration": ""
+        },
+        {
+          "position": "B6",
+          "type_": "track",
+          "title": "III. Intermezzo (Homage To Henry Hall)",
+          "duration": ""
+        },
+        {
+          "position": "B7",
+          "type_": "track",
+          "title": "IV. Fantasia",
+          "duration": ""
+        }
+      ]
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Ralph Vaughan Williams",
+      "anv": "Vaughan Williams",
+      "join": "",
+      "role": "Composed By",
+      "tracks": "",
+      "id": 662168,
+      "resource_url": "https://api.discogs.com/artists/662168"
+    },
+    {
+      "name": "Bryden Thomson",
+      "anv": "",
+      "join": "",
+      "role": "Conductor",
+      "tracks": "",
+      "id": 846282,
+      "resource_url": "https://api.discogs.com/artists/846282"
+    },
+    {
+      "name": "London Symphony Orchestra",
+      "anv": "",
+      "join": "",
+      "role": "Orchestra",
+      "tracks": "",
+      "id": 212726,
+      "resource_url": "https://api.discogs.com/artists/212726"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/HP3QnfaHqnyD5rMcixiTTEMAHOID_ODAKdH4GxFZS_M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTQ4/MjYtMTQ2OTM0NTUy/MC05NTc2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/HP3QnfaHqnyD5rMcixiTTEMAHOID_ODAKdH4GxFZS_M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTQ4/MjYtMTQ2OTM0NTUy/MC05NTc2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/T_M75sOzotSuObj_za2Si0R_LD9wKRUFm0DKS9me82A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTQ4/MjYtMTQ2OTM0NTUy/MC05NTc2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/k4Fy1ZN2dzAOp2-ic8eL5hDsfJIr8sKDDfLAG-NDXBs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTQ4/MjYtMTQ2MTE1Mzc3/Mi0yNjYwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/k4Fy1ZN2dzAOp2-ic8eL5hDsfJIr8sKDDfLAG-NDXBs/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTQ4/MjYtMTQ2MTE1Mzc3/Mi0yNjYwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/X4We5p4wNmOzuqub5fNiW7MmhMYYzCWD5Wxb7CWjrXw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTQ4/MjYtMTQ2MTE1Mzc3/Mi0yNjYwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 450
+    }
+  ],
+  "thumb": "https://i.discogs.com/T_M75sOzotSuObj_za2Si0R_LD9wKRUFm0DKS9me82A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MTQ4/MjYtMTQ2OTM0NTUy/MC05NTc2LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

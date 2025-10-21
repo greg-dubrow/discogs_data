@@ -1,0 +1,224 @@
+{
+  "id": 26167511,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/26167511",
+  "uri": "https://www.discogs.com/release/26167511-Shakey-Vick-Night-After-Night",
+  "artists": [
+    {
+      "name": "Shakey Vick",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2432364,
+      "resource_url": "https://api.discogs.com/artists/2432364",
+      "thumbnail_url": "https://i.discogs.com/XIU1MzNOZJ8OOOoG_FkBKoJC4NlBJSJq7Y1QEvKbe_k/rs:fit/g:sm/q:90/h:283/w:283/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI0MzIz/NjQtMTYwOTYwNjA3/Mi0xODA1LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Shakey Vick",
+  "labels": [
+    {
+      "name": "Vicksboro' Records",
+      "catno": "VB001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 3137951,
+      "resource_url": "https://api.discogs.com/labels/3137951"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 8,
+    "want": 4,
+    "rating": {
+      "count": 1,
+      "average": 3
+    },
+    "submitter": {
+      "username": "ucci",
+      "resource_url": "https://api.discogs.com/users/ucci"
+    },
+    "contributors": [
+      {
+        "username": "ucci",
+        "resource_url": "https://api.discogs.com/users/ucci"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2023-02-20T07:32:25-08:00",
+  "date_changed": "2023-02-20T07:45:24-08:00",
+  "num_for_sale": 7,
+  "lowest_price": 14.2,
+  "title": "Night After Night",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Recorded March 1990 at 3B Studios. Recording Engineer: Bernard Yeo. \nRe-mixing Engineer: Mark Dawson. Mastered at Goldust Studios.\nProducer: Graham Vickery\nSleeve Design: Angela Morse. Emvee Design.Photography: Jimmy Appudurai\n1990 EmVee Productions.",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": "Blues",
+  "styles": "Electric Blues",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Stop Breaking Your Heart",
+      "duration": "3:25"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Night After Night",
+      "duration": "6:42"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Just A Country Boy",
+      "duration": "3:59"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Help Me",
+      "duration": "3:56"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Harp Shaker",
+      "duration": "2:52"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Long Distance Call",
+      "duration": "3:39"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "You'd Better Watch Yourself",
+      "duration": "3:40"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Five Long Years",
+      "duration": "4:55"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Crossroads Blues",
+      "duration": "4:58"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Bluebird Blues",
+      "duration": "2:54"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Rod Demick",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 558713,
+      "resource_url": "https://api.discogs.com/artists/558713"
+    },
+    {
+      "name": "Roger Sutton",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 322409,
+      "resource_url": "https://api.discogs.com/artists/322409"
+    },
+    {
+      "name": "Sam Kelly",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 429613,
+      "resource_url": "https://api.discogs.com/artists/429613"
+    },
+    {
+      "name": "Alan Vincent",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 3616793,
+      "resource_url": "https://api.discogs.com/artists/3616793"
+    },
+    {
+      "name": "Bernie Pallo",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 4271681,
+      "resource_url": "https://api.discogs.com/artists/4271681"
+    },
+    {
+      "name": "Jim Roche (2)",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 3830503,
+      "resource_url": "https://api.discogs.com/artists/3830503"
+    },
+    {
+      "name": "Jonathan Digby",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 302278,
+      "resource_url": "https://api.discogs.com/artists/302278"
+    },
+    {
+      "name": "Shakey Vick",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Harp",
+      "tracks": "",
+      "id": 2432364,
+      "resource_url": "https://api.discogs.com/artists/2432364"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QyjiYgvf2JmpF2RVXhYIYzgrSzJyEWgqugnDJkWTplU/rs:fit/g:sm/q:90/h:500/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY3/NTExLTE2NzY5MDcx/NjYtOTQxMC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/QyjiYgvf2JmpF2RVXhYIYzgrSzJyEWgqugnDJkWTplU/rs:fit/g:sm/q:90/h:500/w:495/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY3/NTExLTE2NzY5MDcx/NjYtOTQxMC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/dwN5RMqSt1AIhcHuK_VerVUsXfbGcUBIVlZaGFe4DeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY3/NTExLTE2NzY5MDcx/NjYtOTQxMC5qcGVn.jpeg",
+      "width": 495,
+      "height": 500
+    }
+  ],
+  "thumb": "https://i.discogs.com/dwN5RMqSt1AIhcHuK_VerVUsXfbGcUBIVlZaGFe4DeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI2MTY3/NTExLTE2NzY5MDcx/NjYtOTQxMC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

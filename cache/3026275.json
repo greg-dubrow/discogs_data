@@ -1,0 +1,169 @@
+{
+  "id": 3026275,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/3026275",
+  "uri": "https://www.discogs.com/release/3026275-The-Free-Zone-Mammon",
+  "artists": [
+    {
+      "name": "The Free Zone",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2357406,
+      "resource_url": "https://api.discogs.com/artists/2357406",
+      "thumbnail_url": "https://i.discogs.com/2qhAEnE1KRPAJymjJDmBgvHFDu2spbSEZ2y6QV1mBrg/rs:fit/g:sm/q:90/h:465/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIzNTc0/MDYtMTY2Mzk5OTMw/Mi0zNDc5LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Free Zone, The",
+  "labels": [
+    {
+      "name": "Cheep",
+      "catno": "CHEEPL 007",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 259065,
+      "resource_url": "https://api.discogs.com/labels/259065"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 23,
+    "want": 6,
+    "rating": {
+      "count": 1,
+      "average": 5
+    },
+    "submitter": {
+      "username": "reglength",
+      "resource_url": "https://api.discogs.com/users/reglength"
+    },
+    "contributors": [
+      {
+        "username": "reglength",
+        "resource_url": "https://api.discogs.com/users/reglength"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "CallandResponseRecs",
+        "resource_url": "https://api.discogs.com/users/CallandResponseRecs"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2011-08-02T10:33:58-07:00",
+  "date_changed": "2020-11-03T23:56:51-08:00",
+  "num_for_sale": 13,
+  "lowest_price": 3.32,
+  "title": "Mammon",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": ["Rock", "Pop"],
+  "styles": ["Indie Rock", "New Wave"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Let Them Eat Progress",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Some Of The Things They're Now Saying",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Ghost Of A Smile",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Sweet Liberty",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Sartre In Sunglasses",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "He Still Walks",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Crocodile Street",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Common Purpose",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Happy Now",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Good Intensions",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Surrender",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "And I Have Mine",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/bRYB2sZPX1skegqtO7Zm9x1JE4V-yvuyJ7pE0_fShtA/rs:fit/g:sm/q:90/h:345/w:363/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjYy/NzUtMTMxMjMwNjMw/MS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/bRYB2sZPX1skegqtO7Zm9x1JE4V-yvuyJ7pE0_fShtA/rs:fit/g:sm/q:90/h:345/w:363/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjYy/NzUtMTMxMjMwNjMw/MS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/5QuCY1gcs2L8KmXwzVCVVPec4JE2pl94YL9EYg5WLnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjYy/NzUtMTMxMjMwNjMw/MS5qcGVn.jpeg",
+      "width": 363,
+      "height": 345
+    }
+  ],
+  "thumb": "https://i.discogs.com/5QuCY1gcs2L8KmXwzVCVVPec4JE2pl94YL9EYg5WLnE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwMjYy/NzUtMTMxMjMwNjMw/MS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

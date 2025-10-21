@@ -1,0 +1,337 @@
+{
+  "id": 12710265,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/12710265",
+  "uri": "https://www.discogs.com/release/12710265-The-78th-Fraser-Highlanders-Pipe-Band-The-Immigrants-Suite",
+  "artists": [
+    {
+      "name": "The 78th Fraser Highlanders Pipe Band",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 905393,
+      "resource_url": "https://api.discogs.com/artists/905393"
+    }
+  ],
+  "artists_sort": "78th Fraser Highlanders Pipe Band, The",
+  "labels": [
+    {
+      "name": "Lismor Recordings",
+      "catno": "LDDL 8013",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 94763,
+      "resource_url": "https://api.discogs.com/labels/94763",
+      "thumbnail_url": "https://i.discogs.com/B4msJZGCxB4AsITvTr3pXG1DobaaJol2kQg7iQZT4GM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk0NzYz/LTE0MDE4MTQyOTYt/MzU0Mi5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 4,
+    "want": 3,
+    "rating": {
+      "count": 2,
+      "average": 5
+    },
+    "submitter": {
+      "username": "malky68",
+      "resource_url": "https://api.discogs.com/users/malky68"
+    },
+    "contributors": [
+      {
+        "username": "malky68",
+        "resource_url": "https://api.discogs.com/users/malky68"
+      },
+      {
+        "username": "vinylinvestor",
+        "resource_url": "https://api.discogs.com/users/vinylinvestor"
+      },
+      {
+        "username": "mtwallet",
+        "resource_url": "https://api.discogs.com/users/mtwallet"
+      },
+      {
+        "username": "TReimer",
+        "resource_url": "https://api.discogs.com/users/TReimer"
+      },
+      {
+        "username": "hanspeterg",
+        "resource_url": "https://api.discogs.com/users/hanspeterg"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2018-10-25T11:49:22-07:00",
+  "date_changed": "2025-07-17T15:08:44-07:00",
+  "num_for_sale": 0,
+  "lowest_price": {},
+  "master_id": 2127184,
+  "master_url": "https://api.discogs.com/masters/2127184",
+  "title": "The Immigrant's Suite",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Pipe Band",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": "Folk, World, & Country",
+  "styles": ["Piobaireachd", "Celtic"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "The Immigrant's Suite",
+      "duration": "9:50"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "March, Strathspey & Reel: The Braes Of Badenoch / Tulloch Castle / Loch Carron",
+      "duration": "4:39"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "Slow Air, Strathspeys & Reels: Summertime / Devil In The Kitchen / The Strathspey King / Devil In The Kitchen / The Silver Spear / A Cup Of Tea / The Maid Behind The Bar / Shetland Reel",
+      "duration": "4:01"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "Medley: Gordon MacRae's Favourite / Annette's Chanter / Ashes On The Afton / Jimmy Rollo / Jane Campbell / Legal Repercussions / Michael Grey",
+      "duration": "6:37"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "Hornpipes: Worth The Wait / John Walsh's Walk",
+      "duration": "3:03"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "Amazing Grace",
+      "duration": "2:18"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "6/8 Marches: Dr Ross's 50th Welcome To The Argyllshire Gathering / MacLeod Of Mull / Donald MacLean Of Lewis",
+      "duration": "4:10"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "Slow Air, Strathspeys & Reels: By The River Aora / Miss Drummond Of Perth / Mrs Donald MacPherson / Bundle And Go / Flora, Mrs MacLeod Of MacLeod, Parts 1 And 2 / Flora, Mrs MacLeod Of MacLeod, Parts 3 And 4 / By The River Aora",
+      "duration": "3:57"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The 78th Fraser Highlanders Pipe Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 905393,
+          "resource_url": "https://api.discogs.com/artists/905393"
+        }
+      ],
+      "title": "Medley: Coppermill / Mrs Sharon Duthart / The Queen Of The Rushes / The Eastern Townships / Patty's Choice / The New Davey / Rakish Paddy / Waltz / The Crooked Bridge / The Wise Maid",
+      "duration": "6:25"
+    },
+    {
+      "position": "B4(i)",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "William Livingstone (2)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4563031,
+          "resource_url": "https://api.discogs.com/artists/4563031"
+        }
+      ],
+      "title": "The Haunting / Busy Buddy / Aussie Steve / Catriona Baker",
+      "duration": "16:29"
+    },
+    {
+      "position": "B4(ii)",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Bruce Gandy",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 2006395,
+          "resource_url": "https://api.discogs.com/artists/2006395"
+        }
+      ],
+      "title": "The Troy's Strathspey / Tom Brown's Hornpipe / Bee Street Fingers / Naill From Glencoe / The Snuff Wife",
+      "duration": ""
+    },
+    {
+      "position": "B4(iii)",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Michael Grey",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 353437,
+          "resource_url": "https://api.discogs.com/artists/353437"
+        }
+      ],
+      "title": "Julie Wilson B.Sc. / F. F. Frustration / Fleshmarket Close / Jim McGillivray's / Glasgow Police Pipers",
+      "duration": ""
+    },
+    {
+      "position": "B4(iv)",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "John Walsh (16)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5006725,
+          "resource_url": "https://api.discogs.com/artists/5006725"
+        }
+      ],
+      "title": "Piper's Despair / Walter Sampson's Grandmother / The Woman Of The House / A Poor Man Am I / The Gold Ring / The Rakes Of Kildare",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/vWgl0gn7CiQnL9acIR3r5x2W7xBNWnK54RcJE5Wrn-A/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/MjY1LTE1NDA1NTY1/NjUtNzAzOC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/vWgl0gn7CiQnL9acIR3r5x2W7xBNWnK54RcJE5Wrn-A/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/MjY1LTE1NDA1NTY1/NjUtNzAzOC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lfrAB7yB1yjByntLmQGKbQI6L7JtQB7V3rnVRGY47-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/MjY1LTE1NDA1NTY1/NjUtNzAzOC5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kmlMsnwx6azse0JKVRU3n8FmviXmI7ftEI_vQEEY58A/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/MjY1LTE1NDA1NTY1/NzgtODk0NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/kmlMsnwx6azse0JKVRU3n8FmviXmI7ftEI_vQEEY58A/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/MjY1LTE1NDA1NTY1/NzgtODk0NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/ipgzzVIBnYiUD6OJx2o5DK9v-wDI1L78Kg_J_-e8qeI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/MjY1LTE1NDA1NTY1/NzgtODk0NC5qcGVn.jpeg",
+      "width": 450,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/lfrAB7yB1yjByntLmQGKbQI6L7JtQB7V3rnVRGY47-A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzEw/MjY1LTE1NDA1NTY1/NjUtNzAzOC5qcGVn.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

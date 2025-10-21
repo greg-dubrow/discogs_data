@@ -1,0 +1,720 @@
+{
+  "id": 294850,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/294850",
+  "uri": "https://www.discogs.com/release/294850-Various-Stupid-Fresh-2",
+  "artists": [
+    {
+      "name": "Various",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 194,
+      "resource_url": "https://api.discogs.com/artists/194"
+    }
+  ],
+  "artists_sort": "Various",
+  "labels": [
+    {
+      "name": "Warrior Records",
+      "catno": "WRRLP 010",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 5797,
+      "resource_url": "https://api.discogs.com/labels/5797",
+      "thumbnail_url": "https://i.discogs.com/BcXZSAk1kSQvWXkJKSH2mixBmrb-AhFMFwFf7pAAix8/rs:fit/g:sm/q:90/h:158/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU3OTct/MTA4NTk5OTc5MS5q/cGc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Pinnacle (3)",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 264522,
+      "resource_url": "https://api.discogs.com/labels/264522",
+      "thumbnail_url": "https://i.discogs.com/RFTqsB0SqhpiPNXF7UenuAZ-IJ11sXt_7_8G4YHrzas/rs:fit/g:sm/q:90/h:177/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDUy/Mi0xMzMzMzU5NTM2/LmdpZg.jpeg"
+    },
+    {
+      "name": "Warrior Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 5797,
+      "resource_url": "https://api.discogs.com/labels/5797",
+      "thumbnail_url": "https://i.discogs.com/BcXZSAk1kSQvWXkJKSH2mixBmrb-AhFMFwFf7pAAix8/rs:fit/g:sm/q:90/h:158/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU3OTct/MTA4NTk5OTc5MS5q/cGc.jpeg"
+    },
+    {
+      "name": "Warrior Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 5797,
+      "resource_url": "https://api.discogs.com/labels/5797",
+      "thumbnail_url": "https://i.discogs.com/BcXZSAk1kSQvWXkJKSH2mixBmrb-AhFMFwFf7pAAix8/rs:fit/g:sm/q:90/h:158/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU3OTct/MTA4NTk5OTc5MS5q/cGc.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 76,
+    "want": 78,
+    "rating": {
+      "count": 11,
+      "average": 4
+    },
+    "submitter": {
+      "username": "sublight",
+      "resource_url": "https://api.discogs.com/users/sublight"
+    },
+    "contributors": [
+      {
+        "username": "sublight",
+        "resource_url": "https://api.discogs.com/users/sublight"
+      },
+      {
+        "username": "BarryGibson",
+        "resource_url": "https://api.discogs.com/users/BarryGibson"
+      },
+      {
+        "username": "CokeHead",
+        "resource_url": "https://api.discogs.com/users/CokeHead"
+      },
+      {
+        "username": "dettwork",
+        "resource_url": "https://api.discogs.com/users/dettwork"
+      },
+      {
+        "username": "dazeofspeed",
+        "resource_url": "https://api.discogs.com/users/dazeofspeed"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "Tarantxon",
+        "resource_url": "https://api.discogs.com/users/Tarantxon"
+      },
+      {
+        "username": "NordsRecords",
+        "resource_url": "https://api.discogs.com/users/NordsRecords"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2005-04-26T02:57:37-07:00",
+  "date_changed": "2021-05-13T06:52:50-07:00",
+  "num_for_sale": 6,
+  "lowest_price": 16,
+  "title": "Stupid Fresh 2",
+  "country": "UK",
+  "released": "1990",
+  "notes": "On label: Made in England.\r\nOn sleeve: Printed in England.",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "WRRLP-0010- A1 *",
+      "description": "Side One"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "WRRLP-0010- B1 *",
+      "description": "Side Two"
+    },
+    {
+      "type": "Other",
+      "value": "PEACE AND UNITY - A PORKY PRIME CUT. - MAX.",
+      "description": "Additional Etchings"
+    },
+    {
+      "type": "Barcode",
+      "value": "5 017522 001010"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Jb7AXO0Kvjg",
+      "title": "Kulture Skool - Experiment",
+      "description": "Kulture Skool - Experiment\nVinyl - Various ‎– Raw Beats 1\nLabel: Warrior Records\nYear: 1990\nAliases: School Of Culture\nM.C. Shola D - DJ Def - DJ Knowledge - Truesay",
+      "duration": 229,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nar4e0h6HCw",
+      "title": "The Scandalous Crew - On The Prowl",
+      "description": "Dope 1990 UK Hip Hop",
+      "duration": 166,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=lmin_-unuyY",
+      "title": "Freedom Fighters  On The Attack",
+      "description": "1990 warrior records",
+      "duration": 212,
+      "embed": true
+    }
+  ],
+  "genres": "Hip Hop",
+  "styles": "Hip Hop",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Kulture Skool",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 94581,
+          "resource_url": "https://api.discogs.com/artists/94581"
+        }
+      ],
+      "title": "Experiment",
+      "extraartists": [
+        {
+          "name": "Kulture Skool",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 94581,
+          "resource_url": "https://api.discogs.com/artists/94581"
+        },
+        {
+          "name": "Adam Smith (45)",
+          "anv": "A. Smith",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6875737,
+          "resource_url": "https://api.discogs.com/artists/6875737"
+        },
+        {
+          "name": "Alan Greenwood (2)",
+          "anv": "A. Greenwood",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6875739,
+          "resource_url": "https://api.discogs.com/artists/6875739"
+        },
+        {
+          "name": "Lee Lawrence (4)",
+          "anv": "L. Lawrence",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 4235947,
+          "resource_url": "https://api.discogs.com/artists/4235947"
+        },
+        {
+          "name": "Shola Ebofin",
+          "anv": "S. Ebofin",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 6875736,
+          "resource_url": "https://api.discogs.com/artists/6875736"
+        }
+      ],
+      "duration": "4:56"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Touch Down Alliance",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 209260,
+          "resource_url": "https://api.discogs.com/artists/209260"
+        }
+      ],
+      "title": "It's Our Time",
+      "extraartists": [
+        {
+          "name": "Touch Down Alliance",
+          "anv": "TDA",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 209260,
+          "resource_url": "https://api.discogs.com/artists/209260"
+        },
+        {
+          "name": "A. Watefe/V. Sawyer/R. Smith",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": "5:15"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Scandalous Crew",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 209261,
+          "resource_url": "https://api.discogs.com/artists/209261"
+        }
+      ],
+      "title": "On The Prowl",
+      "extraartists": [
+        {
+          "name": "DJ King Groove",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 209262,
+          "resource_url": "https://api.discogs.com/artists/209262"
+        },
+        {
+          "name": "King Jason",
+          "anv": "King Jason Productions",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 308388,
+          "resource_url": "https://api.discogs.com/artists/308388"
+        },
+        {
+          "name": "J. Stoakes/Exec Cut",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": "2:43"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Freedom Fighters (4)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5231352,
+          "resource_url": "https://api.discogs.com/artists/5231352"
+        }
+      ],
+      "title": "On The Attack",
+      "extraartists": [
+        {
+          "name": "The Freedom Fighters (4)",
+          "anv": "Freedom Fighters",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 5231352,
+          "resource_url": "https://api.discogs.com/artists/5231352"
+        },
+        {
+          "name": "P. Joseph/P. Joseph/S. Jeffs",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Cecil Bustamente Campbell",
+          "anv": "",
+          "join": "",
+          "role": "Written-By [Uncredited]",
+          "tracks": "",
+          "id": 2767529,
+          "resource_url": "https://api.discogs.com/artists/2767529"
+        }
+      ],
+      "duration": "3:32"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Ebony (6)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 258776,
+          "resource_url": "https://api.discogs.com/artists/258776"
+        }
+      ],
+      "title": "Let No Man",
+      "extraartists": [
+        {
+          "name": "Ebony (6)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 258776,
+          "resource_url": "https://api.discogs.com/artists/258776"
+        },
+        {
+          "name": "Groove Lab Productions",
+          "anv": "",
+          "join": "",
+          "role": "Remix, Producer [Post-production]",
+          "tracks": "",
+          "id": 143780,
+          "resource_url": "https://api.discogs.com/artists/143780"
+        },
+        {
+          "name": "C. Mason/S. Henry",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": "4:30"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Ebony (6)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 258776,
+          "resource_url": "https://api.discogs.com/artists/258776"
+        }
+      ],
+      "title": "Do Your Thing",
+      "extraartists": [
+        {
+          "name": "Ebony (6)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 258776,
+          "resource_url": "https://api.discogs.com/artists/258776"
+        },
+        {
+          "name": "Groove Lab Productions",
+          "anv": "",
+          "join": "",
+          "role": "Remix, Producer [Post-production]",
+          "tracks": "",
+          "id": 143780,
+          "resource_url": "https://api.discogs.com/artists/143780"
+        },
+        {
+          "name": "C. Mason/S. Henry",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": "4:37"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Scandalous Crew",
+          "anv": "Scandalous Crew",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 209261,
+          "resource_url": "https://api.discogs.com/artists/209261"
+        }
+      ],
+      "title": "Let's Work",
+      "extraartists": [
+        {
+          "name": "DJ King Groove",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 209262,
+          "resource_url": "https://api.discogs.com/artists/209262"
+        },
+        {
+          "name": "King Jason",
+          "anv": "King Jason Productions",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 308388,
+          "resource_url": "https://api.discogs.com/artists/308388"
+        },
+        {
+          "name": "J. Stoakes/Exec Cut",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": "2:23"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Simba (3)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 308389,
+          "resource_url": "https://api.discogs.com/artists/308389"
+        }
+      ],
+      "title": "Rhythms What We're Giving",
+      "extraartists": [
+        {
+          "name": "Groove Lab Productions",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By, Producer [Post-production]",
+          "tracks": "",
+          "id": 143780,
+          "resource_url": "https://api.discogs.com/artists/143780"
+        },
+        {
+          "name": "Simba (3)",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 308389,
+          "resource_url": "https://api.discogs.com/artists/308389"
+        },
+        {
+          "name": "C. Mason/S. Henry",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": "5:42"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "MC G-Mex",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 209258,
+          "resource_url": "https://api.discogs.com/artists/209258"
+        }
+      ],
+      "title": "Bliss",
+      "extraartists": [
+        {
+          "name": "Stephen Lironi",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 102018,
+          "resource_url": "https://api.discogs.com/artists/102018"
+        },
+        {
+          "name": "Stephen Miles",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 308390,
+          "resource_url": "https://api.discogs.com/artists/308390"
+        },
+        {
+          "name": "S. A. Miles",
+          "anv": "",
+          "join": "",
+          "role": "Written By",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        }
+      ],
+      "duration": "4:15"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Afro Boys",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 71634,
+          "resource_url": "https://api.discogs.com/artists/71634"
+        }
+      ],
+      "title": "A Tribute To DJ Kool Herc",
+      "extraartists": [
+        {
+          "name": "The Afro Boys",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Written-By",
+          "tracks": "",
+          "id": 71634,
+          "resource_url": "https://api.discogs.com/artists/71634"
+        }
+      ],
+      "duration": "3:12"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Andrew E Beer",
+      "anv": "",
+      "join": "",
+      "role": "A&R",
+      "tracks": "",
+      "id": 44573,
+      "resource_url": "https://api.discogs.com/artists/44573"
+    },
+    {
+      "name": "Lee Holding",
+      "anv": "",
+      "join": "",
+      "role": "A&R [Assistance]",
+      "tracks": "",
+      "id": 4238042,
+      "resource_url": "https://api.discogs.com/artists/4238042"
+    },
+    {
+      "name": "Super Culture Communications",
+      "anv": "",
+      "join": "",
+      "role": "Artwork",
+      "tracks": "",
+      "id": 5231353,
+      "resource_url": "https://api.discogs.com/artists/5231353"
+    },
+    {
+      "name": "Exogenesis",
+      "anv": "",
+      "join": "",
+      "role": "Artwork By [Supplied In Cooperation With]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Lee Holding",
+      "anv": "",
+      "join": "",
+      "role": "Liner Notes",
+      "tracks": "",
+      "id": 4238042,
+      "resource_url": "https://api.discogs.com/artists/4238042"
+    },
+    {
+      "name": "Maxwell Anandappa",
+      "anv": "Max",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 2481548,
+      "resource_url": "https://api.discogs.com/artists/2481548"
+    },
+    {
+      "name": "Porky (5)",
+      "anv": "",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 473994,
+      "resource_url": "https://api.discogs.com/artists/473994"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/YcOzI3ItF4A1muvUPVDnSHXwAuqVWj6ulIQGVZZ_YiM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xNjIwOTEzOTIz/LTk5ODEuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/YcOzI3ItF4A1muvUPVDnSHXwAuqVWj6ulIQGVZZ_YiM/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xNjIwOTEzOTIz/LTk5ODEuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/ZyG7kBKj3wlbf5U-bhnf4whWDs5BpvumMNqkz8sOyJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xNjIwOTEzOTIz/LTk5ODEuanBlZw.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2SoXy8qB_sj9EFFqTppycq_OcUvOLG3oLqvhvKU9Qw8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xNjIwOTEzOTUy/LTU1OTUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/2SoXy8qB_sj9EFFqTppycq_OcUvOLG3oLqvhvKU9Qw8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xNjIwOTEzOTUy/LTU1OTUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/b4NMwgrIKHd-CSmcFhzE8Dn-0E_AqqdfcOfFA5-8_wk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xNjIwOTEzOTUy/LTU1OTUuanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qGpaUaGFwL3cAIQU4mAzhuEmANgM7y8R2blodkfmU0Y/rs:fit/g:sm/q:90/h:515/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xMzQxNjYyOTg3/LTExNTAuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/qGpaUaGFwL3cAIQU4mAzhuEmANgM7y8R2blodkfmU0Y/rs:fit/g:sm/q:90/h:515/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xMzQxNjYyOTg3/LTExNTAuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/yo8LKyhX9Y2ZPMHVIoTrfu6CcaBcx3EbUl5-EL9NrD4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xMzQxNjYyOTg3/LTExNTAuanBlZw.jpeg",
+      "width": 597,
+      "height": 515
+    }
+  ],
+  "thumb": "https://i.discogs.com/ZyG7kBKj3wlbf5U-bhnf4whWDs5BpvumMNqkz8sOyJo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5NDg1/MC0xNjIwOTEzOTIz/LTk5ODEuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,331 @@
+{
+  "id": 2019356,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/2019356",
+  "uri": "https://www.discogs.com/release/2019356-Gygafo-Legend-Of-The-Kingfisher",
+  "artists": [
+    {
+      "name": "Gygafo",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1636224,
+      "resource_url": "https://api.discogs.com/artists/1636224",
+      "thumbnail_url": "https://i.discogs.com/wEVnoHChuWHuewmsJm51d2McBptH4qNsBfYT8uLGoO4/rs:fit/g:sm/q:90/h:189/w:320/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2MzYy/MjQtMTI3NDAzNDQ3/NS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Gygafo",
+  "labels": [
+    {
+      "name": "Holyground",
+      "catno": "HG 1155",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 330002,
+      "resource_url": "https://api.discogs.com/labels/330002",
+      "thumbnail_url": "https://i.discogs.com/HjWdc5wEjgc57Ckse3eMNQdxdv1pAut0OxJSOO7VYcs/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMzMDAw/Mi0xMzcyNTE1NjMz/LTgwMDMuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 59,
+    "want": 178,
+    "rating": {
+      "count": 12,
+      "average": 4.25
+    },
+    "submitter": {
+      "username": "devrowax",
+      "resource_url": "https://api.discogs.com/users/devrowax"
+    },
+    "contributors": [
+      {
+        "username": "devrowax",
+        "resource_url": "https://api.discogs.com/users/devrowax"
+      },
+      {
+        "username": "Sonnenmensch",
+        "resource_url": "https://api.discogs.com/users/Sonnenmensch"
+      },
+      {
+        "username": "florette69",
+        "resource_url": "https://api.discogs.com/users/florette69"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2009-11-22T07:25:14-08:00",
+  "date_changed": "2013-06-29T12:44:02-07:00",
+  "num_for_sale": 3,
+  "lowest_price": 232,
+  "master_id": 540381,
+  "master_url": "https://api.discogs.com/masters/540381",
+  "title": "Legend Of The Kingfisher",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Recorded in 1973, pressed by Holyground, but not prepared for release until late 1989.\r\n\r\nDistributed by Magic Mixture in a limited edition with insert. Most copies signed by Mike Levon and Dave Wood.",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=-x2UXTt7Ra4",
+      "title": "Gygafo - The Legend Of The Kingfisher",
+      "description": "John Atkinson - vocals, guitar, mandolin, flute, glockenspiel\nPaul Kent - bass \nPete Nickson - drums, percussion \nCharlie Speed - lead guitar, backing vocals \nEddie Stringer - keyboards, backing vocals \nMike Levon - saxophone, air guitar",
+      "duration": 593,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z_uWMGKNWBs",
+      "title": "GYGAFO -- Legend Of The Kingfisher -- 1973.wmv",
+      "description": "GYGAFO -- Legend Of The Kingfisher -- 1973 ( UK )\n\n\n1. Solid Man Song 00:01 \n\n 2. A Room With A View 03:55\n\n 3.a) Waiting For Rain\n         b) Entering Winds Of Long Ago\n          c) Season's Weather (Come Home) 09:31\n\n4. And A Time To Think (Box1) 21:39\n",
+      "duration": 3373,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wUVPHXdtRw8",
+      "title": "Gygafo - Legend Of The Kingfisher (1973) (Full Album)",
+      "description": "Tracklist:\n\n1- Solid Man Song (0:00)\n2- A Room With A View (3:54)\n3- Waiting For The Rain / Entering Winds Of Long Ago / Seasons weather (Coming Home) (9:30)\n4- And A Time To think (Box 1) (21:38)\n5- Today I Am (26:22)\n6- The Legend Of The Kingfisher (32:",
+      "duration": 3375,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CvP2SKthGy8",
+      "title": "Gygafo   Legend Of The Kingfisher 1973 UK, Progressive  Folk Rock",
+      "description": "Gygafo - Legend Of The Kingfisher 1973 (UK, Progressive / Folk Rock)\n\nA little-known prog band from England who worked in the early '70s . Its name comes uppercase phrase : \"Get Your Gear And Fuck Off\", delivered after the owner of a small record label li",
+      "duration": 3376,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1CMiPRjrk1g",
+      "title": "Gygafo = Legend Of The  Kingfisher - 1973 - (Full Album)",
+      "description": "1) Solid Man Song - 12.09\n2) A Room With A View - 8.50\n3) Waiting For The Rain 1 - 3.55\n4) Entering Winds Of Long Ago 2 - 5.37\n5) Season's Weather (Coming Home) 3 - 4.45\n6) And A Time To Think (Box 1) - 5.46\n7) Today I Am - 9.57\n8) Legend Of The Kingfishe",
+      "duration": 3385,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xN0grXYJXUE",
+      "title": "Gygafo - ''And A Time To Think  (Box1)''",
+      "description": "Album: Legend Of The Kingfisher (1973) - UK\n\n John Atkinson / vocals, guitar, mandolin, flute, glockenspiel\n Paul Kent / bass \n Pete Nickson / drums, percussion \n Charlie Speed / lead guitar, backing vocals \n Eddie Stringer / keyboards, backing vocals",
+      "duration": 284,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2r77bk71ySA",
+      "title": "GYGAFO - SOLID MAN SONG #Pangaea's People",
+      "description": " ",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wcfrIJlgMnE",
+      "title": "Gygafo - Nineteen Eighty Four",
+      "description": "If the copyright holder deems that I affect his interests, please write to me (RainbowRockClub@gmail.com), and I'll remove the video.   \n\n\n- John Atkinson / vocals, guitar, mandolin, flute, glockenspiel\n- Paul Kent / bass\n- Pete Nickson / drums, percussio",
+      "duration": 319,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=072Mb8bjQbY",
+      "title": "Gygafo - A Room With A View",
+      "description": "If the copyright holder deems that I affect his interests, please write to me (RainbowRockClub@gmail.com), and I'll remove the video.   \n\n\n- John Atkinson / vocals, guitar, mandolin, flute, glockenspiel\n- Paul Kent / bass\n- Pete Nickson / drums, percussio",
+      "duration": 336,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=-x2UXTt7Ra4",
+      "title": "Gygafo - The Legend Of The Kingfisher",
+      "description": "John Atkinson - vocals, guitar, mandolin, flute, glockenspiel\nPaul Kent - bass \nPete Nickson - drums, percussion \nCharlie Speed - lead guitar, backing vocals \nEddie Stringer - keyboards, backing vocals \nMike Levon - saxophone, air guitar",
+      "duration": 593,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z_uWMGKNWBs",
+      "title": "GYGAFO -- Legend Of The Kingfisher -- 1973.wmv",
+      "description": "GYGAFO -- Legend Of The Kingfisher -- 1973 ( UK )\n\n\n1. Solid Man Song 00:01 \n\n 2. A Room With A View 03:55\n\n 3.a) Waiting For Rain\n         b) Entering Winds Of Long Ago\n          c) Season's Weather (Come Home) 09:31\n\n4. And A Time To Think (Box1) 21:39\n",
+      "duration": 3373,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wUVPHXdtRw8",
+      "title": "Gygafo - Legend Of The Kingfisher (1973) (Full Album)",
+      "description": "Tracklist:\n\n1- Solid Man Song (0:00)\n2- A Room With A View (3:54)\n3- Waiting For The Rain / Entering Winds Of Long Ago / Seasons weather (Coming Home) (9:30)\n4- And A Time To think (Box 1) (21:38)\n5- Today I Am (26:22)\n6- The Legend Of The Kingfisher (32:",
+      "duration": 3375,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=CvP2SKthGy8",
+      "title": "Gygafo   Legend Of The Kingfisher 1973 UK, Progressive  Folk Rock",
+      "description": "Gygafo - Legend Of The Kingfisher 1973 (UK, Progressive / Folk Rock)\n\nA little-known prog band from England who worked in the early '70s . Its name comes uppercase phrase : \"Get Your Gear And Fuck Off\", delivered after the owner of a small record label li",
+      "duration": 3376,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1CMiPRjrk1g",
+      "title": "Gygafo = Legend Of The  Kingfisher - 1973 - (Full Album)",
+      "description": "1) Solid Man Song - 12.09\n2) A Room With A View - 8.50\n3) Waiting For The Rain 1 - 3.55\n4) Entering Winds Of Long Ago 2 - 5.37\n5) Season's Weather (Coming Home) 3 - 4.45\n6) And A Time To Think (Box 1) - 5.46\n7) Today I Am - 9.57\n8) Legend Of The Kingfishe",
+      "duration": 3385,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xN0grXYJXUE",
+      "title": "Gygafo - ''And A Time To Think  (Box1)''",
+      "description": "Album: Legend Of The Kingfisher (1973) - UK\n\n John Atkinson / vocals, guitar, mandolin, flute, glockenspiel\n Paul Kent / bass \n Pete Nickson / drums, percussion \n Charlie Speed / lead guitar, backing vocals \n Eddie Stringer / keyboards, backing vocals",
+      "duration": 284,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=2r77bk71ySA",
+      "title": "GYGAFO - SOLID MAN SONG #Pangaea's People",
+      "description": " ",
+      "duration": 237,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=wcfrIJlgMnE",
+      "title": "Gygafo - Nineteen Eighty Four",
+      "description": "If the copyright holder deems that I affect his interests, please write to me (RainbowRockClub@gmail.com), and I'll remove the video.   \n\n\n- John Atkinson / vocals, guitar, mandolin, flute, glockenspiel\n- Paul Kent / bass\n- Pete Nickson / drums, percussio",
+      "duration": 319,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=072Mb8bjQbY",
+      "title": "Gygafo - A Room With A View",
+      "description": "If the copyright holder deems that I affect his interests, please write to me (RainbowRockClub@gmail.com), and I'll remove the video.   \n\n\n- John Atkinson / vocals, guitar, mandolin, flute, glockenspiel\n- Paul Kent / bass\n- Pete Nickson / drums, percussio",
+      "duration": 336,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=o28o98DHQNA",
+      "title": "Gygafo - Nineteen Eighty Four [1973 Folk Rock / Prog. Wales]",
+      "description": "Album:  Legend Of The Kingfisher\nUploaded by Rich at http://aftersabbath.blogspot.com\nFrom Progarchives: \"This is one of those \"miraculous\" release album that have popped up in the late 80's and early 90's about a 70's lost album or \"gem\". This group got ",
+      "duration": 319,
+      "embed": true
+    }
+  ],
+  "genres": "Rock",
+  "styles": ["Folk Rock", "Prog Rock"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Solid Man Song",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "A Room With A View",
+      "duration": ""
+    },
+    {
+      "position": "A3i",
+      "type_": "track",
+      "title": "Waiting For The Rain",
+      "duration": ""
+    },
+    {
+      "position": "A3ii",
+      "type_": "track",
+      "title": "Entering Winds Of Long Ago",
+      "duration": ""
+    },
+    {
+      "position": "A3iii",
+      "type_": "track",
+      "title": "Season's Weather (Coming Home)",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "And A Time To Think (Box 1)",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Today I Am",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Legend Of The Kingfisher",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/xSn48CpzboVGN6KllOOnQtqMANWpggM_KQE_3PhLaCQ/rs:fit/g:sm/q:90/h:593/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc3/Mi02OTYwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/xSn48CpzboVGN6KllOOnQtqMANWpggM_KQE_3PhLaCQ/rs:fit/g:sm/q:90/h:593/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc3/Mi02OTYwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Fo2NLTDkIXalsEUxUh1mUT2S54yX7OF5n95tr6DmeYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc3/Mi02OTYwLmpwZWc.jpeg",
+      "width": 590,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6ga1-ft2irjRpIhDFrCezJOusi8beP9yiQ3bkLJqkG0/rs:fit/g:sm/q:90/h:588/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc4/Mi0yMTYxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/6ga1-ft2irjRpIhDFrCezJOusi8beP9yiQ3bkLJqkG0/rs:fit/g:sm/q:90/h:588/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc4/Mi0yMTYxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/QD9hqewaTGgK6R5VkwQHuq_RguY1vHbP-EMQe-VvRLM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc4/Mi0yMTYxLmpwZWc.jpeg",
+      "width": 590,
+      "height": 588
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/R9mYk1VTuG09NHmzQevMJuKPkjcaAlyMRw3GqhbYPw4/rs:fit/g:sm/q:90/h:295/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc5/MS0zOTE2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/R9mYk1VTuG09NHmzQevMJuKPkjcaAlyMRw3GqhbYPw4/rs:fit/g:sm/q:90/h:295/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc5/MS0zOTE2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/liXU8RjjO-amii0w1ByFKJ9uoXi06TCZ32NOs7RraCY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc5/MS0zOTE2LmpwZWc.jpeg",
+      "width": 599,
+      "height": 295
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UwnPXtJep3NQxMHLqJOO20N__lQtNrAhvmWCkGihX9M/rs:fit/g:sm/q:90/h:599/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgw/Mi00NjY1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/UwnPXtJep3NQxMHLqJOO20N__lQtNrAhvmWCkGihX9M/rs:fit/g:sm/q:90/h:599/w:426/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgw/Mi00NjY1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wuFrsDGBbEgXi6i05jfQy4hcQU3CoNdLh-KRFpdgyT0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgw/Mi00NjY1LmpwZWc.jpeg",
+      "width": 426,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mGOr97kUeWPHroFJHkEwzCQa6o_zY1jc7Pi_joRT8tw/rs:fit/g:sm/q:90/h:599/w:423/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgx/MC0xNDc5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/mGOr97kUeWPHroFJHkEwzCQa6o_zY1jc7Pi_joRT8tw/rs:fit/g:sm/q:90/h:599/w:423/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgx/MC0xNDc5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/rCgb2mwTdrRTVMv1JkWsrSetKKASCS8HXzGqlC08PpI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgx/MC0xNDc5LmpwZWc.jpeg",
+      "width": 423,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/cjlTWPX7u1fUHnVNsyvUJqQUBhEOjTVwLzGYQVczEb0/rs:fit/g:sm/q:90/h:593/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgy/Mi02MDMxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/cjlTWPX7u1fUHnVNsyvUJqQUBhEOjTVwLzGYQVczEb0/rs:fit/g:sm/q:90/h:593/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgy/Mi02MDMxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/E_x-NcSq5hebg1tZXr4TO6uhiqjB8c4feUEcvNI_-Hs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgy/Mi02MDMxLmpwZWc.jpeg",
+      "width": 590,
+      "height": 593
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6vTOKi94n_htH2SyAgzuU86mtcT_TpQZuRPR8iJlU3U/rs:fit/g:sm/q:90/h:585/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgz/My05NjkzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/6vTOKi94n_htH2SyAgzuU86mtcT_TpQZuRPR8iJlU3U/rs:fit/g:sm/q:90/h:585/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgz/My05NjkzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_NFvlQC3u7mQ9eomBwFhDRRLXrwX2tn0dNMl0sFaYAk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTgz/My05NjkzLmpwZWc.jpeg",
+      "width": 590,
+      "height": 585
+    }
+  ],
+  "thumb": "https://i.discogs.com/Fo2NLTDkIXalsEUxUh1mUT2S54yX7OF5n95tr6DmeYA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMTkz/NTYtMTM0ODQwOTc3/Mi02OTYwLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

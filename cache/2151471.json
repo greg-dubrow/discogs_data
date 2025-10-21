@@ -1,0 +1,416 @@
+{
+  "id": 2151471,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/2151471",
+  "uri": "https://www.discogs.com/release/2151471-Various-A-Certain-Kind-Of-Freedom",
+  "artists": [
+    {
+      "name": "Various",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 194,
+      "resource_url": "https://api.discogs.com/artists/194"
+    }
+  ],
+  "artists_sort": "Various",
+  "labels": [
+    {
+      "name": "Polydor",
+      "catno": "841 923-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1610,
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+    },
+    {
+      "name": "Urban (2)",
+      "catno": "841 923-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4500,
+      "resource_url": "https://api.discogs.com/labels/4500",
+      "thumbnail_url": "https://i.discogs.com/QzcfMcWJbfXEDnRq_D-a8rdhobO0R_oO0-sthoGeN7U/rs:fit/g:sm/q:90/h:241/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ1MDAt/MTE0NDA3MjY2NC5q/cGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 75,
+    "want": 25,
+    "rating": {
+      "count": 2,
+      "average": 3.5
+    },
+    "submitter": {
+      "username": "HowardBanister",
+      "resource_url": "https://api.discogs.com/users/HowardBanister"
+    },
+    "contributors": [
+      {
+        "username": "HowardBanister",
+        "resource_url": "https://api.discogs.com/users/HowardBanister"
+      },
+      {
+        "username": "hellskidoo",
+        "resource_url": "https://api.discogs.com/users/hellskidoo"
+      },
+      {
+        "username": "Mineralman2",
+        "resource_url": "https://api.discogs.com/users/Mineralman2"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "dazzradd",
+        "resource_url": "https://api.discogs.com/users/dazzradd"
+      },
+      {
+        "username": "ol2b",
+        "resource_url": "https://api.discogs.com/users/ol2b"
+      },
+      {
+        "username": "Watts_David",
+        "resource_url": "https://api.discogs.com/users/Watts_David"
+      },
+      {
+        "username": "pedrofarmer",
+        "resource_url": "https://api.discogs.com/users/pedrofarmer"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2010-02-21T14:30:10-08:00",
+  "date_changed": "2020-10-30T09:21:27-07:00",
+  "num_for_sale": 16,
+  "lowest_price": 3,
+  "master_id": 347209,
+  "master_url": "https://api.discogs.com/masters/347209",
+  "title": "A Certain Kind Of Freedom",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=jlH4xj7pJfc",
+      "title": "A certain kind of freedom - feat.  Sarah Jane Morris, Steve White and Paul Carr",
+      "description": "Taken from the compilation cd of the same title.",
+      "duration": 276,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VB_MU6tgJ8M",
+      "title": "Mick Talbot - That Guy Called Pumpkin",
+      "description": "Surprisingly the only recording by Mick Talbot released under his own single name is not yet on utube, so here tis now :) . It's taken from \"A Certain Kind Of Freedom\", released just after The Style Council split and sounds like a sort of funky \"Mick's Co",
+      "duration": 283,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=jlH4xj7pJfc",
+      "title": "A certain kind of freedom - feat.  Sarah Jane Morris, Steve White and Paul Carr",
+      "description": "Taken from the compilation cd of the same title.",
+      "duration": 276,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VB_MU6tgJ8M",
+      "title": "Mick Talbot - That Guy Called Pumpkin",
+      "description": "Surprisingly the only recording by Mick Talbot released under his own single name is not yet on utube, so here tis now :) . It's taken from \"A Certain Kind Of Freedom\", released just after The Style Council split and sounds like a sort of funky \"Mick's Co",
+      "duration": 283,
+      "embed": true
+    }
+  ],
+  "genres": ["Jazz", "Funk / Soul"],
+  "styles": ["Fusion", "Jazz-Funk"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Mick Talbot",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 83018,
+          "resource_url": "https://api.discogs.com/artists/83018"
+        }
+      ],
+      "title": "That Guy Called Pumpkin",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Backbone (19)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4347672,
+          "resource_url": "https://api.discogs.com/artists/4347672"
+        }
+      ],
+      "title": "To The Top",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Sarah Jane Morris",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 53441,
+          "resource_url": "https://api.discogs.com/artists/53441"
+        },
+        {
+          "name": "Steve White (3)",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 264979,
+          "resource_url": "https://api.discogs.com/artists/264979"
+        },
+        {
+          "name": "Paul Carr",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 362878,
+          "resource_url": "https://api.discogs.com/artists/362878"
+        }
+      ],
+      "title": "A Certain Kind Of Freedom",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Lenny Peterson",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1633507,
+          "resource_url": "https://api.discogs.com/artists/1633507"
+        }
+      ],
+      "title": "Going Away",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Scott Garland",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 236159,
+          "resource_url": "https://api.discogs.com/artists/236159"
+        },
+        {
+          "name": "Steve White (3)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 264979,
+          "resource_url": "https://api.discogs.com/artists/264979"
+        }
+      ],
+      "title": "Thank You (Falletin Me Be Mice Elf Agin) - Safe Sax Mix",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Emjiem",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1730445,
+          "resource_url": "https://api.discogs.com/artists/1730445"
+        }
+      ],
+      "title": "In The Mould",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Paul Carr Quartet",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1730443,
+          "resource_url": "https://api.discogs.com/artists/1730443"
+        }
+      ],
+      "title": "The Liquidator",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Phil Gould",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 282896,
+          "resource_url": "https://api.discogs.com/artists/282896"
+        }
+      ],
+      "title": "A Road Less Travelled",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "James McMillan Quartet",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1730444,
+          "resource_url": "https://api.discogs.com/artists/1730444"
+        }
+      ],
+      "title": "Waltz For Lucia",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Gary Husband",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 324969,
+          "resource_url": "https://api.discogs.com/artists/324969"
+        }
+      ],
+      "title": "There Will Never Be Another You",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Ian Horne",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 262624,
+      "resource_url": "https://api.discogs.com/artists/262624"
+    },
+    {
+      "name": "Ian Horne",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 262624,
+      "resource_url": "https://api.discogs.com/artists/262624"
+    },
+    {
+      "name": "Gary Husband",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "B5",
+      "id": 324969,
+      "resource_url": "https://api.discogs.com/artists/324969"
+    },
+    {
+      "name": "Steve White (3)",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "A1 to B4",
+      "id": 264979,
+      "resource_url": "https://api.discogs.com/artists/264979"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/2bftBMR0ZfC2soxS35xagF3294mb11C0t9-X94qgZFM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTI2Njc5MTc2/NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/2bftBMR0ZfC2soxS35xagF3294mb11C0t9-X94qgZFM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTI2Njc5MTc2/NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/WwcHiV8ot6_FXppKn6wbaV205xGfHn-4inNdakotqwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTI2Njc5MTc2/NS5qcGVn.jpeg",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YveV6RTWxcERTIZ_7mk34l6BxZNdnifgG5mkX98SOCE/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/NC0xNjE2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/YveV6RTWxcERTIZ_7mk34l6BxZNdnifgG5mkX98SOCE/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/NC0xNjE2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/mSmT0fyibJpIIWbS7BJwFxeigbmibI6R-nMpJP7rX-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/NC0xNjE2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 575
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/P5C9uj-Rjt2wuISncJSrIW9baxUbpCEspU4olqiCegY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/MC04MDI4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/P5C9uj-Rjt2wuISncJSrIW9baxUbpCEspU4olqiCegY/rs:fit/g:sm/q:90/h:600/w:592/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/MC04MDI4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wGFj3rTcBj0xaqt1lkn6Pk58730h4XVkBWx_5Cfh4mE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/MC04MDI4LmpwZWc.jpeg",
+      "width": 592,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/EXxMs53T6rs2FuDCtxNr9jmN3JhJ7TbCCxQuRF2yADo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/MS00MTAyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/EXxMs53T6rs2FuDCtxNr9jmN3JhJ7TbCCxQuRF2yADo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/MS00MTAyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/nh25lcxllH78g3fppPAklWoDvQV4CWXno4XQn93vQLw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTU4Mjk5MDE3/MS00MTAyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 594
+    }
+  ],
+  "thumb": "https://i.discogs.com/WwcHiV8ot6_FXppKn6wbaV205xGfHn-4inNdakotqwA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTE0/NzEtMTI2Njc5MTc2/NS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

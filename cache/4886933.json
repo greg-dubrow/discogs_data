@@ -1,0 +1,261 @@
+{
+  "id": 4886933,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/4886933",
+  "uri": "https://www.discogs.com/release/4886933-Skin-Lagoon-Adventure-In-The-Love-Trade",
+  "artists": [
+    {
+      "name": "Skin Lagoon",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 757514,
+      "resource_url": "https://api.discogs.com/artists/757514"
+    }
+  ],
+  "artists_sort": "Skin Lagoon",
+  "labels": [
+    {
+      "name": "Big Life",
+      "catno": "BLR LP2",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 616,
+      "resource_url": "https://api.discogs.com/labels/616",
+      "thumbnail_url": "https://i.discogs.com/gNTSyaI4Yzj0UCgnHeM8S_k6IeAOObGTjSQsAQYlr2g/rs:fit/g:sm/q:90/h:600/w:370/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYxNi0x/NDAzMzg4MDM1LTM4/NTUuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 22,
+    "want": 1,
+    "rating": {
+      "count": 1,
+      "average": 5
+    },
+    "submitter": {
+      "username": "waltercrezz",
+      "resource_url": "https://api.discogs.com/users/waltercrezz"
+    },
+    "contributors": [
+      {
+        "username": "waltercrezz",
+        "resource_url": "https://api.discogs.com/users/waltercrezz"
+      },
+      {
+        "username": "drsteviedj",
+        "resource_url": "https://api.discogs.com/users/drsteviedj"
+      },
+      {
+        "username": "mannypig6",
+        "resource_url": "https://api.discogs.com/users/mannypig6"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-09-06T14:14:19-07:00",
+  "date_changed": "2015-05-21T18:29:34-07:00",
+  "num_for_sale": 8,
+  "lowest_price": 3.77,
+  "master_id": 838993,
+  "master_url": "https://api.discogs.com/masters/838993",
+  "title": "Adventure In The Love Trade",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Dedicated to William H. Gamwells.\r\nC/W lyric sleeve",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5 016721320025"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 6816"
+    }
+  ],
+  "videos": [],
+  "genres": "Rock",
+  "styles": "Folk Rock",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Dance With Me",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "What More Can I Say",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Loud Green Book",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Red Red Rose",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Bumper To Bumper",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Sweet Mary",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Jealous Heart",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Northern Girl",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "He's Not The Man (She's Not The Girl)",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Heavens Dream",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Alan Dunn",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 481426,
+      "resource_url": "https://api.discogs.com/artists/481426"
+    },
+    {
+      "name": "BJ Cole",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 61104,
+      "resource_url": "https://api.discogs.com/artists/61104"
+    },
+    {
+      "name": "Bobby Valentino",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 225506,
+      "resource_url": "https://api.discogs.com/artists/225506"
+    },
+    {
+      "name": "Dave Ralphs",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 757512,
+      "resource_url": "https://api.discogs.com/artists/757512"
+    },
+    {
+      "name": "Helen Moore",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 757510,
+      "resource_url": "https://api.discogs.com/artists/757510"
+    },
+    {
+      "name": "Jerry Hogan",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 757513,
+      "resource_url": "https://api.discogs.com/artists/757513"
+    },
+    {
+      "name": "Roger Goslin",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 757509,
+      "resource_url": "https://api.discogs.com/artists/757509"
+    },
+    {
+      "name": "Swan (9)",
+      "anv": "",
+      "join": "",
+      "role": "Performer",
+      "tracks": "",
+      "id": 784305,
+      "resource_url": "https://api.discogs.com/artists/784305"
+    },
+    {
+      "name": "Geoffrey Sample",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 757511,
+      "resource_url": "https://api.discogs.com/artists/757511"
+    },
+    {
+      "name": "Jerry Boys",
+      "anv": "",
+      "join": "",
+      "role": "Remix",
+      "tracks": "",
+      "id": 98905,
+      "resource_url": "https://api.discogs.com/artists/98905"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/mnhNmfzQlRLUsFd-XVi_zro5cqQt89EeXxfNlsUWopU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODY5/MzMtMTQwMzU1NzI1/NS01OTI4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/mnhNmfzQlRLUsFd-XVi_zro5cqQt89EeXxfNlsUWopU/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODY5/MzMtMTQwMzU1NzI1/NS01OTI4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/5lykNbnMjR5asO4FwMM1go1_1fZTRFvlhOnV0uKPpP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODY5/MzMtMTQwMzU1NzI1/NS01OTI4LmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/5lykNbnMjR5asO4FwMM1go1_1fZTRFvlhOnV0uKPpP8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4ODY5/MzMtMTQwMzU1NzI1/NS01OTI4LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,252 @@
+{
+  "id": 4959156,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/4959156",
+  "uri": "https://www.discogs.com/release/4959156-Everis-Back-To-Basics",
+  "artists": [
+    {
+      "name": "Everis",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 55070,
+      "resource_url": "https://api.discogs.com/artists/55070",
+      "thumbnail_url": "https://i.discogs.com/knJPmkVP29w50Dl4lpfJPQHbNKvho81-BfztmRn0CwQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU1MDcw/LTE0ODE1NzA5NzIt/OTkwNC5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Everis",
+  "labels": [
+    {
+      "name": "Soultown",
+      "catno": "SOUL 009",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 30314,
+      "resource_url": "https://api.discogs.com/labels/30314",
+      "thumbnail_url": "https://i.discogs.com/J01VtclE-k2Bc-q6mv-F5gmkmxNZl85NXooV6abZmJE/rs:fit/g:sm/q:90/h:155/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMzE0/LTE0NzExNDg4NzQt/Njk5My5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP",
+      "text": "White Label Promo"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 18,
+    "want": 32,
+    "rating": {
+      "count": 2,
+      "average": 5
+    },
+    "submitter": {
+      "username": "soulboyone",
+      "resource_url": "https://api.discogs.com/users/soulboyone"
+    },
+    "contributors": [
+      {
+        "username": "soulboyone",
+        "resource_url": "https://api.discogs.com/users/soulboyone"
+      },
+      {
+        "username": "shylok",
+        "resource_url": "https://api.discogs.com/users/shylok"
+      },
+      {
+        "username": "birchall",
+        "resource_url": "https://api.discogs.com/users/birchall"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-10-01T00:48:21-07:00",
+  "date_changed": "2018-11-05T07:07:04-08:00",
+  "num_for_sale": 6,
+  "lowest_price": 5.32,
+  "master_id": 722186,
+  "master_url": "https://api.discogs.com/masters/722186",
+  "title": "Back To Basics",
+  "country": "UK",
+  "released": "1990",
+  "notes": "White Label Promo copy of this LP with Hand Written Artist (Incorrectly Spelt) & LP Title on side A",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=95d55xRX_tU",
+      "title": "Everis - Get Your Love - Back to Basics",
+      "description": "Everis - Get Your Love - Back to Basics - Soul Town Records",
+      "duration": 243,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IQ0yl7cswso",
+      "title": "Everis, Don't Stop the Love",
+      "description": "Everis, Don't Stop the Love taken from the Album '' Back to Basics''  SOULTOWN 1990",
+      "duration": 200,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5cni5BhbQ8s",
+      "title": "Stay Awake All Night",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nStay Awake All Night · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis",
+      "duration": 257,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AlySROcZvWg",
+      "title": "Get Your Love",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nGet Your Love · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis Pelliu",
+      "duration": 248,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=oxf6XoLDe4s",
+      "title": "My Latin Experience",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nMy Latin Experience · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis ",
+      "duration": 213,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pCKk88y1I7Q",
+      "title": "Don't Stop the Love",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nDon't Stop the Love · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis ",
+      "duration": 221,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GZXZY8BiEw4",
+      "title": "Hooked on You",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nHooked on You · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis Pelliu",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=etQrpFs5R5I",
+      "title": "Sweetest Love",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nSweetest Love · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis Pelliu",
+      "duration": 216,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=QunkBmNNRyQ",
+      "title": "Girl",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nGirl · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis Pellius\nLyricis",
+      "duration": 286,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=nJL42YZ0WPo",
+      "title": "Everis - One Of A Kind 1999",
+      "description": "Label:Stone Cold Gentleman Records\nFormat:CD, Album\nCountry:UK\nReleased:2007 (Recorded By 1999)",
+      "duration": 280,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=TxtinmnB6aw",
+      "title": "Everis     Better Love",
+      "description": "",
+      "duration": 259,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=4kffazJ-ok0",
+      "title": "Better Love",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nBetter Love · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nComposer: Everis Pellius\nLyricist: Everis Pellius\nM",
+      "duration": 194,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=F7SbBqxEoQI",
+      "title": "Say",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nSay · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis Pellius\nLyricist",
+      "duration": 282,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=suRH8bquP18",
+      "title": "Looking for a Lover",
+      "description": "Provided to YouTube by Horus Music Ltd\n\nLooking for a Lover · Everis\n\nBack to Basics\n\n℗ 2016 EPM Recordings\n\nReleased on: 2016-12-16\n\nMixer: Everis\nProducer: Everis\nMixer: Michael Daley\nMixer: Orlando Gittens\nProducer: Orlando Gittens\nComposer: Everis ",
+      "duration": 306,
+      "embed": true
+    }
+  ],
+  "genres": ["Electronic", "Funk / Soul"],
+  "styles": ["Downtempo", "UK Street Soul"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Get Your Love",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Say",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Hooked On You",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Don't Stop The Love",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Sweetest Love",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Looking For A Lover",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Stay Awake All Night",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "My Latin Experience",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Better Love",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Girl",
+      "duration": ""
+    }
+  ],
+  "images": [],
+  "thumb": "",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

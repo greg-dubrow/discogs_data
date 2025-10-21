@@ -1,0 +1,280 @@
+{
+  "id": 3074208,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/3074208",
+  "uri": "https://www.discogs.com/release/3074208-LILT-For-The-Children",
+  "artists": [
+    {
+      "name": "The London Irish Live Trust",
+      "anv": "LILT",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1844597,
+      "resource_url": "https://api.discogs.com/artists/1844597"
+    }
+  ],
+  "artists_sort": "London Irish Live Trust, The",
+  "labels": [
+    {
+      "name": "Alias Records (3)",
+      "catno": "ETLP 191",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 198036,
+      "resource_url": "https://api.discogs.com/labels/198036",
+      "thumbnail_url": "https://i.discogs.com/55ZpNnu5Mxfb4YbX4vvEoj2rQ0GixnL3DWraof14Qrg/rs:fit/g:sm/q:90/h:182/w:314/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE5ODAz/Ni0xNDQ2ODIzNjAz/LTQ0ODguanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 106,
+    "want": 10,
+    "rating": {
+      "count": 8,
+      "average": 3.5
+    },
+    "submitter": {
+      "username": "henning1969",
+      "resource_url": "https://api.discogs.com/users/henning1969"
+    },
+    "contributors": [
+      {
+        "username": "henning1969",
+        "resource_url": "https://api.discogs.com/users/henning1969"
+      },
+      {
+        "username": "Vinylnuggets",
+        "resource_url": "https://api.discogs.com/users/Vinylnuggets"
+      },
+      {
+        "username": "Fast-n-bulbous",
+        "resource_url": "https://api.discogs.com/users/Fast-n-bulbous"
+      },
+      {
+        "username": "MrFixerUpper",
+        "resource_url": "https://api.discogs.com/users/MrFixerUpper"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "foreveryoungrecords",
+        "resource_url": "https://api.discogs.com/users/foreveryoungrecords"
+      },
+      {
+        "username": "notneils",
+        "resource_url": "https://api.discogs.com/users/notneils"
+      },
+      {
+        "username": "niepco",
+        "resource_url": "https://api.discogs.com/users/niepco"
+      },
+      {
+        "username": "Northern_lights",
+        "resource_url": "https://api.discogs.com/users/Northern_lights"
+      },
+      {
+        "username": "jcrecordshop",
+        "resource_url": "https://api.discogs.com/users/jcrecordshop"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2011-08-27T15:18:21-07:00",
+  "date_changed": "2025-01-13T07:36:48-08:00",
+  "num_for_sale": 20,
+  "lowest_price": 5.41,
+  "master_id": 560745,
+  "master_url": "https://api.discogs.com/masters/560745",
+  "title": "For The Children",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Single cover, stickered. Inner bag with lyrics and credits",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5018524016914",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=ikoKnUlJIP4",
+      "title": "LILT - Tralee Trembles",
+      "description": "Jig irlandese eseguita da un gruppo di musicisti e artisti irlandesi riuniti nel London Irish Live Trust (LILT), a sostegno della pace nel Nord dell'Irlanda. Dal l'album \"For the children\" (1990).",
+      "duration": 321,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uAjjJ4zeQCQ",
+      "title": "The Pogues - Irish Ways",
+      "description": "The Pogues\r\nThe London Irish Live Trust: For The Children\r\nIrish Ways",
+      "duration": 324,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ikoKnUlJIP4",
+      "title": "LILT - Tralee Trembles",
+      "description": "Jig irlandese eseguita da un gruppo di musicisti e artisti irlandesi riuniti nel London Irish Live Trust (LILT), a sostegno della pace nel Nord dell'Irlanda. Dal l'album \"For the children\" (1990).",
+      "duration": 321,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uAjjJ4zeQCQ",
+      "title": "The Pogues - Irish Ways",
+      "description": "The Pogues\r\nThe London Irish Live Trust: For The Children\r\nIrish Ways",
+      "duration": 324,
+      "embed": true
+    }
+  ],
+  "genres": "Folk, World, & Country",
+  "styles": "Folk",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Tralee Trembles",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Blackwaterside",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Johnny",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Child Of Ulster",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Caoimhneadh Roisin/Tre, Ceathar, A Hocht",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "The Less Said...",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "For The Children",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Irish Ways",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Martin Hall (4)",
+      "anv": "M. Hall",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "B2",
+      "id": 667633,
+      "resource_url": "https://api.discogs.com/artists/667633"
+    },
+    {
+      "name": "Mick Molloy (2)",
+      "anv": "M. Molloy",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "A4",
+      "id": 1573343,
+      "resource_url": "https://api.discogs.com/artists/1573343"
+    },
+    {
+      "name": "Ron Kavana",
+      "anv": "R. Kavana",
+      "join": "",
+      "role": "Written-By, Arranged By, Producer",
+      "tracks": "",
+      "id": 306689,
+      "resource_url": "https://api.discogs.com/artists/306689"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/PuIYLKmt6wO63K-hJMDwfuzYgQ00cg_yWeVly-BewGI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTQ1NzcxNzA2/NS00MjM1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/PuIYLKmt6wO63K-hJMDwfuzYgQ00cg_yWeVly-BewGI/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTQ1NzcxNzA2/NS00MjM1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/N9bOVER8l2IOD3KzPNvzjJA-FlXiH3H3yf3Z4klWXbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTQ1NzcxNzA2/NS00MjM1LmpwZWc.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ODz4ef62KV38vwLRWcd_d548q-T_LKnbVVbVrsdra2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTQ1NzcxNzA2/OC05NTU4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ODz4ef62KV38vwLRWcd_d548q-T_LKnbVVbVrsdra2E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTQ1NzcxNzA2/OC05NTU4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/RzkVsq1trZ222f6sA-JTwMrNj9auX7rx4K9aIpGmPZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTQ1NzcxNzA2/OC05NTU4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/G0N8o3Q4U0gyUf9m9arOKr-1-OV2ez0gAcUSdPz_NPo/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTYxNDQxNzkz/NC0zMDg1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/G0N8o3Q4U0gyUf9m9arOKr-1-OV2ez0gAcUSdPz_NPo/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTYxNDQxNzkz/NC0zMDg1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/GSApWa1yqvZPDNjPXDl4CK6oR7xmtExO74U58908ocw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTYxNDQxNzkz/NC0zMDg1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 586
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hVIIknxQR0nt3U9tJq26rypCJvLn3O-f9z9HNhpDA14/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTYxNDQxNzkz/Mi02MzUwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/hVIIknxQR0nt3U9tJq26rypCJvLn3O-f9z9HNhpDA14/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTYxNDQxNzkz/Mi02MzUwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ZDGXA0xI7Qgdn30dGNHInFJHzcLE8FmbLbOcDAVk_-w/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTYxNDQxNzkz/Mi02MzUwLmpwZWc.jpeg",
+      "width": 579,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/jfdvV0WPvBTrTF_xLsKD-Pgq-nO7eO7J6sS6aw7BCU0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTcyMDQ1NDE0/NS00NTE3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jfdvV0WPvBTrTF_xLsKD-Pgq-nO7eO7J6sS6aw7BCU0/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTcyMDQ1NDE0/NS00NTE3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/oUA1igB6uEkDfBW0aWCXxcvEHmJuGQAUjUAKFjU_0Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTcyMDQ1NDE0/NS00NTE3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/piwgOAjlbub1jNfYd6KxL-hTywxI9X56gjrLt83mMRE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTcyMDQ1NDE0/NS03NjA2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/piwgOAjlbub1jNfYd6KxL-hTywxI9X56gjrLt83mMRE/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTcyMDQ1NDE0/NS03NjA2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/OIQ3LIvFuoNWzZicYblMf8mLVgRl1JSlks5T-JOxACE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTcyMDQ1NDE0/NS03NjA2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 595
+    }
+  ],
+  "thumb": "https://i.discogs.com/N9bOVER8l2IOD3KzPNvzjJA-FlXiH3H3yf3Z4klWXbg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzQy/MDgtMTQ1NzcxNzA2/NS00MjM1LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

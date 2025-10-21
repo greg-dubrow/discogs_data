@@ -1,0 +1,212 @@
+{
+  "id": 2084684,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/2084684",
+  "uri": "https://www.discogs.com/release/2084684-Nick-Robertson-2-And-Slice-10-Bullet-Proof-Boy",
+  "artists": [
+    {
+      "name": "Nick Robertson (2)",
+      "anv": "",
+      "join": "And",
+      "role": "",
+      "tracks": "",
+      "id": 1214175,
+      "resource_url": "https://api.discogs.com/artists/1214175"
+    },
+    {
+      "name": "Slice (10)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1354382,
+      "resource_url": "https://api.discogs.com/artists/1354382"
+    }
+  ],
+  "artists_sort": "Nick Robertson (2) And Slice (10)",
+  "labels": [
+    {
+      "name": "Circa",
+      "catno": "CIRCA 13",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 39413,
+      "resource_url": "https://api.discogs.com/labels/39413",
+      "thumbnail_url": "https://i.discogs.com/Davt1mOdR6PIpsersQFURoch8Th7sNS5NKXAZ7FenvE/rs:fit/g:sm/q:90/h:356/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM5NDEz/LTE1NDQ0Mjk5ODgt/NDQ2Mi5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 37,
+    "want": 6,
+    "rating": {
+      "count": 1,
+      "average": 1
+    },
+    "submitter": {
+      "username": "GDM_Music",
+      "resource_url": "https://api.discogs.com/users/GDM_Music"
+    },
+    "contributors": [
+      {
+        "username": "GDM_Music",
+        "resource_url": "https://api.discogs.com/users/GDM_Music"
+      },
+      {
+        "username": "asylum27",
+        "resource_url": "https://api.discogs.com/users/asylum27"
+      },
+      {
+        "username": "PhaedraP",
+        "resource_url": "https://api.discogs.com/users/PhaedraP"
+      },
+      {
+        "username": "IMP_RECORDS",
+        "resource_url": "https://api.discogs.com/users/IMP_RECORDS"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2010-01-10T03:19:46-08:00",
+  "date_changed": "2013-09-04T01:23:16-07:00",
+  "num_for_sale": 12,
+  "lowest_price": 5.39,
+  "master_id": 309436,
+  "master_url": "https://api.discogs.com/masters/309436",
+  "title": "Bullet Proof Boy",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Inner sleeve.",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=uXxQatpc430",
+      "title": "Nick Robertson - 06 - Slice Of Heaven",
+      "description": "",
+      "duration": 173,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uXxQatpc430",
+      "title": "Nick Robertson - 06 - Slice Of Heaven",
+      "description": "",
+      "duration": 173,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=np15KXPzYCc",
+      "title": "Nick Robertson and Slice -- Pride and Joy",
+      "description": "For some reason Nick Robertson did very well at not selling records. Even today you can pick up his excellent 'Bullet Proof Boy' album for next to nothing through Amazon. It's definitely worth it, especially if you're a fan of Irish singer songwriters in ",
+      "duration": 353,
+      "embed": true
+    }
+  ],
+  "genres": "Rock",
+  "styles": ["Blues Rock", "Acoustic"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Mind Reader",
+      "duration": "4:32"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Show Me A Sign",
+      "duration": "4:40"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Pride & Joy",
+      "duration": "5:45"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Love, Life And Happiness",
+      "duration": "4:33"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "She's Looking Tired",
+      "duration": "4:18"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Slice Of Heaven",
+      "duration": "2:48"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Kiss Of Forgiveness",
+      "duration": "4:38"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Reach Out & Touch The Moon",
+      "duration": "5:01"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Bullet Proof Boy",
+      "duration": "3:28"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Punch A Wall",
+      "duration": "4:41"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "The Flame",
+      "duration": "5:08"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Pat Moran",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 182463,
+      "resource_url": "https://api.discogs.com/artists/182463"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/wd1yeBEMp9Er4trMD3roNKV-wNNzBH5MCV8KBtqfRwc/rs:fit/g:sm/q:90/h:300/w:297/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ2/ODQtMTM3ODI4Mjk4/Ni03NTkzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/wd1yeBEMp9Er4trMD3roNKV-wNNzBH5MCV8KBtqfRwc/rs:fit/g:sm/q:90/h:300/w:297/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ2/ODQtMTM3ODI4Mjk4/Ni03NTkzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/UmwM3vEOerUXyMFJNBQuh4ywrCesNTAhBs3F-yGkoNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ2/ODQtMTM3ODI4Mjk4/Ni03NTkzLmpwZWc.jpeg",
+      "width": 297,
+      "height": 300
+    }
+  ],
+  "thumb": "https://i.discogs.com/UmwM3vEOerUXyMFJNBQuh4ywrCesNTAhBs3F-yGkoNM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODQ2/ODQtMTM3ODI4Mjk4/Ni03NTkzLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

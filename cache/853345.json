@@ -1,0 +1,292 @@
+{
+  "id": 853345,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/853345",
+  "uri": "https://www.discogs.com/release/853345-Pinkie-Maclure-And-The-Puritans-This-Dirty-Life",
+  "artists": [
+    {
+      "name": "Pinkie Maclure And The Puritans",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 689636,
+      "resource_url": "https://api.discogs.com/artists/689636"
+    }
+  ],
+  "artists_sort": "Pinkie Maclure And The Puritans",
+  "labels": [
+    {
+      "name": "Brave Records",
+      "catno": "BND5LP",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 30553,
+      "resource_url": "https://api.discogs.com/labels/30553",
+      "thumbnail_url": "https://i.discogs.com/DVeQvB55gRwNtHrZ8FxuyhYTYln-xLQXPI8DQkZpDGk/rs:fit/g:sm/q:90/h:200/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNTUz/LTE2OTgxMDAyNTct/ODcyNC5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 69,
+    "want": 38,
+    "rating": {
+      "count": 8,
+      "average": 4.25
+    },
+    "submitter": {
+      "username": "xendemon",
+      "resource_url": "https://api.discogs.com/users/xendemon"
+    },
+    "contributors": [
+      {
+        "username": "xendemon",
+        "resource_url": "https://api.discogs.com/users/xendemon"
+      },
+      {
+        "username": "onelittle",
+        "resource_url": "https://api.discogs.com/users/onelittle"
+      },
+      {
+        "username": "PinkieMaclure",
+        "resource_url": "https://api.discogs.com/users/PinkieMaclure"
+      },
+      {
+        "username": "christian-Legrand",
+        "resource_url": "https://api.discogs.com/users/christian-Legrand"
+      },
+      {
+        "username": "lex_lilith",
+        "resource_url": "https://api.discogs.com/users/lex_lilith"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2006-12-08T08:09:13-08:00",
+  "date_changed": "2024-10-27T19:42:31-07:00",
+  "num_for_sale": 7,
+  "lowest_price": 21.33,
+  "master_id": 269524,
+  "master_url": "https://api.discogs.com/masters/269524",
+  "title": "This Dirty Life",
+  "country": "UK",
+  "released": "1990",
+  "notes": "SLEEVE SAYS: Cat No: BND5LP  Made in England\nLABEL SAYS: Made In France",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=4PQNnfJz9wk",
+      "title": "Pinkie Maclure And The Puritans - Pie Dog Squirm",
+      "description": "\"This Dirty Life\", 1990\n\nhttps://www.discogs.com/release/851338-Pinkie-Maclure-And-The-Puritans-This-Dirty-Life\nhttps://pinkiemaclure.bandcamp.com/music\nhttps://www.pinkiemaclure.net/",
+      "duration": 284,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=w5lUVezthP4",
+      "title": "Pinkie Maclure And The Puritans - Leeches",
+      "description": "\"This Dirty Life\", 1990\n\nhttps://www.discogs.com/release/851338-Pinkie-Maclure-And-The-Puritans-This-Dirty-Life\nhttps://pinkiemaclure.bandcamp.com/music\nhttps://www.pinkiemaclure.net/",
+      "duration": 324,
+      "embed": true
+    }
+  ],
+  "genres": "Rock",
+  "styles": "Indie Rock",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Horns Off",
+      "duration": "4:43"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Pie Dog Squirm",
+      "duration": "4:43"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Salvage",
+      "duration": "4:24"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Leeches",
+      "duration": "5:23"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "A Gathering Of Skin",
+      "duration": "2:33"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Eel Pout",
+      "duration": "4:33"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Gluttony",
+      "duration": "5:09"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Sensitive",
+      "duration": "3:50"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Tasty",
+      "duration": "3:47"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Peter Smith",
+      "anv": "",
+      "join": "",
+      "role": "Artwork By [Front Cover Built By]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Michael Joseph (2)",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 1090536,
+      "resource_url": "https://api.discogs.com/artists/1090536"
+    },
+    {
+      "name": "Dave Bryant (2)",
+      "anv": "",
+      "join": "",
+      "role": "Drums, Percussion",
+      "tracks": "",
+      "id": 1090535,
+      "resource_url": "https://api.discogs.com/artists/1090535"
+    },
+    {
+      "name": "Mel Jefferson",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 149624,
+      "resource_url": "https://api.discogs.com/artists/149624"
+    },
+    {
+      "name": "Nick Page",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 315236,
+      "resource_url": "https://api.discogs.com/artists/315236"
+    },
+    {
+      "name": "Rico Toole",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Back Cover]",
+      "tracks": "",
+      "id": 15253530,
+      "resource_url": "https://api.discogs.com/artists/15253530"
+    },
+    {
+      "name": "Stephen Lovell-Davis",
+      "anv": "",
+      "join": "",
+      "role": "Photography By [Front Cover]",
+      "tracks": "",
+      "id": 1910933,
+      "resource_url": "https://api.discogs.com/artists/1910933"
+    },
+    {
+      "name": "Simon Smith (5)",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone",
+      "tracks": "",
+      "id": 1042813,
+      "resource_url": "https://api.discogs.com/artists/1042813"
+    },
+    {
+      "name": "Pinkie Maclure",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Piano, Sampler",
+      "tracks": "",
+      "id": 159352,
+      "resource_url": "https://api.discogs.com/artists/159352"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/fNc58nbzqVCULT9n426l0yEjJQbdtdfawUs_1zzb-dk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODU0/LTM2NjkuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/fNc58nbzqVCULT9n426l0yEjJQbdtdfawUs_1zzb-dk/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODU0/LTM2NjkuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/losNjOPn1O7jcVhexmNeSBHo9ovgvvWojKp_Rk8f0xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODU0/LTM2NjkuanBlZw.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Nppu1--xNgYlpJy-B1KYim5vmX_hRtFQndUI1mpJq-w/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODY5/LTY1MDguanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/Nppu1--xNgYlpJy-B1KYim5vmX_hRtFQndUI1mpJq-w/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODY5/LTY1MDguanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/L3sSH5Oh6Rp3ZQlqlEiZGQcxsFWp6tAS2eDktxJPLMI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODY5/LTY1MDguanBlZw.jpeg",
+      "width": 587,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/6-gOgAurxFM7PBUyIzlz7waC-iC7y-HoqTx8P34-TWQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODgy/LTk2NzcuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/6-gOgAurxFM7PBUyIzlz7waC-iC7y-HoqTx8P34-TWQ/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODgy/LTk2NzcuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/kGarZz2zncV-F5WV5fn9gvK2pby4yN27RjB13yTq5DQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODgy/LTk2NzcuanBlZw.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/oeD2b5cfTviJTNRiS2WLl3yAeloh3g34JGsDeWdDaO8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODk3/LTUxODYuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/oeD2b5cfTviJTNRiS2WLl3yAeloh3g34JGsDeWdDaO8/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODk3/LTUxODYuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/l30BUunZHrWhyeiyBYjNooylcGGPMV4P7B_gvfwG_S8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODk3/LTUxODYuanBlZw.jpeg",
+      "width": 598,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/fDTeQQ-f9MT1pETIOyz0HUw52xDyd4Y0U4RMAIDACTs/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDU4MTU4Mzg4/LTExNTMuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/fDTeQQ-f9MT1pETIOyz0HUw52xDyd4Y0U4RMAIDACTs/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDU4MTU4Mzg4/LTExNTMuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/dxVstLHjvJ2cT8ZRWSV9JNffdE5cE9PsxZDXnvl44PM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDU4MTU4Mzg4/LTExNTMuanBlZw.jpeg",
+      "width": 600,
+      "height": 337
+    }
+  ],
+  "thumb": "https://i.discogs.com/losNjOPn1O7jcVhexmNeSBHo9ovgvvWojKp_Rk8f0xQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MzM0/NS0xNDg0Mzg3ODU0/LTM2NjkuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

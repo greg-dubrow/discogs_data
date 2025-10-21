@@ -1,0 +1,427 @@
+{
+  "id": 117941,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/117941",
+  "uri": "https://www.discogs.com/release/117941-Shades-Of-Rhythm-Frequency",
+  "artists": [
+    {
+      "name": "Shades Of Rhythm",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 7437,
+      "resource_url": "https://api.discogs.com/artists/7437",
+      "thumbnail_url": "https://i.discogs.com/IgexnCjIeCzZMViiD1X8ekP6IFC7yX5qFhoWsEf6ydQ/rs:fit/g:sm/q:90/h:358/w:296/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTc0Mzct/MTI3MjMwMjc0MS5q/cGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Shades Of Rhythm",
+  "labels": [
+    {
+      "name": "S.O.R. Recordings",
+      "catno": "SOR0001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 11402,
+      "resource_url": "https://api.discogs.com/labels/11402",
+      "thumbnail_url": "https://i.discogs.com/tcdWpY6zsna58_93G_bywil1gRGaz-W9BcWPp19KVEk/rs:fit/g:sm/q:90/h:95/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNDAy/LTEyNjEyOTE1MTku/cG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "S.O.R. Recordings",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 11402,
+      "resource_url": "https://api.discogs.com/labels/11402",
+      "thumbnail_url": "https://i.discogs.com/tcdWpY6zsna58_93G_bywil1gRGaz-W9BcWPp19KVEk/rs:fit/g:sm/q:90/h:95/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNDAy/LTEyNjEyOTE1MTku/cG5n.jpeg"
+    },
+    {
+      "name": "S.O.R. Recordings",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 11402,
+      "resource_url": "https://api.discogs.com/labels/11402",
+      "thumbnail_url": "https://i.discogs.com/tcdWpY6zsna58_93G_bywil1gRGaz-W9BcWPp19KVEk/rs:fit/g:sm/q:90/h:95/w:355/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTExNDAy/LTEyNjEyOTE1MTku/cG5n.jpeg"
+    },
+    {
+      "name": "S/O/R Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 306961,
+      "resource_url": "https://api.discogs.com/labels/306961"
+    },
+    {
+      "name": "DFI",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 219229,
+      "resource_url": "https://api.discogs.com/labels/219229",
+      "thumbnail_url": "https://i.discogs.com/EpLh_gPT7di-2SJpm9TFnz3NDPjy6RM2p5UUlR9FyHM/rs:fit/g:sm/q:90/h:128/w:279/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxOTIy/OS0xMzI3MjYxMTc2/LmpwZWc.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 285,
+    "want": 721,
+    "rating": {
+      "count": 71,
+      "average": 4.55
+    },
+    "submitter": {
+      "username": "helix",
+      "resource_url": "https://api.discogs.com/users/helix"
+    },
+    "contributors": [
+      {
+        "username": "helix",
+        "resource_url": "https://api.discogs.com/users/helix"
+      },
+      {
+        "username": "shatter",
+        "resource_url": "https://api.discogs.com/users/shatter"
+      },
+      {
+        "username": "disruptive-influence",
+        "resource_url": "https://api.discogs.com/users/disruptive-influence"
+      },
+      {
+        "username": "livfe",
+        "resource_url": "https://api.discogs.com/users/livfe"
+      },
+      {
+        "username": "steve_brown",
+        "resource_url": "https://api.discogs.com/users/steve_brown"
+      },
+      {
+        "username": "SeRKeT",
+        "resource_url": "https://api.discogs.com/users/SeRKeT"
+      },
+      {
+        "username": "NordsRecords",
+        "resource_url": "https://api.discogs.com/users/NordsRecords"
+      },
+      {
+        "username": "peterford1",
+        "resource_url": "https://api.discogs.com/users/peterford1"
+      },
+      {
+        "username": "Adyton",
+        "resource_url": "https://api.discogs.com/users/Adyton"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2003-03-03T10:55:37-08:00",
+  "date_changed": "2022-10-20T08:11:22-07:00",
+  "num_for_sale": 14,
+  "lowest_price": 17.78,
+  "master_id": 177957,
+  "master_url": "https://api.discogs.com/masters/177957",
+  "title": "Frequency",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Recorded at the S.O.R. Studio in Peterborough.\nRespect to: DJ First Choice and Paulie Boy\n\n2000 copies pressed",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "SO R 001 A EXP DFI 90_4",
+      "description": "A side runout"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "SOR 0001 - B2 EXP DFI 90 5 SOR 0001 B",
+      "description": "B side runout"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=zb-OH0CF5v4",
+      "title": "Shades Of Rhythm - Homicide",
+      "description": " ",
+      "duration": 265,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=36h_fsa1poM",
+      "title": "Shades Of Rhythm Frequency SOR",
+      "description": "",
+      "duration": 279,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=L4aLTFycXRQ",
+      "title": "Shades Of Rhythm Jackin Jambouree",
+      "description": "Keepin it in a UK style with a classic off the 1990 Frequency LP.\r\nThis one makes me smile everytime :)",
+      "duration": 231,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z_RPrQNobsg",
+      "title": "Shades Of Rhythm - Techno Dream.",
+      "description": "Shades Of Rhythm - Techno Dream Album; Frequency 1990",
+      "duration": 280,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k0FxaCRHpNU",
+      "title": "Shades of Rhythm - The Exorcist",
+      "description": "",
+      "duration": 303,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AUCXzu0DIPw",
+      "title": "Shades Of Rhythm-Summer Of 89",
+      "description": "SOR Records.Taken from the Frequency album",
+      "duration": 312,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dUA98UzCUfY",
+      "title": "Shades Of Rhythm - Sweet Sensation (Original Mix)",
+      "description": "Join The Group Page On Facebook ....Search \"pandemonium andromeda\"",
+      "duration": 309,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zb-OH0CF5v4",
+      "title": "Shades Of Rhythm - Homicide",
+      "description": " ",
+      "duration": 265,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=36h_fsa1poM",
+      "title": "Shades Of Rhythm Frequency SOR",
+      "description": "",
+      "duration": 279,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=L4aLTFycXRQ",
+      "title": "Shades Of Rhythm Jackin Jambouree",
+      "description": "Keepin it in a UK style with a classic off the 1990 Frequency LP.\r\nThis one makes me smile everytime :)",
+      "duration": 231,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=z_RPrQNobsg",
+      "title": "Shades Of Rhythm - Techno Dream.",
+      "description": "Shades Of Rhythm - Techno Dream Album; Frequency 1990",
+      "duration": 280,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=k0FxaCRHpNU",
+      "title": "Shades of Rhythm - The Exorcist",
+      "description": "",
+      "duration": 303,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AUCXzu0DIPw",
+      "title": "Shades Of Rhythm-Summer Of 89",
+      "description": "SOR Records.Taken from the Frequency album",
+      "duration": 312,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=dUA98UzCUfY",
+      "title": "Shades Of Rhythm - Sweet Sensation (Original Mix)",
+      "description": "Join The Group Page On Facebook ....Search \"pandemonium andromeda\"",
+      "duration": 309,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=91pT-ouCY40",
+      "title": "Shades Of Rhythm – Frequency",
+      "description": "Shades Of Rhythm – Frequency\nEtichetta: Not On Label (Shades Of Rhythm) – Z-100\nLink Discogs: https://www.discogs.com/it/release/539924-Shades-Of-Rhythm-Frequency\n\nDiscogs: https://rebrand.ly/sok?\nSocial: http://sokvinyl.it?\nBuy Me A Coffee: http://rebran",
+      "duration": 0,
+      "embed": true
+    }
+  ],
+  "genres": "Electronic",
+  "styles": ["Breakbeat", "House", "Techno"],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Shadie Side",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Frequency",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Jackin Jambouree",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Techno Dream",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "One Black One White One Brown",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "Rhythmic Side",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "The Exorcist",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Carry The Swing",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "DJ First Choice",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 79202,
+          "resource_url": "https://api.discogs.com/artists/79202"
+        }
+      ]
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Homicide",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "The Summer Of '89",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Sweet Sensation",
+      "duration": "",
+      "extraartists": {}
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Paulie Boy",
+      "anv": "",
+      "join": "",
+      "role": "Artwork",
+      "tracks": "",
+      "id": 6018423,
+      "resource_url": "https://api.discogs.com/artists/6018423"
+    },
+    {
+      "name": "Kevin Lancaster",
+      "anv": "K. Lancaster",
+      "join": "",
+      "role": "Written-By, Producer, Arranged By, Performer",
+      "tracks": "",
+      "id": 476127,
+      "resource_url": "https://api.discogs.com/artists/476127"
+    },
+    {
+      "name": "Nick Slater",
+      "anv": "N. Slater",
+      "join": "",
+      "role": "Written-By, Producer, Arranged By, Performer",
+      "tracks": "",
+      "id": 476126,
+      "resource_url": "https://api.discogs.com/artists/476126"
+    },
+    {
+      "name": "Rayan \"Gee\" Hepburn",
+      "anv": "R. Hepburn",
+      "join": "",
+      "role": "Written-By, Producer, Arranged By, Performer",
+      "tracks": "",
+      "id": 476125,
+      "resource_url": "https://api.discogs.com/artists/476125"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/5odo-vhHA6UxH1yN3b7e5CAclut2MswRjLMAj0kuYFw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzgx/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/5odo-vhHA6UxH1yN3b7e5CAclut2MswRjLMAj0kuYFw/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzgx/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Mhuu9lstFrlxQJ_mZt3zGPevpmvkao6Z3TXOKu3ExIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzgx/LmpwZWc.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9NYwLy-TwfWjsh_P9tCZtSTIKgnI6gnS1hYa8FPuHiI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzg4/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/9NYwLy-TwfWjsh_P9tCZtSTIKgnI6gnS1hYa8FPuHiI/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzg4/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/A2PD1wNEXGOwv0ICdFxcZGS708g8mJHFPErJGBLSZnM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzg4/LmpwZWc.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/hlhBt5Mcig-Hku166sWiUbfj0lFFKivv-NtyvUPR5hc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzk2/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/hlhBt5Mcig-Hku166sWiUbfj0lFFKivv-NtyvUPR5hc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzk2/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/bN9cR1b-AWxR97hzECLDTBixkyQHeQvpKfmJvb5b6zk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzk2/LmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/0XMDwxYZs6zE3X6sN0_4oFNQCH2Hay-Ax44oES6kBx0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxODAz/LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/0XMDwxYZs6zE3X6sN0_4oFNQCH2Hay-Ax44oES6kBx0/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxODAz/LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/hzSIajdtHMwYfz4WW2yvPhDFhxlB2zUlKXlnwWonKOo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxODAz/LmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/Mhuu9lstFrlxQJ_mZt3zGPevpmvkao6Z3TXOKu3ExIA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNzk0/MS0xMjg1MzMxNzgx/LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

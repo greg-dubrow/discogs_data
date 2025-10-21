@@ -1,0 +1,389 @@
+{
+  "id": 1023342,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/1023342",
+  "uri": "https://www.discogs.com/release/1023342-Simon-Turner-Simon-Turner",
+  "artists": [
+    {
+      "name": "Simon Fisher Turner",
+      "anv": "Simon Turner",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 50237,
+      "resource_url": "https://api.discogs.com/artists/50237",
+      "thumbnail_url": "https://i.discogs.com/bkmMRbKqj_4dJ1kXbgUjPBjjzlw86Z-QU_QzUOndAa8/rs:fit/g:sm/q:90/h:415/w:409/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUwMjM3/LTExNDA1NTA5OTAu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Simon Fisher Turner",
+  "labels": [
+    {
+      "name": "Creation Records",
+      "catno": "CRELP 064",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1658,
+      "resource_url": "https://api.discogs.com/labels/1658",
+      "thumbnail_url": "https://i.discogs.com/otzGzbipLDnVCTx03-jOeYPBHdP4lrY9PHAPdHuDIVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2NTgt/MTU4Nzk0NTkzMC0y/NTI0LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Creation Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 1658,
+      "resource_url": "https://api.discogs.com/labels/1658",
+      "thumbnail_url": "https://i.discogs.com/otzGzbipLDnVCTx03-jOeYPBHdP4lrY9PHAPdHuDIVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2NTgt/MTU4Nzk0NTkzMC0y/NTI0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Creation Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 1658,
+      "resource_url": "https://api.discogs.com/labels/1658",
+      "thumbnail_url": "https://i.discogs.com/otzGzbipLDnVCTx03-jOeYPBHdP4lrY9PHAPdHuDIVI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2NTgt/MTU4Nzk0NTkzMC0y/NTI0LmpwZWc.jpeg"
+    },
+    {
+      "name": "Complete Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 266936,
+      "resource_url": "https://api.discogs.com/labels/266936",
+      "thumbnail_url": "https://i.discogs.com/PADZXOjaQzVT-NiTtFzfyDmxj-h2gZRWPA4xPMmh5g4/rs:fit/g:sm/q:90/h:89/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Njkz/Ni0xNjMwMjU1OTg3/LTE5MjguanBlZw.jpeg"
+    },
+    {
+      "name": "Sound Suite",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 297993,
+      "resource_url": "https://api.discogs.com/labels/297993",
+      "thumbnail_url": "https://i.discogs.com/pJpun0ZDCx85Box1GDCeqhAXwdeYKz6EbdawO-_wsHs/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI5Nzk5/My0xNTg3MjE2MjY5/LTEwMjAuanBlZw.jpeg"
+    },
+    {
+      "name": "Orinoco Studios",
+      "catno": "",
+      "entity_type": "27",
+      "entity_type_name": "Mixed At",
+      "id": 271912,
+      "resource_url": "https://api.discogs.com/labels/271912",
+      "thumbnail_url": "https://i.discogs.com/lkQLAB1ZNm7xWLtbZUXRzViMD8Lm-CqlkVq054bE_00/rs:fit/g:sm/q:90/h:404/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MTkx/Mi0xMzcxMzcwMzU2/LTk5MDYuZ2lm.jpeg"
+    },
+    {
+      "name": "Pinnacle (3)",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 264522,
+      "resource_url": "https://api.discogs.com/labels/264522",
+      "thumbnail_url": "https://i.discogs.com/RFTqsB0SqhpiPNXF7UenuAZ-IJ11sXt_7_8G4YHrzas/rs:fit/g:sm/q:90/h:177/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NDUy/Mi0xMzMzMzU5NTM2/LmdpZg.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 148,
+    "want": 316,
+    "rating": {
+      "count": 20,
+      "average": 4.1
+    },
+    "submitter": {
+      "username": "Whirl-Fred",
+      "resource_url": "https://api.discogs.com/users/Whirl-Fred"
+    },
+    "contributors": [
+      {
+        "username": "Whirl-Fred",
+        "resource_url": "https://api.discogs.com/users/Whirl-Fred"
+      },
+      {
+        "username": "consort",
+        "resource_url": "https://api.discogs.com/users/consort"
+      },
+      {
+        "username": "happydogs",
+        "resource_url": "https://api.discogs.com/users/happydogs"
+      },
+      {
+        "username": "harbour",
+        "resource_url": "https://api.discogs.com/users/harbour"
+      },
+      {
+        "username": "hixem",
+        "resource_url": "https://api.discogs.com/users/hixem"
+      },
+      {
+        "username": "TheCoelocanth",
+        "resource_url": "https://api.discogs.com/users/TheCoelocanth"
+      },
+      {
+        "username": "smakmuz",
+        "resource_url": "https://api.discogs.com/users/smakmuz"
+      },
+      {
+        "username": "QP.chan",
+        "resource_url": "https://api.discogs.com/users/QP.chan"
+      },
+      {
+        "username": "IronyChef",
+        "resource_url": "https://api.discogs.com/users/IronyChef"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2007-11-17T01:59:14-08:00",
+  "date_changed": "2025-03-26T05:14:59-07:00",
+  "num_for_sale": 0,
+  "lowest_price": {},
+  "master_id": 56616,
+  "master_url": "https://api.discogs.com/masters/56616",
+  "title": "Simon Turner",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Lyrics on A1, B3 taken from \"The Long Way Round\" (original title: \"Langsame Heimkehr\") by kind permission of Peter Handtke.",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=DdsZsNdPEf0",
+      "title": "Simon Turner - Almost Bliss",
+      "description": "From 1990 \"Simon Turner\" / Creation Records",
+      "duration": 929,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pCUuMkYrewI",
+      "title": "Simon Turner - Warm Melt",
+      "description": "From 1990 \"Simon Turner\" / Creation Records",
+      "duration": 840,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5kPadl4WA6U",
+      "title": "Simon Turner - Dark Melt",
+      "description": "From 1990 \"Simon Turner\" / Creation Records",
+      "duration": 735,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=n1r91kgDYP8",
+      "title": "Simon Turner - Bliss",
+      "description": "From 1990 \"Simon Turner\" / Creation Records",
+      "duration": 746,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DdsZsNdPEf0",
+      "title": "Simon Turner - Almost Bliss",
+      "description": "From 1990 \"Simon Turner\" / Creation Records",
+      "duration": 929,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=pCUuMkYrewI",
+      "title": "Simon Turner - Warm Melt",
+      "description": "From 1990 \"Simon Turner\" / Creation Records",
+      "duration": 840,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5kPadl4WA6U",
+      "title": "Simon Turner - Dark Melt",
+      "description": "From 1990 \"Simon Turner\" / Creation Records",
+      "duration": 735,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=n1r91kgDYP8",
+      "title": "Simon Turner - Bliss",
+      "description": "From 1990 \"Simon Turner\" / Creation Records",
+      "duration": 746,
+      "embed": true
+    }
+  ],
+  "genres": "Electronic",
+  "styles": "Ambient",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Almost Bliss",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Warm Melt",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Barry Andrews",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By",
+          "tracks": "",
+          "id": 64092,
+          "resource_url": "https://api.discogs.com/artists/64092"
+        }
+      ]
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Dark Melt",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Muzak",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Bliss",
+      "duration": "",
+      "extraartists": {}
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "David Sinclair (3)",
+      "anv": "",
+      "join": "",
+      "role": "Chapman Stick",
+      "tracks": "",
+      "id": 432995,
+      "resource_url": "https://api.discogs.com/artists/432995"
+    },
+    {
+      "name": "El Tito",
+      "anv": "Tito",
+      "join": "",
+      "role": "Guitar [Spanish]",
+      "tracks": "",
+      "id": 147826,
+      "resource_url": "https://api.discogs.com/artists/147826"
+    },
+    {
+      "name": "Dean Speedwell",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 433006,
+      "resource_url": "https://api.discogs.com/artists/433006"
+    },
+    {
+      "name": "Simon Fisher Turner",
+      "anv": "Simon Turner",
+      "join": "",
+      "role": "Music By, Tape, Loops, Guitar [Half Speed, Ebow, Acoustic], Piano, Keyboards [Casio], Organ [Pipes], Vocals, Featuring [The Worst Instrument In The World]",
+      "tracks": "",
+      "id": 50237,
+      "resource_url": "https://api.discogs.com/artists/50237"
+    },
+    {
+      "name": "Marvin Black",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By, Vocals, Recorder, Effects [Desk, Glass, Bath]",
+      "tracks": "",
+      "id": 316893,
+      "resource_url": "https://api.discogs.com/artists/316893"
+    },
+    {
+      "name": "Julie Harrington",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 127406,
+      "resource_url": "https://api.discogs.com/artists/127406"
+    },
+    {
+      "name": "Sasha Kamen",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 901011,
+      "resource_url": "https://api.discogs.com/artists/901011"
+    },
+    {
+      "name": "Tilda Swinton",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 147822,
+      "resource_url": "https://api.discogs.com/artists/147822"
+    },
+    {
+      "name": "Barry Andrews",
+      "anv": "",
+      "join": "",
+      "role": "Vocals, Featuring [Toast Bargaining]",
+      "tracks": "",
+      "id": 64092,
+      "resource_url": "https://api.discogs.com/artists/64092"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/JlrNxoyu0J1W_0s2araDpVXdD8K8bOVoJfW7dPzYlj8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTE4OTE2ODA5/Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/JlrNxoyu0J1W_0s2araDpVXdD8K8bOVoJfW7dPzYlj8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTE4OTE2ODA5/Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/MKK9jjUGTzOVo5tQAMtM5toypSypmlf2xol-06ieP4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTE4OTE2ODA5/Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/YAtw0paKX5CDhy2AGEYHUE2QXQJ7q9AFBCpDrYCzWWA/rs:fit/g:sm/q:90/h:598/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTE4OTE2ODEw/Mi5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/YAtw0paKX5CDhy2AGEYHUE2QXQJ7q9AFBCpDrYCzWWA/rs:fit/g:sm/q:90/h:598/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTE4OTE2ODEw/Mi5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/aIDoAK2N87S4uMhGCMjYjdYG-T2P5Ldu5kS4Pj-xMvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTE4OTE2ODEw/Mi5qcGVn.jpeg",
+      "width": 598,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8TXh6E75aorZT5Hp0GqY_Cqb1DyND5RJJNFGgkR1SiE/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTUwNjkzODg3/NS04MzA5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/8TXh6E75aorZT5Hp0GqY_Cqb1DyND5RJJNFGgkR1SiE/rs:fit/g:sm/q:90/h:584/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTUwNjkzODg3/NS04MzA5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Bq-fY5a28yHmGzisusimKZBO-MMUx1Loby3UnJJNitA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTUwNjkzODg3/NS04MzA5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 584
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/f8-zjyepwr0esElMmshl-Q50ECAyX86RW0R39a4cOJI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTUwNjkzODg3/Mi0yMjI0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/f8-zjyepwr0esElMmshl-Q50ECAyX86RW0R39a4cOJI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTUwNjkzODg3/Mi0yMjI0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/MtKhxiRmxufegRrOBXb--tY3gIPAfI9lZHCJxvss9Hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTUwNjkzODg3/Mi0yMjI0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 589
+    }
+  ],
+  "thumb": "https://i.discogs.com/MKK9jjUGTzOVo5tQAMtM5toypSypmlf2xol-06ieP4s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjMz/NDItMTE4OTE2ODA5/Ny5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

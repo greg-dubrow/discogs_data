@@ -1,0 +1,184 @@
+{
+  "id": 31606057,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/31606057",
+  "uri": "https://www.discogs.com/release/31606057-Shusha-Strange-Affair",
+  "artists": [
+    {
+      "name": "Shusha",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1344318,
+      "resource_url": "https://api.discogs.com/artists/1344318",
+      "thumbnail_url": "https://i.discogs.com/Kln2ACLeVfo9Icuj4N1CVUADd-wb9hHz0yM_HLvYBLc/rs:fit/g:sm/q:90/h:539/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNDQz/MTgtMTMzNzUwNDgw/MS03NDEzLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Shusha",
+  "labels": [
+    {
+      "name": "Sharrow Records",
+      "catno": "SRA 1001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 49751,
+      "resource_url": "https://api.discogs.com/labels/49751",
+      "thumbnail_url": "https://i.discogs.com/Ytpf73aPcHa9Kj_qfoKuA7KGC2_72OyC0ezMoD8oCuM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQ5NzUx/LTE3MjI0MzA5Mjgt/MjY0Mi5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 0,
+    "want": 1,
+    "rating": {
+      "count": 0,
+      "average": 0
+    },
+    "submitter": {
+      "username": "sharrow",
+      "resource_url": "https://api.discogs.com/users/sharrow"
+    },
+    "contributors": [
+      {
+        "username": "sharrow",
+        "resource_url": "https://api.discogs.com/users/sharrow"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2024-08-29T12:14:56-07:00",
+  "date_changed": "2024-11-01T15:11:50-07:00",
+  "num_for_sale": 1,
+  "lowest_price": 35.56,
+  "master_id": 3643653,
+  "master_url": "https://api.discogs.com/masters/3643653",
+  "title": "Strange Affair",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Reissue of Linnet Records LIN 2 but with different rear sleeve.   Subsequently issued on CD-r by  Sharrow Records under catalogue number SBA 1013.",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": ["Pop", "Folk, World, & Country"],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Dance Me To The End Of Love",
+      "duration": "4:01"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Spanish Is The Loving Tongue",
+      "duration": "3:43"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Happy When I Dream",
+      "duration": "3:32"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Que Reste T-Il De Nos Amours?",
+      "duration": "4:34"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Worried Mind",
+      "duration": "2:45"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "The Rose",
+      "duration": "3:05"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Jealous Girl",
+      "duration": "4:03"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Tomorrow Is A Long Time",
+      "duration": "3:45"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Adam  And Eve",
+      "duration": "2:41"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Tell Me On A Sunday",
+      "duration": "3:20"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Night And Day",
+      "duration": "2:47"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Strange Affair",
+      "duration": "3:30"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Matt Clifford",
+      "anv": "",
+      "join": "",
+      "role": "Music Director",
+      "tracks": "",
+      "id": 261457,
+      "resource_url": "https://api.discogs.com/artists/261457"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/swDvBQ7AGlbVx18MSeGcWK1M82QNFqOyvYXewkwr_b0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA2/MDU3LTE3MjQ5NTg5/NjgtNjMzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/swDvBQ7AGlbVx18MSeGcWK1M82QNFqOyvYXewkwr_b0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA2/MDU3LTE3MjQ5NTg5/NjgtNjMzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/KnghQyuh1LUom8QzKcYLIlL_mH_j7FN4ViSNx0FAm4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA2/MDU3LTE3MjQ5NTg5/NjgtNjMzNS5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4qW-dokeSRf_qFnV1b4iNCPMnTVbUzB2mU7qUMkuT9k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA2/MDU3LTE3MjQ5NTkx/MDMtNDQ2My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/4qW-dokeSRf_qFnV1b4iNCPMnTVbUzB2mU7qUMkuT9k/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA2/MDU3LTE3MjQ5NTkx/MDMtNDQ2My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/yS_HmGf4apFpgGj_vN6ND07LoiCUqoc4voGRWLl8auM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA2/MDU3LTE3MjQ5NTkx/MDMtNDQ2My5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/KnghQyuh1LUom8QzKcYLIlL_mH_j7FN4ViSNx0FAm4g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNjA2/MDU3LTE3MjQ5NTg5/NjgtNjMzNS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

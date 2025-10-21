@@ -1,0 +1,317 @@
+{
+  "id": 2243352,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/2243352",
+  "uri": "https://www.discogs.com/release/2243352-Craig-Ferguson-A-Big-Stoatir",
+  "artists": [
+    {
+      "name": "Craig Ferguson",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 876506,
+      "resource_url": "https://api.discogs.com/artists/876506",
+      "thumbnail_url": "https://i.discogs.com/ism8y9ADPq80hIbh8WyL0wbixxwV_g3sibcJNRQvs7w/rs:fit/g:sm/q:90/h:300/w:240/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg3NjUw/Ni0xMjQyNDkwMDI3/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Craig Ferguson",
+  "labels": [
+    {
+      "name": "Polydor",
+      "catno": "843 432-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1610,
+      "resource_url": "https://api.discogs.com/labels/1610",
+      "thumbnail_url": "https://i.discogs.com/aNZfcLSVMW8xdCMyTxY3PspGfkoD4lsz8_uyffeyRcw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE2MTAt/MTU4ODY3Mzk0Ny0x/NjI2LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 29,
+    "want": 32,
+    "rating": {
+      "count": 1,
+      "average": 2
+    },
+    "submitter": {
+      "username": "Streeb-Greebling",
+      "resource_url": "https://api.discogs.com/users/Streeb-Greebling"
+    },
+    "contributors": [
+      {
+        "username": "Streeb-Greebling",
+        "resource_url": "https://api.discogs.com/users/Streeb-Greebling"
+      },
+      {
+        "username": "manus-von-alles",
+        "resource_url": "https://api.discogs.com/users/manus-von-alles"
+      },
+      {
+        "username": "Zanyramorsky",
+        "resource_url": "https://api.discogs.com/users/Zanyramorsky"
+      },
+      {
+        "username": "agnes_guano",
+        "resource_url": "https://api.discogs.com/users/agnes_guano"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2010-04-22T03:32:49-07:00",
+  "date_changed": "2014-04-29T00:39:38-07:00",
+  "num_for_sale": 27,
+  "lowest_price": 2.69,
+  "master_id": 329556,
+  "master_url": "https://api.discogs.com/masters/329556",
+  "title": "A Big Stoatir",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Recorded at Glasgow Pavillion, November 1989.",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": "Non-Music",
+  "styles": "Comedy",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Journey To The Unknown",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "The Devil's Number",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "The Dawning Of Civilisation",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Great Inventations",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Animals Are Stupid",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Family Fortunes",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Astrology, Drugs & Television",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "How The Atom Bomb Works",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Sadism & Sandwiches",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Sexy Jobs & Juggling",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Donald Sinden & Excuses",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Look After The Pennies",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "500 Beers",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Peter Wood (10)",
+      "anv": "",
+      "join": "",
+      "role": "Art Direction",
+      "tracks": "",
+      "id": 2269542,
+      "resource_url": "https://api.discogs.com/artists/2269542"
+    },
+    {
+      "name": "Mo Coyne",
+      "anv": "",
+      "join": "",
+      "role": "Design [Graphic Design]",
+      "tracks": "",
+      "id": 3031830,
+      "resource_url": "https://api.discogs.com/artists/3031830"
+    },
+    {
+      "name": "Dave Turner",
+      "anv": "",
+      "join": "",
+      "role": "Edited By",
+      "tracks": "",
+      "id": 235210,
+      "resource_url": "https://api.discogs.com/artists/235210"
+    },
+    {
+      "name": "Ian Johnson",
+      "anv": "",
+      "join": "",
+      "role": "Other [Thanks]",
+      "tracks": "",
+      "id": 386788,
+      "resource_url": "https://api.discogs.com/artists/386788"
+    },
+    {
+      "name": "Phil McIntyre Group",
+      "anv": "",
+      "join": "",
+      "role": "Other [Thanks]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Tiger TV",
+      "anv": "",
+      "join": "",
+      "role": "Other [Thanks]",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Peter Calvin",
+      "anv": "",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 2234691,
+      "resource_url": "https://api.discogs.com/artists/2234691"
+    },
+    {
+      "name": "John Williams (3)",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 263644,
+      "resource_url": "https://api.discogs.com/artists/263644"
+    },
+    {
+      "name": "Charlie Higson",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 603533,
+      "resource_url": "https://api.discogs.com/artists/603533"
+    },
+    {
+      "name": "Craig Ferguson",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 876506,
+      "resource_url": "https://api.discogs.com/artists/876506"
+    },
+    {
+      "name": "Helen Atkinson-Wood",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 1793193,
+      "resource_url": "https://api.discogs.com/artists/1793193"
+    },
+    {
+      "name": "Paul Whitehouse",
+      "anv": "",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 550649,
+      "resource_url": "https://api.discogs.com/artists/550649"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/ndfvp2OgtegG4lAEPMMk56l_DgPhtOJ-dYH0hgTfnIM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTM5ODc1NzE0/OC0zODY1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ndfvp2OgtegG4lAEPMMk56l_DgPhtOJ-dYH0hgTfnIM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTM5ODc1NzE0/OC0zODY1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/PUAt38NoKXUEYrlrWNma1QBmS6GMgxYjSJQEk5q3HAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTM5ODc1NzE0/OC0zODY1LmpwZWc.jpeg",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/z5jM4n_OhRb0NoRVX9y_EwSfUc7Ns7Ub_PQKmUGWSr8/rs:fit/g:sm/q:90/h:405/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODc4/My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/z5jM4n_OhRb0NoRVX9y_EwSfUc7Ns7Ub_PQKmUGWSr8/rs:fit/g:sm/q:90/h:405/w:402/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODc4/My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/pnhhGA1TIz-i42Pkx7vcqk5mgIYjOn7DMPOBc3ULDnw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODc4/My5qcGVn.jpeg",
+      "width": 402,
+      "height": 405
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/w2uSSZYAzVPoSl8LTnyxdJwM7dpXUK2I1Mx8MbJqSB0/rs:fit/g:sm/q:90/h:300/w:297/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODc5/NS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/w2uSSZYAzVPoSl8LTnyxdJwM7dpXUK2I1Mx8MbJqSB0/rs:fit/g:sm/q:90/h:300/w:297/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODc5/NS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/cj6P9oaPjj7G6TnQNnFXskM4oWcf2yueJgi3AJdNE68/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODc5/NS5qcGVn.jpeg",
+      "width": 297,
+      "height": 300
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yv7DlaT5EA89FgyDPL1CalosxB5nHf0C8w9ca1uPTOM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODg0/Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/yv7DlaT5EA89FgyDPL1CalosxB5nHf0C8w9ca1uPTOM/rs:fit/g:sm/q:90/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODg0/Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/HsDo7-txHUGgTlbjFBRPEEFI73-zDOz2Yuksh958i8M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTI3NjcwODg0/Ni5qcGVn.jpeg",
+      "width": 300,
+      "height": 300
+    }
+  ],
+  "thumb": "https://i.discogs.com/PUAt38NoKXUEYrlrWNma1QBmS6GMgxYjSJQEk5q3HAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNDMz/NTItMTM5ODc1NzE0/OC0zODY1LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

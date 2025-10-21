@@ -1,0 +1,448 @@
+{
+  "id": 737786,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/737786",
+  "uri": "https://www.discogs.com/release/737786-The-Chameleons-John-Peel-Sessions",
+  "artists": [
+    {
+      "name": "The Chameleons",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 137234,
+      "resource_url": "https://api.discogs.com/artists/137234",
+      "thumbnail_url": "https://i.discogs.com/UIF4hykJeYTgd0xkNspJx4_odW5-Urxf5PS2zUYtgYA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEzNzIz/NC0xNTgyNDM0MDc1/LTcyOTAuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Chameleons, The",
+  "labels": [
+    {
+      "name": "Strange Fruit",
+      "catno": "SFRLP114",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1567,
+      "resource_url": "https://api.discogs.com/labels/1567",
+      "thumbnail_url": "https://i.discogs.com/4WeqhOb-03RfdCBZggiVxUDPWjgTiwty_5fzBoIv4Ko/rs:fit/g:sm/q:90/h:231/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1Njct/MTU5OTI0OTg2Ny03/OTcwLmpwZWc.jpeg"
+    }
+  ],
+  "series": [
+    {
+      "name": "The Peel Sessions",
+      "catno": "",
+      "entity_type": "2",
+      "entity_type_name": "Series",
+      "id": 313331,
+      "resource_url": "https://api.discogs.com/labels/313331",
+      "thumbnail_url": "https://i.discogs.com/_PtnTNDnMcoyacBfpjn11AXh-w54NGNo4_VCEsyfKt8/rs:fit/g:sm/q:90/h:19/w:185/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMxMzMz/MS0xNzIzOTgzOTE0/LTU1MTguanBlZw.jpeg"
+    }
+  ],
+  "companies": [
+    {
+      "name": "BBC Enterprises Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 270560,
+      "resource_url": "https://api.discogs.com/labels/270560",
+      "thumbnail_url": "https://i.discogs.com/A1YygCRVd9wuiVNu4WaxVdinttbSweIcl4g4GOORXcw/rs:fit/g:sm/q:90/h:110/w:504/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MDU2/MC0xNjU5NDMzODkz/LTE4NDMuanBlZw.jpeg"
+    },
+    {
+      "name": "Strange Fruit Records Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 347359,
+      "resource_url": "https://api.discogs.com/labels/347359"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 627,
+    "want": 601,
+    "rating": {
+      "count": 72,
+      "average": 4.5
+    },
+    "submitter": {
+      "username": "FinalSummer",
+      "resource_url": "https://api.discogs.com/users/FinalSummer"
+    },
+    "contributors": [
+      {
+        "username": "FinalSummer",
+        "resource_url": "https://api.discogs.com/users/FinalSummer"
+      },
+      {
+        "username": "spacegirl3",
+        "resource_url": "https://api.discogs.com/users/spacegirl3"
+      },
+      {
+        "username": "barry_andrews",
+        "resource_url": "https://api.discogs.com/users/barry_andrews"
+      },
+      {
+        "username": "pleh",
+        "resource_url": "https://api.discogs.com/users/pleh"
+      },
+      {
+        "username": "Onkel-Tom",
+        "resource_url": "https://api.discogs.com/users/Onkel-Tom"
+      },
+      {
+        "username": "fischkopp",
+        "resource_url": "https://api.discogs.com/users/fischkopp"
+      },
+      {
+        "username": "elchicofritto",
+        "resource_url": "https://api.discogs.com/users/elchicofritto"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "pygmydanny",
+        "resource_url": "https://api.discogs.com/users/pygmydanny"
+      },
+      {
+        "username": "ludos06",
+        "resource_url": "https://api.discogs.com/users/ludos06"
+      },
+      {
+        "username": "rowche_rumble",
+        "resource_url": "https://api.discogs.com/users/rowche_rumble"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2006-07-26T15:46:13-07:00",
+  "date_changed": "2021-09-07T07:10:36-07:00",
+  "num_for_sale": 12,
+  "lowest_price": 60.84,
+  "master_id": 10588,
+  "master_url": "https://api.discogs.com/masters/10588",
+  "title": "John Peel Sessions",
+  "country": "UK",
+  "released": "1990-11-00",
+  "notes": "Tracks A1 to A4 recorded 8th June 1981 © BBC 1981\r\nTracks A5 to B2 recorded 8th June 1983 © BBC 1983\r\nTracks B3 to B6 recorded 5th May 1984 © BBC 1984\r\n",
+  "released_formatted": "Nov 1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5 017644 211414 >"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "SFRLP 114 A-2",
+      "description": "Side A etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "SFRLP 114 B-2",
+      "description": "Side B etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=WCPPLNJE_lE",
+      "title": "The Chameleons - The Fan And The Bellows - Vinyl",
+      "description": "Artist: The Chameleons\nSong: The Fan & The Bellows\nAlbum: John Peel Sessions\nYear: 1990 (2014 Reissue)\nDiscogs Link: https://www.discogs.com/The-Chameleons-John-Peel-Sessions/release/6363568\nTurntable: Technics 1200GR\nCartridge: Audio Technica VM95ML\nPhon",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RPY7DmZ9GmE",
+      "title": "The Chameleons - Things Wish I'd Said - Vinyl",
+      "description": "Artist: The Chameleons\nSong: Things I Wish I'd Said\nAlbum: John Peel Sessions\nYear: 1990 (2014 Reissue)\nDiscogs Link: https://www.discogs.com/The-Chameleons-John-Peel-Sessions/release/6363568\nTurntable: Technics 1200GR\nCartridge: Audio Technica VM95ML\nPho",
+      "duration": 315,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eZoen6Fjcno",
+      "title": "Things I Wish I'd Said - The Chameleons (John Peel Session 1981)",
+      "description": "One of the best songs from one of the best John Peel Sessions from June 1981",
+      "duration": 300,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=90H2JRtmsYE",
+      "title": "Second Skin (2014 Remaster)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nSecond Skin · The Chameleons\n\nJohn Peel Sessions (2014 Remaster)\n\n℗ 1984 BBC\n℗ 2014 BBC Music\n\nReleased on: 2014-12-01\n\nAuto-generated by YouTube.",
+      "duration": 363,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=WCPPLNJE_lE",
+      "title": "The Chameleons - The Fan And The Bellows - Vinyl",
+      "description": "Artist: The Chameleons\nSong: The Fan & The Bellows\nAlbum: John Peel Sessions\nYear: 1990 (2014 Reissue)\nDiscogs Link: https://www.discogs.com/The-Chameleons-John-Peel-Sessions/release/6363568\nTurntable: Technics 1200GR\nCartridge: Audio Technica VM95ML\nPhon",
+      "duration": 210,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=RPY7DmZ9GmE",
+      "title": "The Chameleons - Things Wish I'd Said - Vinyl",
+      "description": "Artist: The Chameleons\nSong: Things I Wish I'd Said\nAlbum: John Peel Sessions\nYear: 1990 (2014 Reissue)\nDiscogs Link: https://www.discogs.com/The-Chameleons-John-Peel-Sessions/release/6363568\nTurntable: Technics 1200GR\nCartridge: Audio Technica VM95ML\nPho",
+      "duration": 315,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eZoen6Fjcno",
+      "title": "Things I Wish I'd Said - The Chameleons (John Peel Session 1981)",
+      "description": "One of the best songs from one of the best John Peel Sessions from June 1981",
+      "duration": 300,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=90H2JRtmsYE",
+      "title": "Second Skin (2014 Remaster)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nSecond Skin · The Chameleons\n\nJohn Peel Sessions (2014 Remaster)\n\n℗ 1984 BBC\n℗ 2014 BBC Music\n\nReleased on: 2014-12-01\n\nAuto-generated by YouTube.",
+      "duration": 363,
+      "embed": true
+    }
+  ],
+  "genres": "Rock",
+  "styles": ["New Wave", "Indie Rock"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "The Fan And The Bellows",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Here Today",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Looking Inwardly",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Things I Wish I'd Said",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Don't Fall",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Nostalgia",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Second Skin",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Perfumed Garden",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Dust To Dust / Return Of The Roughnecks",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "One Flesh",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Intrigue In Tangiers",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "P.S. Goodbye",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mark Burgess",
+      "anv": "",
+      "join": "",
+      "role": "Bass, Vocals",
+      "tracks": "",
+      "id": 260598,
+      "resource_url": "https://api.discogs.com/artists/260598"
+    },
+    {
+      "name": "Brian Schofield",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "1 to 4",
+      "id": 382964,
+      "resource_url": "https://api.discogs.com/artists/382964"
+    },
+    {
+      "name": "John Lever",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "5 to 12",
+      "id": 271519,
+      "resource_url": "https://api.discogs.com/artists/271519"
+    },
+    {
+      "name": "Dave Dade",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "1 to 4",
+      "id": 262732,
+      "resource_url": "https://api.discogs.com/artists/262732"
+    },
+    {
+      "name": "Mike Robinson",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "9 to 12",
+      "id": 60620,
+      "resource_url": "https://api.discogs.com/artists/60620"
+    },
+    {
+      "name": "Reg Smithies",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Art Direction [Sleeve Art]",
+      "tracks": "",
+      "id": 296394,
+      "resource_url": "https://api.discogs.com/artists/296394"
+    },
+    {
+      "name": "Dave Fielding",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Keyboards",
+      "tracks": "",
+      "id": 296396,
+      "resource_url": "https://api.discogs.com/artists/296396"
+    },
+    {
+      "name": "Alistair Lewthwaite",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "5 to 8",
+      "id": 382965,
+      "resource_url": "https://api.discogs.com/artists/382965"
+    },
+    {
+      "name": "Ian Tilton",
+      "anv": "Ian T. Tilton",
+      "join": "",
+      "role": "Photography By",
+      "tracks": "",
+      "id": 1067516,
+      "resource_url": "https://api.discogs.com/artists/1067516"
+    },
+    {
+      "name": "Barry Anthony Andrews",
+      "anv": "Barry Andrews",
+      "join": "",
+      "role": "Producer",
+      "tracks": "5 to 8",
+      "id": 572170,
+      "resource_url": "https://api.discogs.com/artists/572170"
+    },
+    {
+      "name": "Dale Griffin",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "9 to 12",
+      "id": 80172,
+      "resource_url": "https://api.discogs.com/artists/80172"
+    },
+    {
+      "name": "Tony Wilson",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "1 to 4",
+      "id": 43308,
+      "resource_url": "https://api.discogs.com/artists/43308"
+    },
+    {
+      "name": "Don Walker",
+      "anv": "",
+      "join": "",
+      "role": "Remastered By",
+      "tracks": "",
+      "id": 257764,
+      "resource_url": "https://api.discogs.com/artists/257764"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/BnM6ZZcxOs6Vjh3JihEJUJivDQ4mR2LFWvhRU0TLDfM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjEy/LTQxMjEuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/BnM6ZZcxOs6Vjh3JihEJUJivDQ4mR2LFWvhRU0TLDfM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjEy/LTQxMjEuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/uWattMMGE3R914ZFrR-DHmvBUIykf2YoadAbYgyvRoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjEy/LTQxMjEuanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WHlHJS9_rwgjvMMHFClfmVYxqaAofXSuRZSUe4bTtwE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjEx/LTY0MjguanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/WHlHJS9_rwgjvMMHFClfmVYxqaAofXSuRZSUe4bTtwE/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjEx/LTY0MjguanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/O7BE5V5nQosmwYabdywux1VKaU8HLCR9EuBbDGrOU0Y/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjEx/LTY0MjguanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2dY8uR93viI96ekjdawW7FdAHj2yK-VVFDJiRyCIDeo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjAz/LTQ5OTkuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/2dY8uR93viI96ekjdawW7FdAHj2yK-VVFDJiRyCIDeo/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjAz/LTQ5OTkuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/C7qWroFoshNlE8nztCMOZy_Q-jRvkd2ciWJjMT2oHwM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjAz/LTQ5OTkuanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/68Y7exBxWNIHEhvdj7Nd7t0qX10Ys5rAKOz6IBoMX0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjA0/LTEzMTAuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/68Y7exBxWNIHEhvdj7Nd7t0qX10Ys5rAKOz6IBoMX0M/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjA0/LTEzMTAuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/F6DAin_euCCVAdjWwaImPkQ_TDo4TKR-Ra1G-EU0Y3I/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjA0/LTEzMTAuanBlZw.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/uWattMMGE3R914ZFrR-DHmvBUIykf2YoadAbYgyvRoo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNzc4/Ni0xNDkzNzQ3MjEy/LTQxMjEuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

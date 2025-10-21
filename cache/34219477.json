@@ -1,0 +1,205 @@
+{
+  "id": 34219477,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/34219477",
+  "uri": "https://www.discogs.com/release/34219477-The-Wilsons-6-The-Wilsons",
+  "artists": [
+    {
+      "name": "The Wilsons (6)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 9517936,
+      "resource_url": "https://api.discogs.com/artists/9517936"
+    }
+  ],
+  "artists_sort": "Wilsons (6), The",
+  "labels": [
+    {
+      "name": "Prestige Records Ltd.",
+      "catno": "PRST 505",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 69071,
+      "resource_url": "https://api.discogs.com/labels/69071",
+      "thumbnail_url": "https://i.discogs.com/EvXoS6xeiaron6s66q8X0PKEzgu6KX2jzInhE-2xdc8/rs:fit/g:sm/q:90/h:600/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY5MDcx/LTE0ODg3NDQ2NzMt/NjkzMS5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Prestige Records Ltd.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 69071,
+      "resource_url": "https://api.discogs.com/labels/69071",
+      "thumbnail_url": "https://i.discogs.com/EvXoS6xeiaron6s66q8X0PKEzgu6KX2jzInhE-2xdc8/rs:fit/g:sm/q:90/h:600/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY5MDcx/LTE0ODg3NDQ2NzMt/NjkzMS5qcGVn.jpeg"
+    },
+    {
+      "name": "Prestige Records Ltd.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 69071,
+      "resource_url": "https://api.discogs.com/labels/69071",
+      "thumbnail_url": "https://i.discogs.com/EvXoS6xeiaron6s66q8X0PKEzgu6KX2jzInhE-2xdc8/rs:fit/g:sm/q:90/h:600/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTY5MDcx/LTE0ODg3NDQ2NzMt/NjkzMS5qcGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 0,
+    "want": 0,
+    "rating": {
+      "count": 0,
+      "average": 0
+    },
+    "submitter": {
+      "username": "Classical33",
+      "resource_url": "https://api.discogs.com/users/Classical33"
+    },
+    "contributors": [
+      {
+        "username": "Classical33",
+        "resource_url": "https://api.discogs.com/users/Classical33"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2025-06-09T05:38:24-07:00",
+  "date_changed": "2025-06-09T05:46:34-07:00",
+  "num_for_sale": 1,
+  "lowest_price": 17.78,
+  "title": "The Wilsons",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5011755050511"
+    },
+    {
+      "type": "Rights Society",
+      "value": "MCPS"
+    }
+  ],
+  "videos": [],
+  "genres": "Pop",
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "1",
+      "type_": "track",
+      "title": "That’s Not The Kind Of Love I Need Tonight ",
+      "duration": ""
+    },
+    {
+      "position": "2",
+      "type_": "track",
+      "title": "Playing With A Tender Heart",
+      "duration": ""
+    },
+    {
+      "position": "3",
+      "type_": "track",
+      "title": " Every Road Leads Back To You ",
+      "duration": ""
+    },
+    {
+      "position": "4",
+      "type_": "track",
+      "title": "Reason To Live",
+      "duration": ""
+    },
+    {
+      "position": "5",
+      "type_": "track",
+      "title": "A Face In The Crowd ",
+      "duration": ""
+    },
+    {
+      "position": "6",
+      "type_": "track",
+      "title": " The Show Must Go On",
+      "duration": ""
+    },
+    {
+      "position": "7",
+      "type_": "track",
+      "title": "Not A Day Goes By",
+      "duration": ""
+    },
+    {
+      "position": "8",
+      "type_": "track",
+      "title": "A Star In Momma’s Eyes",
+      "duration": ""
+    },
+    {
+      "position": "9",
+      "type_": "track",
+      "title": " Falling In Love Again",
+      "duration": ""
+    },
+    {
+      "position": "10",
+      "type_": "track",
+      "title": " I’m On My Way",
+      "duration": ""
+    },
+    {
+      "position": "11",
+      "type_": "track",
+      "title": "You Did",
+      "duration": ""
+    },
+    {
+      "position": "12",
+      "type_": "track",
+      "title": "Like Strangers",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/L7FUuYyAt7zdnA5F6l5bAkz9FysT6WU0THGKymncOLc/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NjEtNDE4MS5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/L7FUuYyAt7zdnA5F6l5bAkz9FysT6WU0THGKymncOLc/rs:fit/g:sm/q:90/h:600/w:577/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NjEtNDE4MS5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/5K01Sug0-Elaeauq4-ydx1mJ9sl7AUesf0Dv3vNMGnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NjEtNDE4MS5wbmc.jpeg",
+      "width": 577,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/mtnhlO1FFWypwhXc6jwbUD51FTDfQwOX6dUQtsoURWc/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NTktOTgzNy5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/mtnhlO1FFWypwhXc6jwbUD51FTDfQwOX6dUQtsoURWc/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NTktOTgzNy5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/a6Y81MZC59nME-VZmLLOIOpFfJUIobujOqHdQZsIQMQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NTktOTgzNy5wbmc.jpeg",
+      "width": 584,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/kmHsiyNygfv-OBmUn0XMOZDHUc416LDZPoXhN64Py0U/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NTktOTY0My5wbmc.jpeg",
+      "resource_url": "https://i.discogs.com/kmHsiyNygfv-OBmUn0XMOZDHUc416LDZPoXhN64Py0U/rs:fit/g:sm/q:90/h:600/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NTktOTY0My5wbmc.jpeg",
+      "uri150": "https://i.discogs.com/1lgBGUBKSZRktwac3vx75SXsYzwYqd8oYSxpiovmPF0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NTktOTY0My5wbmc.jpeg",
+      "width": 450,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/5K01Sug0-Elaeauq4-ydx1mJ9sl7AUesf0Dv3vNMGnA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MjE5/NDc3LTE3NDk0NzMx/NjEtNDE4MS5wbmc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

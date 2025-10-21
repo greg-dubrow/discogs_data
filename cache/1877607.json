@@ -1,0 +1,798 @@
+{
+  "id": 1877607,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/1877607",
+  "uri": "https://www.discogs.com/release/1877607-Arrow-2-Soca-Dance-Party",
+  "artists": [
+    {
+      "name": "Arrow (2)",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 167730,
+      "resource_url": "https://api.discogs.com/artists/167730",
+      "thumbnail_url": "https://i.discogs.com/le4120Fg-1bsGijXHJz3hS-7L3OGtAlGP668gDPTDYU/rs:fit/g:sm/q:90/h:274/w:216/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE2Nzcz/MC0xMTgzOTIyMDA4/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Arrow (2)",
+  "labels": [
+    {
+      "name": "Mango",
+      "catno": "MLPS 1057",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 10923,
+      "resource_url": "https://api.discogs.com/labels/10923",
+      "thumbnail_url": "https://i.discogs.com/jgFmMFsuPDX1iEFF1NMozoplI6jN3N-Xvy2JDl2qOQE/rs:fit/g:sm/q:90/h:553/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwOTIz/LTE2MTIwNTgwMzIt/OTA4My5qcGVn.jpeg"
+    },
+    {
+      "name": "Island Records",
+      "catno": "846 694-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 8377,
+      "resource_url": "https://api.discogs.com/labels/8377",
+      "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Island Records Ltd.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 63313,
+      "resource_url": "https://api.discogs.com/labels/63313",
+      "thumbnail_url": "https://i.discogs.com/dXfebumJOLE3qgv4kTWzX-tCCBBSdFcp9OWpjPhR-yg/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzMzEz/LTE0NDY4NTI3NDMt/OTY1NC5qcGVn.jpeg"
+    },
+    {
+      "name": "Island Records Inc.",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 27385,
+      "resource_url": "https://api.discogs.com/labels/27385",
+      "thumbnail_url": "https://i.discogs.com/JUn_x8V5oC9w7z22JFu8GXdmnjWUtWbmXXbh4habQGU/rs:fit/g:sm/q:90/h:44/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mzg1/LTE2OTYwMDkwMzUt/NTMyMi5qcGVn.jpeg"
+    },
+    {
+      "name": "Island Records Inc.",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 27385,
+      "resource_url": "https://api.discogs.com/labels/27385",
+      "thumbnail_url": "https://i.discogs.com/JUn_x8V5oC9w7z22JFu8GXdmnjWUtWbmXXbh4habQGU/rs:fit/g:sm/q:90/h:44/w:250/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3Mzg1/LTE2OTYwMDkwMzUt/NTMyMi5qcGVn.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 52,
+    "want": 5,
+    "rating": {
+      "count": 2,
+      "average": 5
+    },
+    "submitter": {
+      "username": "Diederichsen",
+      "resource_url": "https://api.discogs.com/users/Diederichsen"
+    },
+    "contributors": [
+      {
+        "username": "Diederichsen",
+        "resource_url": "https://api.discogs.com/users/Diederichsen"
+      },
+      {
+        "username": "dalhembe",
+        "resource_url": "https://api.discogs.com/users/dalhembe"
+      },
+      {
+        "username": "Mop66",
+        "resource_url": "https://api.discogs.com/users/Mop66"
+      },
+      {
+        "username": "Kater_Murr",
+        "resource_url": "https://api.discogs.com/users/Kater_Murr"
+      },
+      {
+        "username": "senator-recordings",
+        "resource_url": "https://api.discogs.com/users/senator-recordings"
+      },
+      {
+        "username": "teninchfan",
+        "resource_url": "https://api.discogs.com/users/teninchfan"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2009-08-06T11:01:35-07:00",
+  "date_changed": "2020-10-13T09:46:21-07:00",
+  "num_for_sale": 21,
+  "lowest_price": 3.56,
+  "master_id": 138990,
+  "master_url": "https://api.discogs.com/masters/138990",
+  "title": "Soca Dance Party",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "042284 669412"
+    },
+    {
+      "type": "Rights Society",
+      "value": "BIEM"
+    },
+    {
+      "type": "Rights Society",
+      "value": "STEMRA"
+    },
+    {
+      "type": "Label Code",
+      "value": "LC 0407"
+    },
+    {
+      "type": "Price Code",
+      "value": "PY 281"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MLPS 1057 A-1U-1-1 D",
+      "description": "Runout side A, stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MLPS 1057 B-1U-1-1 D",
+      "description": "Runout side B, stamped"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=8tZW0eE-3U4",
+      "title": "Arrow 1990 - Zouk Me",
+      "description": "Live At Nottinghill Carnival",
+      "duration": 264,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xwfeYI7mT8k",
+      "title": "Arrow Limbo Calypso",
+      "description": "PARA VOLVERLO A VIVIR\n\r\n\r-Video Upload powered by https://www.TunesToTube.com",
+      "duration": 361,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=JGIT9QXLSJs",
+      "title": "Easy dancin ARROW",
+      "description": " ",
+      "duration": 328,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1RxbxC_ySxA",
+      "title": "Arrow - Bills Remix",
+      "description": "A not so famous hit from Soca artist Arrow in the 80s. I produced the beat myself for the remix.\r\nhttp://djriddims.webs.com/",
+      "duration": 120,
+      "embed": true
+    }
+  ],
+  "genres": "Reggae",
+  "styles": ["Calypso", "Soca"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Zouk Me",
+      "duration": "5:27",
+      "extraartists": {}
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Fire",
+      "duration": "5:26",
+      "extraartists": {}
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Limbo Calypso",
+      "duration": "5:39",
+      "extraartists": {}
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Easy Dancing",
+      "duration": "5:37",
+      "extraartists": [
+        {
+          "name": "George Victory",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Male Bass]",
+          "tracks": "",
+          "id": 305113,
+          "resource_url": "https://api.discogs.com/artists/305113"
+        },
+        {
+          "name": "Kenrick Georges",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Male Bass]",
+          "tracks": "",
+          "id": 954999,
+          "resource_url": "https://api.discogs.com/artists/954999"
+        },
+        {
+          "name": "Kevin Anthony 'Chic'",
+          "anv": "Kevin Anthony \"Chic\"",
+          "join": "",
+          "role": "Backing Vocals [Male Bass]",
+          "tracks": "",
+          "id": 498616,
+          "resource_url": "https://api.discogs.com/artists/498616"
+        }
+      ]
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Good Wine",
+      "duration": "5:18",
+      "extraartists": {}
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Dance Party",
+      "duration": "5:32",
+      "extraartists": {}
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Don't Force It",
+      "duration": "5:36",
+      "extraartists": [
+        {
+          "name": "George Victory",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Male Bass]",
+          "tracks": "",
+          "id": 305113,
+          "resource_url": "https://api.discogs.com/artists/305113"
+        },
+        {
+          "name": "Kenrick Georges",
+          "anv": "",
+          "join": "",
+          "role": "Backing Vocals [Male Bass]",
+          "tracks": "",
+          "id": 954999,
+          "resource_url": "https://api.discogs.com/artists/954999"
+        },
+        {
+          "name": "Kevin Anthony 'Chic'",
+          "anv": "Kevin Anthony \"Chic\"",
+          "join": "",
+          "role": "Backing Vocals [Male Bass]",
+          "tracks": "",
+          "id": 498616,
+          "resource_url": "https://api.discogs.com/artists/498616"
+        },
+        {
+          "name": "Peter Panky",
+          "anv": "",
+          "join": "",
+          "role": "Rap [Featuring]",
+          "tracks": "",
+          "id": 955002,
+          "resource_url": "https://api.discogs.com/artists/955002"
+        }
+      ]
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Bills",
+      "duration": "5:00",
+      "extraartists": [
+        {
+          "name": "Kenrick Georges",
+          "anv": "",
+          "join": "",
+          "role": "Arranged By [Bass]",
+          "tracks": "",
+          "id": 954999,
+          "resource_url": "https://api.discogs.com/artists/954999"
+        },
+        {
+          "name": "Lloyd Lovindeer",
+          "anv": "Lovindeer",
+          "join": "",
+          "role": "Rap [Featuring]",
+          "tracks": "",
+          "id": 443879,
+          "resource_url": "https://api.discogs.com/artists/443879"
+        }
+      ]
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Frankie McIntosh",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Bass]",
+      "tracks": "A2, A3, B3",
+      "id": 468676,
+      "resource_url": "https://api.discogs.com/artists/468676"
+    },
+    {
+      "name": "Leston Paul",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Bass]",
+      "tracks": "A1, B1, B2",
+      "id": 495823,
+      "resource_url": "https://api.discogs.com/artists/495823"
+    },
+    {
+      "name": "Roland Richards",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Bass]",
+      "tracks": "A2 to B3",
+      "id": 202816,
+      "resource_url": "https://api.discogs.com/artists/202816"
+    },
+    {
+      "name": "Roland Richards",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By [Rhythm], Programmed By [Drums]",
+      "tracks": "",
+      "id": 202816,
+      "resource_url": "https://api.discogs.com/artists/202816"
+    },
+    {
+      "name": "Bianca Baptiste",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 806711,
+      "resource_url": "https://api.discogs.com/artists/806711"
+    },
+    {
+      "name": "George Victory",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 305113,
+      "resource_url": "https://api.discogs.com/artists/305113"
+    },
+    {
+      "name": "Janet Alleyne",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 768872,
+      "resource_url": "https://api.discogs.com/artists/768872"
+    },
+    {
+      "name": "Justin \"Hero\" Cassell",
+      "anv": "",
+      "join": "",
+      "role": "Backing Vocals",
+      "tracks": "",
+      "id": 806707,
+      "resource_url": "https://api.discogs.com/artists/806707"
+    },
+    {
+      "name": "Fred Nicholas",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 955005,
+      "resource_url": "https://api.discogs.com/artists/955005"
+    },
+    {
+      "name": "Sunshine Diaz",
+      "anv": "",
+      "join": "",
+      "role": "Bass",
+      "tracks": "",
+      "id": 954997,
+      "resource_url": "https://api.discogs.com/artists/954997"
+    },
+    {
+      "name": "Justin \"Hero\" Cassell",
+      "anv": "",
+      "join": "",
+      "role": "Co-producer",
+      "tracks": "",
+      "id": 806707,
+      "resource_url": "https://api.discogs.com/artists/806707"
+    },
+    {
+      "name": "Roland Richards",
+      "anv": "",
+      "join": "",
+      "role": "Co-producer",
+      "tracks": "",
+      "id": 202816,
+      "resource_url": "https://api.discogs.com/artists/202816"
+    },
+    {
+      "name": "Alphonsus Cassell",
+      "anv": "",
+      "join": "",
+      "role": "Edited By",
+      "tracks": "",
+      "id": 498209,
+      "resource_url": "https://api.discogs.com/artists/498209"
+    },
+    {
+      "name": "Kevin Anthony 'Chic'",
+      "anv": "Kevin Anthony \"Chic\"",
+      "join": "",
+      "role": "Edited By",
+      "tracks": "",
+      "id": 498616,
+      "resource_url": "https://api.discogs.com/artists/498616"
+    },
+    {
+      "name": "Julian McBrowne",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 404750,
+      "resource_url": "https://api.discogs.com/artists/404750"
+    },
+    {
+      "name": "Peter Rincon",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 955004,
+      "resource_url": "https://api.discogs.com/artists/955004"
+    },
+    {
+      "name": "Alphonsus Cassell",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 498209,
+      "resource_url": "https://api.discogs.com/artists/498209"
+    },
+    {
+      "name": "Jerry Rappaport",
+      "anv": "",
+      "join": "",
+      "role": "Executive-Producer",
+      "tracks": "",
+      "id": 281182,
+      "resource_url": "https://api.discogs.com/artists/281182"
+    },
+    {
+      "name": "Christopher \"Columbus\" Newland",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 1476398,
+      "resource_url": "https://api.discogs.com/artists/1476398"
+    },
+    {
+      "name": "Gary Resil",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 954998,
+      "resource_url": "https://api.discogs.com/artists/954998"
+    },
+    {
+      "name": "George Victory",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 305113,
+      "resource_url": "https://api.discogs.com/artists/305113"
+    },
+    {
+      "name": "Frankie McIntosh",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 468676,
+      "resource_url": "https://api.discogs.com/artists/468676"
+    },
+    {
+      "name": "Leston Paul",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 495823,
+      "resource_url": "https://api.discogs.com/artists/495823"
+    },
+    {
+      "name": "Roland Richards",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards",
+      "tracks": "",
+      "id": 202816,
+      "resource_url": "https://api.discogs.com/artists/202816"
+    },
+    {
+      "name": "Ted Jensen",
+      "anv": "Ted Jansen",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 259758,
+      "resource_url": "https://api.discogs.com/artists/259758"
+    },
+    {
+      "name": "Alphonsus Cassell",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 498209,
+      "resource_url": "https://api.discogs.com/artists/498209"
+    },
+    {
+      "name": "Julian McBrowne",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 404750,
+      "resource_url": "https://api.discogs.com/artists/404750"
+    },
+    {
+      "name": "Roland Richards",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "",
+      "id": 202816,
+      "resource_url": "https://api.discogs.com/artists/202816"
+    },
+    {
+      "name": "Clarence Derby",
+      "anv": "",
+      "join": "",
+      "role": "Other [Production Consultant]",
+      "tracks": "",
+      "id": 2708956,
+      "resource_url": "https://api.discogs.com/artists/2708956"
+    },
+    {
+      "name": "Jerry Rappaport",
+      "anv": "",
+      "join": "",
+      "role": "Other [Production Consultant]",
+      "tracks": "",
+      "id": 281182,
+      "resource_url": "https://api.discogs.com/artists/281182"
+    },
+    {
+      "name": "Junior Gray",
+      "anv": "",
+      "join": "",
+      "role": "Other [Production Consultant]",
+      "tracks": "",
+      "id": 1481247,
+      "resource_url": "https://api.discogs.com/artists/1481247"
+    },
+    {
+      "name": "Kenrick Georges",
+      "anv": "",
+      "join": "",
+      "role": "Other [Production Consultant]",
+      "tracks": "",
+      "id": 954999,
+      "resource_url": "https://api.discogs.com/artists/954999"
+    },
+    {
+      "name": "Marshall Argovitz",
+      "anv": "",
+      "join": "",
+      "role": "Other [Production Consultant]",
+      "tracks": "",
+      "id": 5552359,
+      "resource_url": "https://api.discogs.com/artists/5552359"
+    },
+    {
+      "name": "Anthony \"Bugs\" Niles",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 955003,
+      "resource_url": "https://api.discogs.com/artists/955003"
+    },
+    {
+      "name": "Leston Paul",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 495823,
+      "resource_url": "https://api.discogs.com/artists/495823"
+    },
+    {
+      "name": "Ricardo Mason",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 955001,
+      "resource_url": "https://api.discogs.com/artists/955001"
+    },
+    {
+      "name": "Roger Squitero",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 382995,
+      "resource_url": "https://api.discogs.com/artists/382995"
+    },
+    {
+      "name": "Roland Richards",
+      "anv": "",
+      "join": "",
+      "role": "Percussion",
+      "tracks": "",
+      "id": 202816,
+      "resource_url": "https://api.discogs.com/artists/202816"
+    },
+    {
+      "name": "Cecilia Tenconi",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone",
+      "tracks": "",
+      "id": 955000,
+      "resource_url": "https://api.discogs.com/artists/955000"
+    },
+    {
+      "name": "Charles Dougherty",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone",
+      "tracks": "",
+      "id": 209590,
+      "resource_url": "https://api.discogs.com/artists/209590"
+    },
+    {
+      "name": "Eddie Quarless",
+      "anv": "",
+      "join": "",
+      "role": "Saxophone",
+      "tracks": "",
+      "id": 555306,
+      "resource_url": "https://api.discogs.com/artists/555306"
+    },
+    {
+      "name": "Rick Davies (3)",
+      "anv": "",
+      "join": "",
+      "role": "Trombone",
+      "tracks": "",
+      "id": 1311543,
+      "resource_url": "https://api.discogs.com/artists/1311543"
+    },
+    {
+      "name": "Sam Burtis",
+      "anv": "",
+      "join": "",
+      "role": "Trombone",
+      "tracks": "",
+      "id": 274972,
+      "resource_url": "https://api.discogs.com/artists/274972"
+    },
+    {
+      "name": "Errol Ince",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "",
+      "id": 333210,
+      "resource_url": "https://api.discogs.com/artists/333210"
+    },
+    {
+      "name": "Kenrick Georges",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "",
+      "id": 954999,
+      "resource_url": "https://api.discogs.com/artists/954999"
+    },
+    {
+      "name": "Mac Gollehon",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "",
+      "id": 389718,
+      "resource_url": "https://api.discogs.com/artists/389718"
+    },
+    {
+      "name": "Alphonsus Cassell",
+      "anv": "",
+      "join": "",
+      "role": "Written-By, Producer, Directed By",
+      "tracks": "",
+      "id": 498209,
+      "resource_url": "https://api.discogs.com/artists/498209"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/b1YwzOrB8kATRYeF4mPww7tpvV1v4_jsh77EcwgZ-Sw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTU0ODYzMDQ5/MC03NDc4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/b1YwzOrB8kATRYeF4mPww7tpvV1v4_jsh77EcwgZ-Sw/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTU0ODYzMDQ5/MC03NDc4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/l8xUKvWVZx0iQz5Ckzcf2G3nQkFyiyJiUfedDK2MpRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTU0ODYzMDQ5/MC03NDc4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nUlZz-D7ibsDgr5Rb3O-ea0Eonu0PzwwruqsWpW7yqU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTU0ODYzMDQ5/Ni00ODg0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/nUlZz-D7ibsDgr5Rb3O-ea0Eonu0PzwwruqsWpW7yqU/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTU0ODYzMDQ5/Ni00ODg0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/lmoCxx3EuWx7XH3ruQC1Rc9E-yRMWQnZslHgX9uyYE0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTU0ODYzMDQ5/Ni00ODg0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 597
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Ar_KuD1j3a_RppD9hlCKYaEEDRoPQOmo4bCRnhU9DSQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTYwMjYwNjQz/MC0xMjUwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Ar_KuD1j3a_RppD9hlCKYaEEDRoPQOmo4bCRnhU9DSQ/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTYwMjYwNjQz/MC0xMjUwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/G6D4g_Hdamc1LQOuEvBGmbI3cac3caedVVxcL-6-JQk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTYwMjYwNjQz/MC0xMjUwLmpwZWc.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZzVGj2zJsjhtvD_glCJwo61NzmZs7oEtxg9V4d-veNA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTYwMjYwNjQz/My00MzE5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ZzVGj2zJsjhtvD_glCJwo61NzmZs7oEtxg9V4d-veNA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTYwMjYwNjQz/My00MzE5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/vD2WEyaYQLgHAHTD98wqZH4Q077l0rc4S2ddSbvJNkc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTYwMjYwNjQz/My00MzE5LmpwZWc.jpeg",
+      "width": 591,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/l8xUKvWVZx0iQz5Ckzcf2G3nQkFyiyJiUfedDK2MpRQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4Nzc2/MDctMTU0ODYzMDQ5/MC03NDc4LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

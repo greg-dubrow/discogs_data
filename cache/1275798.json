@@ -1,0 +1,188 @@
+{
+  "id": 1275798,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/1275798",
+  "uri": "https://www.discogs.com/release/1275798-Donna-Summer-Shout-It-Out",
+  "artists": [
+    {
+      "name": "Donna Summer",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 6270,
+      "resource_url": "https://api.discogs.com/artists/6270",
+      "thumbnail_url": "https://i.discogs.com/V9d8LB7pxxcFjtTyMZUKQq19FYATqWmFVBs33v-TzvA/rs:fit/g:sm/q:90/h:600/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTYyNzAt/MTYyMDY1Njg5Ny0y/NDQ0LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Donna Summer",
+  "labels": [
+    {
+      "name": "Blue Moon",
+      "catno": "BMLP 078",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 87111,
+      "resource_url": "https://api.discogs.com/labels/87111",
+      "thumbnail_url": "https://i.discogs.com/O6rYZAMWFxx1y_fOOh2rX5ABbuu0Qg3b58vvTgaT7mo/rs:fit/g:sm/q:90/h:396/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg3MTEx/LTEzMDU1OTgwNTQu/anBlZw.jpeg"
+    },
+    {
+      "name": "The Magnum Music Group",
+      "catno": "BMLP 078",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 217623,
+      "resource_url": "https://api.discogs.com/labels/217623",
+      "thumbnail_url": "https://i.discogs.com/zsNWDxLTmaQ3wSo20G6WBbLK6a08KySWbdpniBv2hPs/rs:fit/g:sm/q:90/h:218/w:214/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIxNzYy/My0xMjg5NzM1Njgz/LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 46,
+    "want": 24,
+    "rating": {
+      "count": 11,
+      "average": 3.73
+    },
+    "submitter": {
+      "username": "Klanzky",
+      "resource_url": "https://api.discogs.com/users/Klanzky"
+    },
+    "contributors": [
+      {
+        "username": "Klanzky",
+        "resource_url": "https://api.discogs.com/users/Klanzky"
+      },
+      {
+        "username": "hugohugo",
+        "resource_url": "https://api.discogs.com/users/hugohugo"
+      },
+      {
+        "username": "Crapcorrector",
+        "resource_url": "https://api.discogs.com/users/Crapcorrector"
+      },
+      {
+        "username": "tiger_soren",
+        "resource_url": "https://api.discogs.com/users/tiger_soren"
+      },
+      {
+        "username": "jopla2",
+        "resource_url": "https://api.discogs.com/users/jopla2"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2008-03-16T09:04:01-07:00",
+  "date_changed": "2021-11-07T17:58:45-08:00",
+  "num_for_sale": 6,
+  "lowest_price": 3.54,
+  "master_id": 86673,
+  "master_url": "https://api.discogs.com/masters/86673",
+  "title": "Shout It Out",
+  "country": "UK",
+  "released": "1990",
+  "notes": "No credits listed.\n\nRear sleeve has liner notes, by Bill Williams, researched by Sharon Williams.\n",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": ["Funk / Soul", "Pop"],
+  "styles": "Disco",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Fun Street",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Little Marie",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Shout It Out",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "They Can't Take Away The Music",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Back Off Boogaloo",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Jeannie",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Nice To See You",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Na Na Hey Hey",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Do What Mother Do",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/GAL4qzlyTXZA4g_9AExvqdeHJYGu8fGw1W2vY5RKBUw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTMyNzI0NjUw/NC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/GAL4qzlyTXZA4g_9AExvqdeHJYGu8fGw1W2vY5RKBUw/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTMyNzI0NjUw/NC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/crjJGa0I5y1hajh4y-VDzxImGYCGB74WGc-Wo_2ODoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTMyNzI0NjUw/NC5qcGVn.jpeg",
+      "width": 500,
+      "height": 500
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xcp_ca5xFVfR0Lf2kh8ypDNQMvX-Sn2FPODQorXQ200/rs:fit/g:sm/q:90/h:490/w:490/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTIzOTQ3NTc5/Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/xcp_ca5xFVfR0Lf2kh8ypDNQMvX-Sn2FPODQorXQ200/rs:fit/g:sm/q:90/h:490/w:490/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTIzOTQ3NTc5/Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/32dJTuNQmMBe0Nn91A9hL22ECyDWF_iuT4Ju_AtKTgw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTIzOTQ3NTc5/Ni5qcGVn.jpeg",
+      "width": 490,
+      "height": 490
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/l4TPm5V0cuQlIPT2oITAx3yufkNtJ6euIj7xniK87rg/rs:fit/g:sm/q:90/h:486/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTIzOTQ3NTgz/Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/l4TPm5V0cuQlIPT2oITAx3yufkNtJ6euIj7xniK87rg/rs:fit/g:sm/q:90/h:486/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTIzOTQ3NTgz/Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/6pOoAQoRafv1yI4c04iN_JOibQPBQUrn0yjQwcbH3KI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTIzOTQ3NTgz/Ny5qcGVn.jpeg",
+      "width": 458,
+      "height": 486
+    }
+  ],
+  "thumb": "https://i.discogs.com/crjJGa0I5y1hajh4y-VDzxImGYCGB74WGc-Wo_2ODoA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNzU3/OTgtMTMyNzI0NjUw/NC5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,409 @@
+{
+  "id": 3199244,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/3199244",
+  "uri": "https://www.discogs.com/release/3199244-Bloomsday-Fortuny",
+  "artists": [
+    {
+      "name": "Bloomsday",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 658609,
+      "resource_url": "https://api.discogs.com/artists/658609",
+      "thumbnail_url": "https://i.discogs.com/EjueQH5lcdMfRNy1SB1d3xg4c5RcIEK4qcygFT7f8CI/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY1ODYw/OS0xNDQ0ODQ0NjUx/LTM2MTAuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Bloomsday",
+  "labels": [
+    {
+      "name": "Island Records",
+      "catno": "ILPS 9972",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 8377,
+      "resource_url": "https://api.discogs.com/labels/8377",
+      "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+    },
+    {
+      "name": "Island Records",
+      "catno": "INT 846 964-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 8377,
+      "resource_url": "https://api.discogs.com/labels/8377",
+      "thumbnail_url": "https://i.discogs.com/Fxrre24n1gnsNRrmjrwjMC79o2Sp-rGzcuYQ-yqUyUU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNzct/MTYzNjU4Mjc0NC04/MDg5LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 77,
+    "want": 19,
+    "rating": {
+      "count": 9,
+      "average": 4.11
+    },
+    "submitter": {
+      "username": "discogvuka",
+      "resource_url": "https://api.discogs.com/users/discogvuka"
+    },
+    "contributors": [
+      {
+        "username": "discogvuka",
+        "resource_url": "https://api.discogs.com/users/discogvuka"
+      },
+      {
+        "username": "AlecTronic",
+        "resource_url": "https://api.discogs.com/users/AlecTronic"
+      },
+      {
+        "username": "torchomatic",
+        "resource_url": "https://api.discogs.com/users/torchomatic"
+      },
+      {
+        "username": "Ra_mirez",
+        "resource_url": "https://api.discogs.com/users/Ra_mirez"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2011-11-01T10:16:00-07:00",
+  "date_changed": "2019-05-10T02:25:35-07:00",
+  "num_for_sale": 8,
+  "lowest_price": 6.76,
+  "master_id": 302276,
+  "master_url": "https://api.discogs.com/masters/302276",
+  "title": "Fortuny",
+  "country": "UK",
+  "released": "1990",
+  "notes": "comes with lyrics inner-sheet.",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "ILPS 9972 A-1U-1-",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "ILPS 9972 B-1U-1-",
+      "description": "Side B"
+    },
+    {
+      "type": "Barcode",
+      "value": "042284 696418"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=UGx0XODBOhc",
+      "title": "Bloomsday - Universal Thirst",
+      "description": "\"Fortuny\"/1990\nBloomsday were formed by Chris Thomson of The Bathers and\ntwo former members of Lloyd Cole and the Commotions Stephen Irvine and Neil Clark.\nmore: http://dereksmusicblog.wordpress.com/2011/06/05/bloomsday-fortuny/\n\n\"who can you turn to?\nwho",
+      "duration": 408,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=7Y87ctfUIG0",
+      "title": "Bloomsday Strange Honey 1.wmv",
+      "description": "",
+      "duration": 192,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zOaU34LAetQ",
+      "title": "Bloomsday - Torn",
+      "description": "Recorded live at The Ampitheatre by Radio Forth and broadcast on November 25th, 1990.\n\nBrilliant, but shot lived band:\n\nNeil Clark: Guitar; Stephen Irvine: Drums ; Chris Thomson: Vocals",
+      "duration": 328,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Kh2NXzMYXoM",
+      "title": "Bloomsday - Lemon Beach - Billy Sloan session 1990",
+      "description": "Live version of Lemon Beach by Bloomsday, recorded for Billy Sloan session in 1990.  Bloomsday were formed by Chris Thomson of The Bathers and two former members of Lloyd Cole and the Commotions, Stephen Irvine and Neil Clark.",
+      "duration": 253,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=DMt3sCiDa0k",
+      "title": "Bloomsday - Forever Through Traps & Lies",
+      "description": "Recorded live at The Ampitheatre by Radio Forth and broadcast on November 25th, 1990.\n\nBrilliant, but short lived Scottish band:\n\nNeil Clark: Guitar; Stephen Irvine: Drums ; Chris Thomson: Vocals, guitar",
+      "duration": 290,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=YbtFoQH0vgg",
+      "title": "Bloomsday - North Country Girl",
+      "description": "Fortuny\n1990",
+      "duration": 278,
+      "embed": true
+    }
+  ],
+  "genres": "Rock",
+  "styles": ["Alternative Rock", "Folk Rock", "Blues Rock"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Strange Honey",
+      "duration": "3:03"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Black River",
+      "duration": "4:00"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Forever Through Traps And Lies",
+      "duration": "4:40"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Torn",
+      "duration": "3:37"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Universal Thirst",
+      "duration": "6:45"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "North Country Girl",
+      "duration": "4:40"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Lemon Beach",
+      "duration": "4:17"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "I Cheated Myself (For Someone Like You)",
+      "duration": "3:50"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Serene",
+      "duration": "3:30"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "63 Cinnamon Crescent",
+      "duration": "5:13"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mark Bedford",
+      "anv": "",
+      "join": "",
+      "role": "Bass, Double Bass",
+      "tracks": "",
+      "id": 409296,
+      "resource_url": "https://api.discogs.com/artists/409296"
+    },
+    {
+      "name": "Stephen Irvine",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 384482,
+      "resource_url": "https://api.discogs.com/artists/384482"
+    },
+    {
+      "name": "Neil Clark (2)",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 384479,
+      "resource_url": "https://api.discogs.com/artists/384479"
+    },
+    {
+      "name": "Bill Denton",
+      "anv": "",
+      "join": "",
+      "role": "Harmonica",
+      "tracks": "",
+      "id": 344544,
+      "resource_url": "https://api.discogs.com/artists/344544"
+    },
+    {
+      "name": "Douglas Muirden",
+      "anv": "",
+      "join": "",
+      "role": "Keyboards, Saxophone",
+      "tracks": "",
+      "id": 854978,
+      "resource_url": "https://api.discogs.com/artists/854978"
+    },
+    {
+      "name": "Bruce Lampcov",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A1 to A3, B1 to B4",
+      "id": 139294,
+      "resource_url": "https://api.discogs.com/artists/139294"
+    },
+    {
+      "name": "Ingmar Kiang",
+      "anv": "",
+      "join": "",
+      "role": "Mixed By",
+      "tracks": "A4 to A5, B5",
+      "id": 69581,
+      "resource_url": "https://api.discogs.com/artists/69581"
+    },
+    {
+      "name": "Anthony Moore",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 100685,
+      "resource_url": "https://api.discogs.com/artists/100685"
+    },
+    {
+      "name": "Bloomsday",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 658609,
+      "resource_url": "https://api.discogs.com/artists/658609"
+    },
+    {
+      "name": "Andy Jackson",
+      "anv": "",
+      "join": "",
+      "role": "Recorded By",
+      "tracks": "",
+      "id": 106573,
+      "resource_url": "https://api.discogs.com/artists/106573"
+    },
+    {
+      "name": "Chris Thomson",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 411810,
+      "resource_url": "https://api.discogs.com/artists/411810"
+    },
+    {
+      "name": "Syd Straw",
+      "anv": "",
+      "join": "",
+      "role": "Vocals [Additional]",
+      "tracks": "",
+      "id": 106910,
+      "resource_url": "https://api.discogs.com/artists/106910"
+    },
+    {
+      "name": "Chris Thomson",
+      "anv": "Thomson",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 411810,
+      "resource_url": "https://api.discogs.com/artists/411810"
+    },
+    {
+      "name": "Neil Clark (2)",
+      "anv": "Clark",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 384479,
+      "resource_url": "https://api.discogs.com/artists/384479"
+    },
+    {
+      "name": "Stephen Irvine",
+      "anv": "Irvine",
+      "join": "",
+      "role": "Written-By",
+      "tracks": "",
+      "id": 384482,
+      "resource_url": "https://api.discogs.com/artists/384482"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/Of65BPxDImuJPmQ31h-hKndSASS-LlkbHs1ByZVyNYU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDI1/Ny05MjcxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Of65BPxDImuJPmQ31h-hKndSASS-LlkbHs1ByZVyNYU/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDI1/Ny05MjcxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/yILqJXNcG53UzjlQJAjCHMj2dO1O9vQ0FQx5oAIvQ08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDI1/Ny05MjcxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FQi-SPsiykOBM0WL8FBkcmW4kKjmHghWSTafwBlq5vQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg5/My02NjY4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/FQi-SPsiykOBM0WL8FBkcmW4kKjmHghWSTafwBlq5vQ/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg5/My02NjY4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/d_VjxWwCeNaUCBbTOXt9Z42buikM6U-aebgVR0h5apc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg5/My02NjY4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 591
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/WIPpawInnzilRmpeBb79g0wqIG5dzE9CsBCmonGLGk8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDMw/Ny03OTIxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/WIPpawInnzilRmpeBb79g0wqIG5dzE9CsBCmonGLGk8/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDMw/Ny03OTIxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/yEwzoYRZ4hqneTvWpEBtnmMMHQ58aI2VOe13QXKpfE8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDMw/Ny03OTIxLmpwZWc.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/rFhKoYhwTp0ZQFD8-R8GuvzXotdT3G9NJCG_WYKrDkE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDMw/Ny04MTA1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/rFhKoYhwTp0ZQFD8-R8GuvzXotdT3G9NJCG_WYKrDkE/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDMw/Ny04MTA1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/1HoGIa_bpYRl2M8DffHjThH23uKDUqmA02ZCEhUaALE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDMw/Ny04MTA1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 598
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ve4WOwKtCFf_dpznedD6ShDNRsA9vVtUHIEWTfaHu9A/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg5/NS01MzQ1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ve4WOwKtCFf_dpznedD6ShDNRsA9vVtUHIEWTfaHu9A/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg5/NS01MzQ1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/zuqcdx0KkwQ6K1HIDF1Cm_4cPlTsbGQVm1VMN9l3ToI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg5/NS01MzQ1LmpwZWc.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lbJn4RHaxerhs3CE9ZFJCLGpsxBLbOIp9IOp2q9jiAg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg4/NC0yMDYyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/lbJn4RHaxerhs3CE9ZFJCLGpsxBLbOIp9IOp2q9jiAg/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg4/NC0yMDYyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/DPI82UDS8UcTOXWUFE27iL773xs6iV0FpiO8XMEvkoM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU0MjcyNjg4/NC0yMDYyLmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/yILqJXNcG53UzjlQJAjCHMj2dO1O9vQ0FQx5oAIvQ08/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxOTky/NDQtMTU1NzQ4MDI1/Ny05MjcxLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

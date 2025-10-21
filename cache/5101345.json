@@ -1,0 +1,203 @@
+{
+  "id": 5101345,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/5101345",
+  "uri": "https://www.discogs.com/release/5101345-Blue-Cheer-Blitzkrieg-Over-Nuremberg",
+  "artists": [
+    {
+      "name": "Blue Cheer",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 311959,
+      "resource_url": "https://api.discogs.com/artists/311959",
+      "thumbnail_url": "https://i.discogs.com/2cLlOuvjHVlvUbhyRNy4K1Ibp-aprKooobXz6Tx9YUo/rs:fit/g:sm/q:90/h:595/w:590/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMxMTk1/OS0xMTQzOTAyNDM2/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Blue Cheer",
+  "labels": [
+    {
+      "name": "Thunderbolt",
+      "catno": "THBL 091",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 13189,
+      "resource_url": "https://api.discogs.com/labels/13189",
+      "thumbnail_url": "https://i.discogs.com/2BEFKwJOqIufNdzgF8MjUGOetteyYUSPNCzXaADwBPg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEzMTg5/LTE0Nzc1NTgzNTct/NjQxNC5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 67,
+    "want": 51,
+    "rating": {
+      "count": 2,
+      "average": 4
+    },
+    "submitter": {
+      "username": "DailyRecords",
+      "resource_url": "https://api.discogs.com/users/DailyRecords"
+    },
+    "contributors": [
+      {
+        "username": "DailyRecords",
+        "resource_url": "https://api.discogs.com/users/DailyRecords"
+      },
+      {
+        "username": "edovan",
+        "resource_url": "https://api.discogs.com/users/edovan"
+      },
+      {
+        "username": "VicMarPox",
+        "resource_url": "https://api.discogs.com/users/VicMarPox"
+      },
+      {
+        "username": "scrmager",
+        "resource_url": "https://api.discogs.com/users/scrmager"
+      },
+      {
+        "username": "clelling",
+        "resource_url": "https://api.discogs.com/users/clelling"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-11-15T05:48:11-08:00",
+  "date_changed": "2021-05-14T07:12:59-07:00",
+  "num_for_sale": 9,
+  "lowest_price": 13.49,
+  "master_id": 307156,
+  "master_url": "https://api.discogs.com/masters/307156",
+  "title": "Blitzkrieg Over Nuremberg",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5 099882 319114"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "THBL 091 A-1 PR-R",
+      "description": "Etched A-side"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "THBL 091 B-1 A PR-R",
+      "description": "Etched B-side"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=B1wq87-tIhQ",
+      "title": "Blue Cheer - Blitzkrieg Over Nüremberg (1989) FULL ALBUM",
+      "description": "#bluecheer #psychedelic #psychedelicrock \n\n\"Blitzkrieg Over Nüremberg\" is the first live album by American blues-rock band Blue Cheer. \nIt features a cover of Jimi Hendrix's classic \"Red House\".",
+      "duration": 3685,
+      "embed": true
+    }
+  ],
+  "genres": "Rock",
+  "styles": "Hard Rock",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Babylon / Girl Next Door",
+      "duration": "9:38"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Ride With Me",
+      "duration": "9:09"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Just A Little Bit",
+      "duration": "4:38"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Summertime Blues",
+      "duration": "6:55"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Out Of Focus",
+      "duration": "4:48"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Doctor Please",
+      "duration": "12:24"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "The Hunter",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Red House",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/wqrSFNs2xlVFwSrRm14YteOjxrQ0PtTo1rDFrM4oU4E/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU1Nzg0/Ny0zNjAzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/wqrSFNs2xlVFwSrRm14YteOjxrQ0PtTo1rDFrM4oU4E/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU1Nzg0/Ny0zNjAzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/QAeyjivr-1dRxyA_QLyn3GJFK6mQBz2pBpb3MZoxIck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU1Nzg0/Ny0zNjAzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 595
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/8tbiSamdkWQON9Sm6UL3y7jD2Js57zcvtYnIhnFbWe8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU1Nzg1/MS0xNTU5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/8tbiSamdkWQON9Sm6UL3y7jD2Js57zcvtYnIhnFbWe8/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU1Nzg1/MS0xNTU5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/V8MqhYdys3FbvqxblIePOPZL8_6-mzOvwPaj0uXXs_g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU1Nzg1/MS0xNTU5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/RpFODmZL882nT6FFaoeFHmHL-95LgVMD1bvNq0DHHWg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU2MzA2/My0yODQxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/RpFODmZL882nT6FFaoeFHmHL-95LgVMD1bvNq0DHHWg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU2MzA2/My0yODQxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/qS1UQ5vtDPrx4NsW4mZdgwtJ44x7jKYvPf_NuV78Oq0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU2MzA2/My0yODQxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xtQySb58TNZNRWmLCobQf0D24OF_Vm-LJZrN1K3Tapc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU2MzA1/OS00MzQ5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/xtQySb58TNZNRWmLCobQf0D24OF_Vm-LJZrN1K3Tapc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU2MzA1/OS00MzQ5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/mALsaXiIdzp0K5wShKyW6lo-l20Cc4E_daMtFn80Ruk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU2MzA1/OS00MzQ5LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/QAeyjivr-1dRxyA_QLyn3GJFK6mQBz2pBpb3MZoxIck/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxMDEz/NDUtMTQ2MzU1Nzg0/Ny0zNjAzLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

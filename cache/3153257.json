@@ -1,0 +1,214 @@
+{
+  "id": 3153257,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/3153257",
+  "uri": "https://www.discogs.com/release/3153257-Thomas-Lang-Little-Moscow",
+  "artists": [
+    {
+      "name": "Thomas Lang",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 364095,
+      "resource_url": "https://api.discogs.com/artists/364095",
+      "thumbnail_url": "https://i.discogs.com/wZtTaqiDr8qFznEh7zLj1uregkfOcvTdL28gnqRTYCk/rs:fit/g:sm/q:90/h:468/w:341/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM2NDA5/NS0xMjEwMDYwOTg2/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Thomas Lang",
+  "labels": [
+    {
+      "name": "Epic",
+      "catno": "466825 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1005,
+      "resource_url": "https://api.discogs.com/labels/1005",
+      "thumbnail_url": "https://i.discogs.com/OnrWVpsnt5gL9ZTwNpDAc2Ra9MAP7XwTrGs0EeEJEgE/rs:fit/g:sm/q:90/h:421/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwMDUt/MTcwNTIzOTI5My0x/NTMyLnBuZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 64,
+    "want": 8,
+    "rating": {
+      "count": 2,
+      "average": 3.5
+    },
+    "submitter": {
+      "username": "Deadwax-Records",
+      "resource_url": "https://api.discogs.com/users/Deadwax-Records"
+    },
+    "contributors": [
+      {
+        "username": "Deadwax-Records",
+        "resource_url": "https://api.discogs.com/users/Deadwax-Records"
+      },
+      {
+        "username": "laomas",
+        "resource_url": "https://api.discogs.com/users/laomas"
+      },
+      {
+        "username": "M00D",
+        "resource_url": "https://api.discogs.com/users/M00D"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2011-10-09T15:16:44-07:00",
+  "date_changed": "2017-10-18T09:58:44-07:00",
+  "num_for_sale": 13,
+  "lowest_price": 2.33,
+  "master_id": 374870,
+  "master_url": "https://api.discogs.com/masters/374870",
+  "title": "Little Moscow",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=KMHp7OxhhdM",
+      "title": "Thomas Lang -  The  Longest Son",
+      "description": "By : Alexander Kemmler\n\nFacebook (Empire Music)\n\nhttps://www.facebook.com/LuisKemmlerallmusicallstyles",
+      "duration": 246,
+      "embed": true
+    }
+  ],
+  "genres": ["Electronic", "Pop"],
+  "styles": ["Downtempo", "Synth-pop", "Ballad"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Fail",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "The Longest Song",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Try",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Trouble",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Heaven",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Promise Me",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Out Of Reach",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "You Disturb Me",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Away From You",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "(From Russia With Love) Little Moscow",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Andy Redhead",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 535533,
+      "resource_url": "https://api.discogs.com/artists/535533"
+    },
+    {
+      "name": "John Murphy (2)",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Bass",
+      "tracks": "",
+      "id": 517047,
+      "resource_url": "https://api.discogs.com/artists/517047"
+    },
+    {
+      "name": "David Hughes (7)",
+      "anv": "David A. Hughes",
+      "join": "",
+      "role": "Producer, Keyboards",
+      "tracks": "",
+      "id": 929280,
+      "resource_url": "https://api.discogs.com/artists/929280"
+    },
+    {
+      "name": "Thomas Lang",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 364095,
+      "resource_url": "https://api.discogs.com/artists/364095"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/4dBXQj6iuGS8KYDjGoiJwIrI5UJwsA1tZYDNjZFWwr4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMy/NTctMTUwODM0NTU5/OC05MTE4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/4dBXQj6iuGS8KYDjGoiJwIrI5UJwsA1tZYDNjZFWwr4/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMy/NTctMTUwODM0NTU5/OC05MTE4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/oki3gcrpLJ8EGu-3GRv4CuXbSGUin5Y6IGvhY-EpbtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMy/NTctMTUwODM0NTU5/OC05MTE4LmpwZWc.jpeg",
+      "width": 593,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/J3kd0DVBX-laBQa8JVGAiOkaDK7BBMdyHFV7t-4TWYI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMy/NTctMTUwODM0NTky/MS0xNTAwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/J3kd0DVBX-laBQa8JVGAiOkaDK7BBMdyHFV7t-4TWYI/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMy/NTctMTUwODM0NTky/MS0xNTAwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/I4dsIcZzspShE5AgsuAuQqDlO6iDpeV7s13yJr5I1u8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMy/NTctMTUwODM0NTky/MS0xNTAwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 588
+    }
+  ],
+  "thumb": "https://i.discogs.com/oki3gcrpLJ8EGu-3GRv4CuXbSGUin5Y6IGvhY-EpbtI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNTMy/NTctMTUwODM0NTU5/OC05MTE4LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

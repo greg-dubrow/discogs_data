@@ -1,0 +1,230 @@
+{
+  "id": 6241991,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/6241991",
+  "uri": "https://www.discogs.com/release/6241991-Dim-Subooteyo-Lakeside",
+  "artists": [
+    {
+      "name": "Dim Subooteyo",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4072791,
+      "resource_url": "https://api.discogs.com/artists/4072791"
+    }
+  ],
+  "artists_sort": "Dim Subooteyo",
+  "labels": [
+    {
+      "name": "Snat Record Company",
+      "catno": "SNAT 001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 756259,
+      "resource_url": "https://api.discogs.com/labels/756259"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Low Noise Music",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 80169,
+      "resource_url": "https://api.discogs.com/labels/80169"
+    },
+    {
+      "name": "APT (2)",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 106110,
+      "resource_url": "https://api.discogs.com/labels/106110",
+      "thumbnail_url": "https://i.discogs.com/rVcocraPt29x26qM89teksWZBwF-lWLgvS2tfRYfahc/rs:fit/g:sm/q:90/h:192/w:415/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTEwNjEx/MC0xNTQyODg1MzA5/LTgyNDguanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 27,
+    "want": 17,
+    "rating": {
+      "count": 1,
+      "average": 5
+    },
+    "submitter": {
+      "username": "dsyn2spin",
+      "resource_url": "https://api.discogs.com/users/dsyn2spin"
+    },
+    "contributors": [
+      {
+        "username": "dsyn2spin",
+        "resource_url": "https://api.discogs.com/users/dsyn2spin"
+      },
+      {
+        "username": "KataToDaimonaEautou",
+        "resource_url": "https://api.discogs.com/users/KataToDaimonaEautou"
+      },
+      {
+        "username": "AndyEvans2",
+        "resource_url": "https://api.discogs.com/users/AndyEvans2"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2014-10-28T22:40:56-07:00",
+  "date_changed": "2020-12-28T02:52:15-08:00",
+  "num_for_sale": 12,
+  "lowest_price": 8.8,
+  "title": "Lakeside",
+  "country": "UK",
+  "released": "1990",
+  "notes": "One LP side project of The Mekons and The Three Johns.\r\n\r\nThe name of the group appears twice on the front sleeve.\r\nFirst as Dim Subooteyo and then as DiM SubUteo",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5020958000117"
+    }
+  ],
+  "videos": [],
+  "genres": ["Rock", "Folk, World, & Country"],
+  "styles": "Alternative Rock",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Lakeside",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "My Life With The Harehills Cruisers",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Phillipino Dementos Domestos",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Painkiller",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Who Is The Baddie? Says Alan Laddie",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Half Ponderosa",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Eat",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "The Evil One Cometh (He Rides Roughshod On The Shoulders Of The Poor)",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Je Suis Tres Fatigue",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Friend Bothering",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Rubble Trouble",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Mental (18)",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Voice",
+      "tracks": "",
+      "id": 8463831,
+      "resource_url": "https://api.discogs.com/artists/8463831"
+    },
+    {
+      "name": "Thick (9)",
+      "anv": "",
+      "join": "",
+      "role": "Guitar, Voice",
+      "tracks": "",
+      "id": 8463834,
+      "resource_url": "https://api.discogs.com/artists/8463834"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/AlltbP-2uyBKaoVw5h42aHEgpY7bdNcMXvhDvNQNXMU/rs:fit/g:sm/q:90/h:428/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5MjUy/OS0xMzA5LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/AlltbP-2uyBKaoVw5h42aHEgpY7bdNcMXvhDvNQNXMU/rs:fit/g:sm/q:90/h:428/w:432/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5MjUy/OS0xMzA5LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/guX9SacThFK_nnoRFWcJxpwraodnlSnmWEmh_B2T6KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5MjUy/OS0xMzA5LmpwZWc.jpeg",
+      "width": 432,
+      "height": 428
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/tO7qWlTf25dCWPXPxCtVFphvi9EidKLG7yiJK37d00E/rs:fit/g:sm/q:90/h:425/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5MjYx/NC00OTMwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/tO7qWlTf25dCWPXPxCtVFphvi9EidKLG7yiJK37d00E/rs:fit/g:sm/q:90/h:425/w:429/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5MjYx/NC00OTMwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/cgKVAs9PaW_B5f_ohZIT7TaobQ85YNNFiHGEyAFSyKs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5MjYx/NC00OTMwLmpwZWc.jpeg",
+      "width": 429,
+      "height": 425
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QxnFIbCNvapt6B2nY7E4fj331JxTpTvJ5ZJ1G6aDijo/rs:fit/g:sm/q:90/h:429/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5Mjcw/OS0xODEyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/QxnFIbCNvapt6B2nY7E4fj331JxTpTvJ5ZJ1G6aDijo/rs:fit/g:sm/q:90/h:429/w:436/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5Mjcw/OS0xODEyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/gtUkv0xtxWaKfh47IJcu18PeHRUXpj6FlhMzeQ-1vH4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5Mjcw/OS0xODEyLmpwZWc.jpeg",
+      "width": 436,
+      "height": 429
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nPVhYM-ObpZMwFJMjDlrzRXab9C0Yltb2RN2AhDDljE/rs:fit/g:sm/q:90/h:455/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5Mjc4/NS0zOTY0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/nPVhYM-ObpZMwFJMjDlrzRXab9C0Yltb2RN2AhDDljE/rs:fit/g:sm/q:90/h:455/w:458/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5Mjc4/NS0zOTY0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_DG81nXylRr3Pa1bAeZJ5vCF-V4BtUO5mSOQGKB5nkY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5Mjc4/NS0zOTY0LmpwZWc.jpeg",
+      "width": 458,
+      "height": 455
+    }
+  ],
+  "thumb": "https://i.discogs.com/guX9SacThFK_nnoRFWcJxpwraodnlSnmWEmh_B2T6KY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNDE5/OTEtMTQxNDU5MjUy/OS0xMzA5LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

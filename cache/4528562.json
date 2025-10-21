@@ -1,0 +1,277 @@
+{
+  "id": 4528562,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/4528562",
+  "uri": "https://www.discogs.com/release/4528562-The-Famous-Rays-Ending-Beginning",
+  "artists": [
+    {
+      "name": "The Famous Rays",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 3271520,
+      "resource_url": "https://api.discogs.com/artists/3271520",
+      "thumbnail_url": "https://i.discogs.com/e8W5C5_J1K6HvFVwXavmHFNx0ZmMe9PHNbEx7ahHRY0/rs:fit/g:sm/q:90/h:290/w:435/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTMyNzE1/MjAtMTYxNDEwODM4/My01ODI3LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Famous Rays, The",
+  "labels": [
+    {
+      "name": "Blue Dot Records (2)",
+      "catno": "MOULT 1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 240527,
+      "resource_url": "https://api.discogs.com/labels/240527"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 41,
+    "want": 120,
+    "rating": {
+      "count": 13,
+      "average": 4.31
+    },
+    "submitter": {
+      "username": "diamus",
+      "resource_url": "https://api.discogs.com/users/diamus"
+    },
+    "contributors": [
+      {
+        "username": "diamus",
+        "resource_url": "https://api.discogs.com/users/diamus"
+      },
+      {
+        "username": "garyfacio",
+        "resource_url": "https://api.discogs.com/users/garyfacio"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "Bb_flat7",
+        "resource_url": "https://api.discogs.com/users/Bb_flat7"
+      },
+      {
+        "username": "cafe80s",
+        "resource_url": "https://api.discogs.com/users/cafe80s"
+      },
+      {
+        "username": "Neuro24",
+        "resource_url": "https://api.discogs.com/users/Neuro24"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-05-01T14:26:30-07:00",
+  "date_changed": "2025-05-17T05:05:20-07:00",
+  "num_for_sale": 4,
+  "lowest_price": 20.07,
+  "title": "Ending Beginning",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=4ZKzVjQw6Rc",
+      "title": "THE FAMOUS RAYS - MOVE BY DANCE",
+      "description": "from their one and only release ¨ending beginning¨ on blue dot records from 1990, the famous rays of england play a mixture of goth and electro-synth, kinda reminicscent of bauhaus on this track.",
+      "duration": 477,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=uPGXqajQJPY",
+      "title": "THE FAMOUS RAYS  - THE SKY BELONGS TO THE SUN",
+      "description": "from their one and only release ¨ending beginning¨ put out in 1990 by blue dot records, reminds me of ultravox which is a good thing.",
+      "duration": 228,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=is3682RJKP0",
+      "title": "The Famous Rays - Ending Beginning 1990 | Post-Punk",
+      "description": "Post-Punk  (U.K)\n\n01. The Sky Belongs To The Sun\n02. Hard Times\n03. Agents Of Change\n04. Absolute Zero\n05 Uphill\n06. No Recognition\n07. Deception Island\n08. Black Dress\n09. Wealthy Not Healthy\n10. Release - For Bitten\n11. Blue World\n12. Move By Dance\n13. ",
+      "duration": 0,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=GIj2Ci09nNg",
+      "title": "Darkness 168: The Famous Rays - Agents of change",
+      "description": "The Famous Rays - Agents of change (Ending beginning, 1990)\nThis video has no profit. If the rightful owner wants to remove it only has to notify me without need denouncing it. Thanks and greets",
+      "duration": 270,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=mMtTvHLj3CA",
+      "title": "Famous Rays - Uphill (England, 1990)",
+      "description": "Band: Famous Rays\nAlbum: Ending Beginning\nYear: 1990\nOrigin: England\nStyle: darkwave, DIY, goth, indie, minimal synth, new wave, Synth-pop",
+      "duration": 178,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=5dxTockv_Vc",
+      "title": "Famous Rays - No Recognition",
+      "description": "\"Ending Beginning\", 1990\n\nhttps://www.discogs.com/The-Famous-Rays-Ending-Beginning/release/4528562\nhttp://goutroy.blogspot.com/2013/06/famous-rays-ending-beginning-lp.html",
+      "duration": 242,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PRiy4HeqbE0",
+      "title": "The Famous Rays -  Release",
+      "description": "Recorded at New York, beginning of the 80s.\nReleased 1990 at Blue Dot Records.\nhttps://www.discogs.com/The-Famous-Rays-Ending-Beginning/release/4528562\n\nFollow our channel for regular 'off the grid' uploads\nhttps://www.youtube.com/c/falloffthegrid?sub_con",
+      "duration": 294,
+      "embed": true
+    }
+  ],
+  "genres": "Electronic",
+  "styles": "Synth-pop",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "The Sky Belongs To The Sun",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Hard Times",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Agents Of Change",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Absolute Zero",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Uphill",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "No Recognition",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Deception Island",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Black Dress",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Wealthy Not Healthy",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Release - For Bitten",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Blue World",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Move By Dance",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "The Great Discovery",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/CX8Dp23EDLkTEgmNz7RatfMAszdoGVZillCMo4cBKWU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/My04Mzk3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/CX8Dp23EDLkTEgmNz7RatfMAszdoGVZillCMo4cBKWU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/My04Mzk3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/sVUfHS32FYswlh9TmrZStHKx6zSFIGSNcP_4baNkMm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/My04Mzk3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/2fx9dwhF9Q_CVFuMU-hm0pBTuE5d3txdXDvwXpMedIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NS0zNTc1LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/2fx9dwhF9Q_CVFuMU-hm0pBTuE5d3txdXDvwXpMedIc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NS0zNTc1LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/XIyMfJCruTDJ_chEy-DSji6w-cGI_3tOBlA_IAQVkcg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NS0zNTc1LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/XW51O3i0gvmNm14nL29Anwd1IUO8ogVVk6jMo9x_XQA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/Mi03ODEwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/XW51O3i0gvmNm14nL29Anwd1IUO8ogVVk6jMo9x_XQA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/Mi03ODEwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/5CZGkAh1-n4WKtL4XZkHQTJl6kBurvrEnGpD2L0pD-8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/Mi03ODEwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/LWtPIs4s6nlIjcS2M-KtBHUTxc-u0fa1XK0WeBqVd34/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/MS0zNzk3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/LWtPIs4s6nlIjcS2M-KtBHUTxc-u0fa1XK0WeBqVd34/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/MS0zNzk3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ug5BXo3IVZTe94AIJ1S5zg7zp3aGMswlpx5WWs6zCVs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/MS0zNzk3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yDfGFOBT2IVUX40rVsZd_KspKI46ycqK6CtFz0YXaQk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NS0yNTI3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/yDfGFOBT2IVUX40rVsZd_KspKI46ycqK6CtFz0YXaQk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NS0yNTI3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/hwd_J_YS8bv_Xiv_qV5RIO81CQR44u5-cOz2vrSWrak/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NS0yNTI3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eIfq_e6ZsNnR5uewJOwasWcWPu3oqQ918qcGlFOcE3E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NC0zNTUzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/eIfq_e6ZsNnR5uewJOwasWcWPu3oqQ918qcGlFOcE3E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NC0zNTUzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/_Gmhjw_dQ6gunsjLfCHjPL_lTXgMBgHGeYDJYZkq8ow/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/NC0zNTUzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/sVUfHS32FYswlh9TmrZStHKx6zSFIGSNcP_4baNkMm8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1Mjg1/NjItMTQzMTk3NzQ0/My04Mzk3LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

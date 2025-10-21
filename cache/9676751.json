@@ -1,0 +1,573 @@
+{
+  "id": 9676751,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/9676751",
+  "uri": "https://www.discogs.com/release/9676751-Various-NYC-Ska-Live",
+  "artists": [
+    {
+      "name": "Various",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 194,
+      "resource_url": "https://api.discogs.com/artists/194"
+    }
+  ],
+  "artists_sort": "Various",
+  "labels": [
+    {
+      "name": "Moon Records (8)",
+      "catno": "MRE-022",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 183824,
+      "resource_url": "https://api.discogs.com/labels/183824",
+      "thumbnail_url": "https://i.discogs.com/iKyVOA7Vv0uay8WndHcMLyYlMz7-rGU_VWVIDZGxY5Y/rs:fit/g:sm/q:90/h:370/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE4Mzgy/NC0xNTY5MTY5NTY1/LTIxNzEuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 29,
+    "want": 14,
+    "rating": {
+      "count": 2,
+      "average": 5
+    },
+    "submitter": {
+      "username": "drumlick",
+      "resource_url": "https://api.discogs.com/users/drumlick"
+    },
+    "contributors": [
+      {
+        "username": "drumlick",
+        "resource_url": "https://api.discogs.com/users/drumlick"
+      },
+      {
+        "username": "att-som",
+        "resource_url": "https://api.discogs.com/users/att-som"
+      },
+      {
+        "username": "liquidatormusic",
+        "resource_url": "https://api.discogs.com/users/liquidatormusic"
+      },
+      {
+        "username": "Daktaris_Ranch",
+        "resource_url": "https://api.discogs.com/users/Daktaris_Ranch"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2017-01-16T12:55:07-08:00",
+  "date_changed": "2022-01-08T17:58:25-08:00",
+  "num_for_sale": 3,
+  "lowest_price": 6.76,
+  "master_id": 1133633,
+  "master_url": "https://api.discogs.com/masters/1133633",
+  "title": "NYC Ska Live",
+  "country": "UK",
+  "released": "1990",
+  "notes": "UK issue. Title box and band names on front in gray (not yellow).\n\nRecorded and mixed live at The Cat Club, NYC, March 26th 1990.",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "MRE 22 A1",
+      "description": "A Side"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MRE 22 B1",
+      "description": "B Side"
+    },
+    {
+      "type": "Barcode",
+      "value": "5016557102215"
+    }
+  ],
+  "videos": [],
+  "genres": "Reggae",
+  "styles": "Ska",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Unknown Artist",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 355,
+          "resource_url": "https://api.discogs.com/artists/355"
+        }
+      ],
+      "title": "NYC Ska Craze Live - Intro",
+      "duration": "",
+      "extraartists": {}
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Bigger Thomas",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 266460,
+          "resource_url": "https://api.discogs.com/artists/266460"
+        }
+      ],
+      "title": "Moving",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Marc Wasserman",
+          "anv": "Wasserman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2922880,
+          "resource_url": "https://api.discogs.com/artists/2922880"
+        },
+        {
+          "name": "Steve Parker (12)",
+          "anv": "Parker",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2922883,
+          "resource_url": "https://api.discogs.com/artists/2922883"
+        }
+      ]
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Bigger Thomas",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 266460,
+          "resource_url": "https://api.discogs.com/artists/266460"
+        }
+      ],
+      "title": "Ska In My Pocket",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Marc Wasserman",
+          "anv": "Wasserman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2922880,
+          "resource_url": "https://api.discogs.com/artists/2922880"
+        },
+        {
+          "name": "Roger Apollon",
+          "anv": "Apollon",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2922882,
+          "resource_url": "https://api.discogs.com/artists/2922882"
+        },
+        {
+          "name": "Steve Parker (12)",
+          "anv": "Parker",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2922883,
+          "resource_url": "https://api.discogs.com/artists/2922883"
+        }
+      ]
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Skadanks",
+          "anv": "Skadanks",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 299661,
+          "resource_url": "https://api.discogs.com/artists/299661"
+        }
+      ],
+      "title": "Dancehall",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "The Skadanks",
+          "anv": "Skadanks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 299661,
+          "resource_url": "https://api.discogs.com/artists/299661"
+        }
+      ]
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Skadanks",
+          "anv": "Skadanks",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 299661,
+          "resource_url": "https://api.discogs.com/artists/299661"
+        }
+      ],
+      "title": "Just Ska",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "The Skadanks",
+          "anv": "Skadanks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 299661,
+          "resource_url": "https://api.discogs.com/artists/299661"
+        }
+      ]
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Steadys",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1287700,
+          "resource_url": "https://api.discogs.com/artists/1287700"
+        }
+      ],
+      "title": "Just Reflections",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Ani Schempf",
+          "anv": "Schempf",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 823031,
+          "resource_url": "https://api.discogs.com/artists/823031"
+        },
+        {
+          "name": "Rob Gainfort",
+          "anv": "Gainnfort",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2922881,
+          "resource_url": "https://api.discogs.com/artists/2922881"
+        }
+      ]
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Steadys",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1287700,
+          "resource_url": "https://api.discogs.com/artists/1287700"
+        }
+      ],
+      "title": "All You Can Stand",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Ani Schempf",
+          "anv": "Schempf",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 823031,
+          "resource_url": "https://api.discogs.com/artists/823031"
+        },
+        {
+          "name": "Chris Woehrle",
+          "anv": "Woehrle",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 1286195,
+          "resource_url": "https://api.discogs.com/artists/1286195"
+        },
+        {
+          "name": "Rob Gainfort",
+          "anv": "Gainnfort",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2922881,
+          "resource_url": "https://api.discogs.com/artists/2922881"
+        }
+      ]
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Skinnerbox",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 261814,
+          "resource_url": "https://api.discogs.com/artists/261814"
+        }
+      ],
+      "title": "Promise",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Brandt Abner",
+          "anv": "Abner",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 719581,
+          "resource_url": "https://api.discogs.com/artists/719581"
+        }
+      ]
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Skinnerbox",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 261814,
+          "resource_url": "https://api.discogs.com/artists/261814"
+        }
+      ],
+      "title": "Move Like You Gone",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Jeff Baker",
+          "anv": "Baker",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 271624,
+          "resource_url": "https://api.discogs.com/artists/271624"
+        }
+      ]
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Scofflaws",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 266472,
+          "resource_url": "https://api.discogs.com/artists/266472"
+        }
+      ],
+      "title": "Going Back To Kingston",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Mike Drance",
+          "anv": "Drance",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 975717,
+          "resource_url": "https://api.discogs.com/artists/975717"
+        },
+        {
+          "name": "Richard Brooks (4)",
+          "anv": "Brooks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 819915,
+          "resource_url": "https://api.discogs.com/artists/819915"
+        }
+      ]
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Scofflaws",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 266472,
+          "resource_url": "https://api.discogs.com/artists/266472"
+        }
+      ],
+      "title": "Aliskaba",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Mike Drance",
+          "anv": "Drance",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 975717,
+          "resource_url": "https://api.discogs.com/artists/975717"
+        },
+        {
+          "name": "Richard Brooks (4)",
+          "anv": "Brooks",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 819915,
+          "resource_url": "https://api.discogs.com/artists/819915"
+        }
+      ]
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The N.Y. Citizens",
+          "anv": "NY Citizens",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 4154288,
+          "resource_url": "https://api.discogs.com/artists/4154288"
+        }
+      ],
+      "title": "National Front",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Robert Tierney (2)",
+          "anv": "Tierney",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 2162604,
+          "resource_url": "https://api.discogs.com/artists/2162604"
+        }
+      ]
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Toasters",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 301549,
+          "resource_url": "https://api.discogs.com/artists/301549"
+        }
+      ],
+      "title": "Don't Say Forever",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Robert Hingley",
+          "anv": "Hingley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 268656,
+          "resource_url": "https://api.discogs.com/artists/268656"
+        }
+      ]
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "NYC Ska Allstars",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1287701,
+          "resource_url": "https://api.discogs.com/artists/1287701"
+        }
+      ],
+      "title": "Matt Davis",
+      "duration": "",
+      "extraartists": [
+        {
+          "name": "Robert Hingley",
+          "anv": "Hingley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 268656,
+          "resource_url": "https://api.discogs.com/artists/268656"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/3B9KbvtxcZy6QJnu9wr47yqBId9zhhdtp7O9K5QQkCE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzY3/NTEtMTU0Njg4NzU2/OC04ODAzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/3B9KbvtxcZy6QJnu9wr47yqBId9zhhdtp7O9K5QQkCE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzY3/NTEtMTU0Njg4NzU2/OC04ODAzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/cX4F2bqP88V2vcU4u38iWucdO60gK4PPsayff5ra948/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzY3/NTEtMTU0Njg4NzU2/OC04ODAzLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/cX4F2bqP88V2vcU4u38iWucdO60gK4PPsayff5ra948/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NzY3/NTEtMTU0Njg4NzU2/OC04ODAzLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

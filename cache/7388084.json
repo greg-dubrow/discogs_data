@@ -1,0 +1,229 @@
+{
+  "id": 7388084,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/7388084",
+  "uri": "https://www.discogs.com/release/7388084-Ted-Heath-And-His-Music-Thanks-For-The-Memory",
+  "artists": [
+    {
+      "name": "Ted Heath And His Music",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 357953,
+      "resource_url": "https://api.discogs.com/artists/357953",
+      "thumbnail_url": "https://i.discogs.com/OZSbqDyEX0tUD69qyjoxURo9aI3b8gQj5noqDyjcPeo/rs:fit/g:sm/q:90/h:213/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM1Nzk1/My0xMjY2NTA5NjQy/LmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Ted Heath And His Music",
+  "labels": [
+    {
+      "name": "President Records",
+      "catno": "PLE 529",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 14895,
+      "resource_url": "https://api.discogs.com/labels/14895",
+      "thumbnail_url": "https://i.discogs.com/Q-LozrKImcVknCo4xRENhtHI5xAB-UsM4m6nMqHkvPM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE0ODk1/LTE1NzkwOTA0NjEt/NzUzMy5wbmc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 6,
+    "want": 0,
+    "rating": {
+      "count": 0,
+      "average": 0
+    },
+    "submitter": {
+      "username": "appsedwards",
+      "resource_url": "https://api.discogs.com/users/appsedwards"
+    },
+    "contributors": [
+      {
+        "username": "appsedwards",
+        "resource_url": "https://api.discogs.com/users/appsedwards"
+      },
+      {
+        "username": "RGJones",
+        "resource_url": "https://api.discogs.com/users/RGJones"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2015-08-24T07:17:16-07:00",
+  "date_changed": "2018-09-16T04:17:26-07:00",
+  "num_for_sale": 8,
+  "lowest_price": 8.87,
+  "master_id": 1424003,
+  "master_url": "https://api.discogs.com/masters/1424003",
+  "title": "Thanks For The Memory",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5017447515290"
+    }
+  ],
+  "videos": [],
+  "genres": "Jazz",
+  "styles": "Big Band",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Thanks For The Memory",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Trumpet Voluntary",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Botch-A-Me",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Poor Little Rich Girl",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "In A Little Spanish Town",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Early Autumn",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Don't Let The Stars Get In Your Eyes",
+      "duration": ""
+    },
+    {
+      "position": "A8",
+      "type_": "track",
+      "title": "Mademoiselle",
+      "duration": ""
+    },
+    {
+      "position": "A9",
+      "type_": "track",
+      "title": "The Velvet Glove",
+      "duration": ""
+    },
+    {
+      "position": "A10",
+      "type_": "track",
+      "title": "Auld Lang Syne",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Them Who Has Gets",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Open The Door Richard",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Oliver Twist",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Narcissus",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Gone Gone",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Old Mother Hubbard",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Leave It To Love",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Get Out Of Town Before Sundown",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "title": "Sixty Second Got Together",
+      "duration": ""
+    },
+    {
+      "position": "B10",
+      "type_": "track",
+      "title": "This Is The Time (To Fall In Love)",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/_51iK49ZbWmfGkTi-SbrqIZVy5H5UHqRCFkZGJsWOEA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODgw/ODQtMTQ0MDQyNjg1/NS0yMjQxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_51iK49ZbWmfGkTi-SbrqIZVy5H5UHqRCFkZGJsWOEA/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODgw/ODQtMTQ0MDQyNjg1/NS0yMjQxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/TGRdpDDv6y3NT1ZG0wIGHbczpVoc3Ckgg1MXFgc0knU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODgw/ODQtMTQ0MDQyNjg1/NS0yMjQxLmpwZWc.jpeg",
+      "width": 596,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/OsPMdsI4MvO3TXTUuBJe6WqWXXQyxW4kjuRvRPhMxlE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODgw/ODQtMTQ0MDQyNjg2/Mi01OTg4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/OsPMdsI4MvO3TXTUuBJe6WqWXXQyxW4kjuRvRPhMxlE/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODgw/ODQtMTQ0MDQyNjg2/Mi01OTg4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/fo-36JPwsvkSV9UED5-DO39nkGMG4gj2WEz5HBZc4Tg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODgw/ODQtMTQ0MDQyNjg2/Mi01OTg4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 592
+    }
+  ],
+  "thumb": "https://i.discogs.com/TGRdpDDv6y3NT1ZG0wIGHbczpVoc3Ckgg1MXFgc0knU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczODgw/ODQtMTQ0MDQyNjg1/NS0yMjQxLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

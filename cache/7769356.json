@@ -1,0 +1,221 @@
+{
+  "id": 7769356,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/7769356",
+  "uri": "https://www.discogs.com/release/7769356-Bernard-Brooks-Cheers",
+  "artists": [
+    {
+      "name": "Bernard Brooks",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4182373,
+      "resource_url": "https://api.discogs.com/artists/4182373"
+    }
+  ],
+  "artists_sort": "Bernard Brooks",
+  "labels": [
+    {
+      "name": "Dance & Listen",
+      "catno": "DL 1017",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 1738139,
+      "resource_url": "https://api.discogs.com/labels/1738139",
+      "thumbnail_url": "https://i.discogs.com/NBYmDQixkj-gGP2HSuiMaZMuL9153IuMLogT4dayP08/rs:fit/g:sm/q:90/h:205/w:213/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3Mzgx/MzktMTU3NjcwODYy/MS01NDI0LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 3,
+    "want": 1,
+    "rating": {
+      "count": 0,
+      "average": 0
+    },
+    "submitter": {
+      "username": "fruitmooning",
+      "resource_url": "https://api.discogs.com/users/fruitmooning"
+    },
+    "contributors": [
+      {
+        "username": "fruitmooning",
+        "resource_url": "https://api.discogs.com/users/fruitmooning"
+      },
+      {
+        "username": "harbour",
+        "resource_url": "https://api.discogs.com/users/harbour"
+      },
+      {
+        "username": "HerrWinterhalter",
+        "resource_url": "https://api.discogs.com/users/HerrWinterhalter"
+      },
+      {
+        "username": "french_75",
+        "resource_url": "https://api.discogs.com/users/french_75"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2015-11-24T10:34:29-08:00",
+  "date_changed": "2023-09-09T14:12:28-07:00",
+  "num_for_sale": 7,
+  "lowest_price": 3.02,
+  "title": "Cheers",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": ["Jazz", "Latin"],
+  "styles": ["Cha-Cha", "Bossanova", "Tango", "Swing", "Holiday"],
+  "tracklist": [
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "The Festive Way",
+      "duration": ""
+    },
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Away In A Manger; The Miner's Dream Of Home",
+      "duration": "3:17"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "The Anniversary Waltz; My Old Dutch",
+      "duration": "2:46"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Does Santa Claus Sleep With His Whiskers; Jingle Bells",
+      "duration": "2:12"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Good King Wenceslas; Come Landlord Fill The Flowing Bowl",
+      "duration": "1:32"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "The Little Boy That Santa Claus Forgot; I Saw Mommy Kissing Santa Claus",
+      "duration": "3:40"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "I'll Be Home For Christmas; White Christmas",
+      "duration": "3:06"
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Rudolph, The Red-Nosed Reindeer; Cokey Cokey; The Happy Wanderer",
+      "duration": "2:42"
+    },
+    {
+      "position": "A8",
+      "type_": "track",
+      "title": "Winter Wonderland; A Broken Doll",
+      "duration": "2:42"
+    },
+    {
+      "position": "",
+      "type_": "heading",
+      "title": "The Party Way",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Here We Go Gathering Nuts In May (Parade) ",
+      "duration": "9:35"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Blame It On The Bossonova",
+      "duration": "2:10"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Fly Me To The Moon; Blame It On The Bossonova (Reprise)",
+      "duration": "1:50"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "After The Ball; Little Sir Echo; I Belong To Glasgow",
+      "duration": "2:33"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Oh! Oh! Antonio; Let's All Sing Like The Birdies Sing; Down At The Old Bull & Bush",
+      "duration": "2:33"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "We'll Keep A Welcome In The Hillside; Scotland The Brave; Match Of The Day Theme; Ilkley Moor Baht'at",
+      "duration": "2:12"
+    }
+  ],
+  "images": [
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/CdOss-mMr3wKJfpaIJygpK6jukw8egbyCKdaRKmoIH8/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDA3/Ni02NTU3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/CdOss-mMr3wKJfpaIJygpK6jukw8egbyCKdaRKmoIH8/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDA3/Ni02NTU3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/5l7lp7l0w6wlPkD-TL_R8J5IaW2yAjQgCfUDpvu77RY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDA3/Ni02NTU3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 569
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/74-cqEaIRDAcIJaqceHmH69hmlSNxKwNjjh_jOxtSnc/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDA5/NS04MjUxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/74-cqEaIRDAcIJaqceHmH69hmlSNxKwNjjh_jOxtSnc/rs:fit/g:sm/q:90/h:565/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDA5/NS04MjUxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/DNw3SOPte0yVh8EfQrSq89wh3zvxF905IE5ewTauUeY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDA5/NS04MjUxLmpwZWc.jpeg",
+      "width": 600,
+      "height": 565
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4QFzjTjRJoWNnH4PYVwM73evxY-Gy7ToCyn6Uryis1w/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDEx/OC04MTQwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/4QFzjTjRJoWNnH4PYVwM73evxY-Gy7ToCyn6Uryis1w/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDEx/OC04MTQwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/hGEc8-BMbrAnv2M4-DfNY2kZL8XM7h-uG17J3Mp_RMc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDEx/OC04MTQwLmpwZWc.jpeg",
+      "width": 587,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/aYjHr9JwyMp22iQnIQ2bDXs82Q8ETefygaD3NHtyn5c/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDEz/MC01MjU3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/aYjHr9JwyMp22iQnIQ2bDXs82Q8ETefygaD3NHtyn5c/rs:fit/g:sm/q:90/h:600/w:593/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDEz/MC01MjU3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/7r8VU-7hozV6IQCi3m8hHDA0dvCEQKpZJ5xk_pr4yLY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDEz/MC01MjU3LmpwZWc.jpeg",
+      "width": 593,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/5l7lp7l0w6wlPkD-TL_R8J5IaW2yAjQgCfUDpvu77RY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc3Njkz/NTYtMTQ0ODM5MDA3/Ni02NTU3LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

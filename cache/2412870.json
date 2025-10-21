@@ -1,0 +1,199 @@
+{
+  "id": 2412870,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/2412870",
+  "uri": "https://www.discogs.com/release/2412870-Johann-Skauss-Carnival-Day-At-Kirkby",
+  "artists": [
+    {
+      "name": "Johann Skauss",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1922947,
+      "resource_url": "https://api.discogs.com/artists/1922947"
+    }
+  ],
+  "artists_sort": "Johann Skauss",
+  "labels": [
+    {
+      "name": "Megaphone (4)",
+      "catno": "MEG 001",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 179299,
+      "resource_url": "https://api.discogs.com/labels/179299",
+      "thumbnail_url": "https://i.discogs.com/jc269BeeIuOua3UtdTrGNLefenueYcAaosH6MvT11gU/rs:fit/g:sm/q:90/h:267/w:260/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3OTI5/OS0xNjM4OTY3NjQ5/LTcxODUuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 6,
+    "want": 1,
+    "rating": {
+      "count": 0,
+      "average": 0
+    },
+    "submitter": {
+      "username": "nerdfly",
+      "resource_url": "https://api.discogs.com/users/nerdfly"
+    },
+    "contributors": [
+      {
+        "username": "nerdfly",
+        "resource_url": "https://api.discogs.com/users/nerdfly"
+      },
+      {
+        "username": "ianpontour",
+        "resource_url": "https://api.discogs.com/users/ianpontour"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2010-08-24T10:42:58-07:00",
+  "date_changed": "2020-05-06T12:13:18-07:00",
+  "num_for_sale": 4,
+  "lowest_price": 4.44,
+  "title": "Carnival Day At Kirkby",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": ["Classical", "Folk, World, & Country", "Rock"],
+  "styles": ["Art Rock", "Psychedelic Rock", "Symphonic Rock"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Carnivale: Waltz Number One",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Overture, The Carnival Begins",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Nine Days Wonder",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "It's Not Insane",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Belle Vue Morning",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "In The King's Garden",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Love Is Never Over",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "A Tale Of Two Cities",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Boy Am I A Big Boy Now?",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "I'll Be Your Bonaparte",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Forbidden Fruit",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Danza Pacha",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "The Flower Song",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Introduce Yourself",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "Nine Days Wonder (Reprise)",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/NemcB22I4cAzxJFclsq1gi8xECOyH3daeP6g1J3cyfY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/NC0zMzUyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/NemcB22I4cAzxJFclsq1gi8xECOyH3daeP6g1J3cyfY/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/NC0zMzUyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/zXRcHRiwvRSs9yCUaXa5dip79GkmWWdF7psUwOkr_xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/NC0zMzUyLmpwZWc.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bD53moeXvSnmKrglP50FdYPXCYitUbc4DEB88p3Yz6g/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/Ni03OTQ4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/bD53moeXvSnmKrglP50FdYPXCYitUbc4DEB88p3Yz6g/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/Ni03OTQ4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/nfNBK-c8jYEznI5VLhbHhomhreI1K1WL02iclhw5KSk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/Ni03OTQ4LmpwZWc.jpeg",
+      "width": 578,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/S1f5Me--4WzcqgsmiKwh80UPQWEeBrdqDcoo1FF-j30/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/Ni0yOTY3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/S1f5Me--4WzcqgsmiKwh80UPQWEeBrdqDcoo1FF-j30/rs:fit/g:sm/q:90/h:567/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/Ni0yOTY3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/cSpLEynJw47ybHbKwwfj02ahMznBsuxVU_5iSPSx8iY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/Ni0yOTY3LmpwZWc.jpeg",
+      "width": 600,
+      "height": 567
+    }
+  ],
+  "thumb": "https://i.discogs.com/zXRcHRiwvRSs9yCUaXa5dip79GkmWWdF7psUwOkr_xM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTI4/NzAtMTU4ODc5MjM5/NC0zMzUyLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,343 @@
+{
+  "id": 5984033,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/5984033",
+  "uri": "https://www.discogs.com/release/5984033-Various-Cry-For-A-Sound-Boy",
+  "artists": [
+    {
+      "name": "Various",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 194,
+      "resource_url": "https://api.discogs.com/artists/194"
+    }
+  ],
+  "artists_sort": "Various",
+  "labels": [
+    {
+      "name": "L.A. Records",
+      "catno": "LALP-1",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 83613,
+      "resource_url": "https://api.discogs.com/labels/83613",
+      "thumbnail_url": "https://i.discogs.com/h9h4kef9c6feFQbuviuzKoewrTB1_AoL-ppUCre8nQ4/rs:fit/g:sm/q:90/h:164/w:468/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzNjEz/LTEyMjgzMTMxMzUu/cG5n.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Bunny Lee Studio",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 653437,
+      "resource_url": "https://api.discogs.com/labels/653437"
+    },
+    {
+      "name": "Hollywood Sink Studio",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 1420699,
+      "resource_url": "https://api.discogs.com/labels/1420699"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 54,
+    "want": 26,
+    "rating": {
+      "count": 3,
+      "average": 5
+    },
+    "submitter": {
+      "username": "twinting",
+      "resource_url": "https://api.discogs.com/users/twinting"
+    },
+    "contributors": [
+      {
+        "username": "twinting",
+        "resource_url": "https://api.discogs.com/users/twinting"
+      },
+      {
+        "username": "DomCasual",
+        "resource_url": "https://api.discogs.com/users/DomCasual"
+      },
+      {
+        "username": "computerise",
+        "resource_url": "https://api.discogs.com/users/computerise"
+      },
+      {
+        "username": "ReggaeRobi",
+        "resource_url": "https://api.discogs.com/users/ReggaeRobi"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2014-08-14T16:49:38-07:00",
+  "date_changed": "2018-02-17T10:50:49-08:00",
+  "num_for_sale": 7,
+  "lowest_price": 17.78,
+  "title": "Cry For A Sound Boy",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Distributed : by Jet Star & APT(UK), Rude (D), Bertus\n& Recordex (NL),Good Stuff(I) and Caroline International \n\nRecorded at Bunny Lee's Studio,Kingston,Jamaica except \n* Recorded at Hollywood Sink Studio,Miami",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": "Reggae",
+  "styles": ["Dancehall", "Reggae"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Bimbo (6)",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1192696,
+          "resource_url": "https://api.discogs.com/artists/1192696"
+        },
+        {
+          "name": "Tony Rebel",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 124592,
+          "resource_url": "https://api.discogs.com/artists/124592"
+        }
+      ],
+      "title": "Broken Heart",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Bimbo (6)",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 1192696,
+          "resource_url": "https://api.discogs.com/artists/1192696"
+        }
+      ],
+      "title": "A No Nuttin'",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Collie Weed",
+          "anv": "Callie Weed",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 238321,
+          "resource_url": "https://api.discogs.com/artists/238321"
+        }
+      ],
+      "title": "Cry For A Sound Boy",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Collie Weed",
+          "anv": "Callie Weed",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 238321,
+          "resource_url": "https://api.discogs.com/artists/238321"
+        }
+      ],
+      "title": "Here Comes The Rain",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tony Rebel",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 124592,
+          "resource_url": "https://api.discogs.com/artists/124592"
+        }
+      ],
+      "title": "Good Instruction",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3850,
+          "resource_url": "https://api.discogs.com/artists/3850"
+        }
+      ],
+      "title": "Do What You Wanna Do",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Bimbo (6)",
+          "anv": "",
+          "join": ",",
+          "role": "",
+          "tracks": "",
+          "id": 1192696,
+          "resource_url": "https://api.discogs.com/artists/1192696"
+        },
+        {
+          "name": "Anthony Selassie",
+          "anv": "Selassie",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 449284,
+          "resource_url": "https://api.discogs.com/artists/449284"
+        }
+      ],
+      "title": "See The Girls",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tony Rebel",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 124592,
+          "resource_url": "https://api.discogs.com/artists/124592"
+        }
+      ],
+      "title": "Hurry Come Up",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Wally B. Anderson",
+          "anv": "Wally Bee",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 5052233,
+          "resource_url": "https://api.discogs.com/artists/5052233"
+        }
+      ],
+      "title": "Bull Buck*",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Andrea Morgan",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 2813233,
+          "resource_url": "https://api.discogs.com/artists/2813233"
+        }
+      ],
+      "title": "Cruising*",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Steve Friel",
+      "anv": "",
+      "join": "",
+      "role": "Cover, Design",
+      "tracks": "",
+      "id": 2324646,
+      "resource_url": "https://api.discogs.com/artists/2324646"
+    },
+    {
+      "name": "Derrick Morgan",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 64680,
+      "resource_url": "https://api.discogs.com/artists/64680"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/MnbFnhmmYWN6abGnz1rA_K8xmhky5HxGKayG3EWBswM/rs:fit/g:sm/q:90/h:191/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjIz/Ni0xMDExLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/MnbFnhmmYWN6abGnz1rA_K8xmhky5HxGKayG3EWBswM/rs:fit/g:sm/q:90/h:191/w:200/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjIz/Ni0xMDExLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/XilP78LGfl872AUPrIGgbDvCSlT9e4Smu8CanGmdnpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjIz/Ni0xMDExLmpwZWc.jpeg",
+      "width": 200,
+      "height": 191
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GQpsQhDqV6O-Ur88ezl9UZJYtFjc416K0eDnxByrrdc/rs:fit/g:sm/q:90/h:386/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjIz/OC0yODg0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/GQpsQhDqV6O-Ur88ezl9UZJYtFjc416K0eDnxByrrdc/rs:fit/g:sm/q:90/h:386/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjIz/OC0yODg0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/9xifQUfiHpqcGMFRcb33fyYqm7Q-6GK5OS6yoE3MAzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjIz/OC0yODg0LmpwZWc.jpeg",
+      "width": 400,
+      "height": 386
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ysmqIV0Jy4AM1OH5w1p8uruS_lySyEubWQkZdXxLLvg/rs:fit/g:sm/q:90/h:300/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjMx/NC01MTk3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ysmqIV0Jy4AM1OH5w1p8uruS_lySyEubWQkZdXxLLvg/rs:fit/g:sm/q:90/h:300/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjMx/NC01MTk3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/uQW6o3LaBTa_5T9ZD4RkJ-zgC5lLuyuLgysJZDnSF6E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjMx/NC01MTk3LmpwZWc.jpeg",
+      "width": 400,
+      "height": 300
+    }
+  ],
+  "thumb": "https://i.discogs.com/XilP78LGfl872AUPrIGgbDvCSlT9e4Smu8CanGmdnpg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5ODQw/MzMtMTQwODA2MjIz/Ni0xMDExLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

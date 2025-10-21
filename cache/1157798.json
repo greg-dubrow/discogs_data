@@ -1,0 +1,203 @@
+{
+  "id": 1157798,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/1157798",
+  "uri": "https://www.discogs.com/release/1157798-Crucial-Robbie-Crucial-View",
+  "artists": [
+    {
+      "name": "Crucial Robbie",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 42945,
+      "resource_url": "https://api.discogs.com/artists/42945",
+      "thumbnail_url": "https://i.discogs.com/QoyDQkYBe_natPwvRFwsBHu1LIk9FJ8OsyN6kmR5jTM/rs:fit/g:sm/q:90/h:496/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTQyOTQ1/LTEyODIyOTM3NjYu/anBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "Crucial Robbie",
+  "labels": [
+    {
+      "name": "Ariwa",
+      "catno": "ARILP056",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 8943,
+      "resource_url": "https://api.discogs.com/labels/8943",
+      "thumbnail_url": "https://i.discogs.com/f0O8WGuU7Q_SI6yH6lzhsPcIY5Xt6IraZ2gX4viF6zc/rs:fit/g:sm/q:90/h:207/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTg5NDMt/MTU2MzQ4MDc5Ny05/NjQxLmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 105,
+    "want": 82,
+    "rating": {
+      "count": 10,
+      "average": 4.2
+    },
+    "submitter": {
+      "username": "david_v",
+      "resource_url": "https://api.discogs.com/users/david_v"
+    },
+    "contributors": [
+      {
+        "username": "david_v",
+        "resource_url": "https://api.discogs.com/users/david_v"
+      },
+      {
+        "username": "puppadread",
+        "resource_url": "https://api.discogs.com/users/puppadread"
+      },
+      {
+        "username": "waaghals",
+        "resource_url": "https://api.discogs.com/users/waaghals"
+      },
+      {
+        "username": "arkona-creation",
+        "resource_url": "https://api.discogs.com/users/arkona-creation"
+      },
+      {
+        "username": "tapirella",
+        "resource_url": "https://api.discogs.com/users/tapirella"
+      },
+      {
+        "username": "crsmith",
+        "resource_url": "https://api.discogs.com/users/crsmith"
+      },
+      {
+        "username": "Rebeldubber",
+        "resource_url": "https://api.discogs.com/users/Rebeldubber"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2008-09-10T09:48:14-07:00",
+  "date_changed": "2024-06-10T11:32:46-07:00",
+  "num_for_sale": 14,
+  "lowest_price": 6.76,
+  "master_id": 846625,
+  "master_url": "https://api.discogs.com/masters/846625",
+  "title": "Crucial View",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=Wh2-o-zsr1U",
+      "title": "Crucial Robbie - Crucial View (full album)",
+      "description": "I don't own the copyrights or anything. Just a fan of (ArsenalFanTV's) Robbie and Arsenal.\n\nTracklist:\n1. Mobile Phone (0:00)\n2. Dem Green (3:22)\n3. Mandela Free (6:52)\n4. Hire Purchase (10:47)\n5. Afraid to Get Kicked Up (14:36)\n6. Axe the Poll Tax (18:33",
+      "duration": 1763,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Wh2-o-zsr1U",
+      "title": "Crucial Robbie - Crucial View (full album)",
+      "description": "I don't own the copyrights or anything. Just a fan of (ArsenalFanTV's) Robbie and Arsenal.\n\nTracklist:\n1. Mobile Phone (0:00)\n2. Dem Green (3:22)\n3. Mandela Free (6:52)\n4. Hire Purchase (10:47)\n5. Afraid to Get Kicked Up (14:36)\n6. Axe the Poll Tax (18:33",
+      "duration": 1763,
+      "embed": true
+    }
+  ],
+  "genres": "Reggae",
+  "styles": ["Dancehall", "Toasting"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Mobile Phone",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Dem Green",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Mandela Free",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Hire Purchase",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Afraid To Get Kicked Up",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Axe The Poll Tax",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Proud To Be Black",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Pirate 'Pon Dry Land",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/a_Q4U-InJ12qliSg9GlZd2RTYM33Qg_--J-2IDcoa3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTUwNTUyMDUx/Ni03MTE0LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/a_Q4U-InJ12qliSg9GlZd2RTYM33Qg_--J-2IDcoa3s/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTUwNTUyMDUx/Ni03MTE0LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/H-7WqNaQKnecKRtotf1FX2fB7EJVeUgHpKRznyel4Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTUwNTUyMDUx/Ni03MTE0LmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/1pHuwvB2pJ0XwFN3tv26lMs1NWD22XtATzvt7Ad1rCE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ny05ODE4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/1pHuwvB2pJ0XwFN3tv26lMs1NWD22XtATzvt7Ad1rCE/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ny05ODE4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/QRdmMhqHTjw21z4poxHwhWpgjWH2K87e270gWq2XRps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ny05ODE4LmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/4CFK0YDP7zlnxguWfBFYxktYzqz8Qw18juYiURkIwoA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ni00MzUzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/4CFK0YDP7zlnxguWfBFYxktYzqz8Qw18juYiURkIwoA/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ni00MzUzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/PDLDSfsnJNJzJIbE7rixfuiGkUby00fzYjgUvP8VObM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ni00MzUzLmpwZWc.jpeg",
+      "width": 591,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/elAdNhLSe1cpSdZYe-L78ve3JKbXpWvgogpLvEP375w/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ni0yMzIwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/elAdNhLSe1cpSdZYe-L78ve3JKbXpWvgogpLvEP375w/rs:fit/g:sm/q:90/h:600/w:586/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ni0yMzIwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/okqpRjzhsgc2_eBJEYb6hH-tG_XMcUY5TNMGhbwEXjs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTYxMzIyMzg1/Ni0yMzIwLmpwZWc.jpeg",
+      "width": 586,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/H-7WqNaQKnecKRtotf1FX2fB7EJVeUgHpKRznyel4Wg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNTc3/OTgtMTUwNTUyMDUx/Ni03MTE0LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

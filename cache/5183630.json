@@ -1,0 +1,533 @@
+{
+  "id": 5183630,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/5183630",
+  "uri": "https://www.discogs.com/release/5183630-Val-Wiseman-The-L-S-T-B-Orchestra-Lady-Sings-The-Blues",
+  "artists": [
+    {
+      "name": "Val Wiseman",
+      "anv": "",
+      "join": "&",
+      "role": "",
+      "tracks": "",
+      "id": 2569486,
+      "resource_url": "https://api.discogs.com/artists/2569486",
+      "thumbnail_url": "https://i.discogs.com/WR-HPFfxGKqXT6tS5Jgq072ZAggomFW8qT7A3dBA2T4/rs:fit/g:sm/q:90/h:400/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTI1Njk0/ODYtMTQxMzQ1MjU3/Ny04OTcxLmpwZWc.jpeg"
+    },
+    {
+      "name": "The L. S. T. B. Orchestra",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 6026473,
+      "resource_url": "https://api.discogs.com/artists/6026473"
+    }
+  ],
+  "artists_sort": "Val Wiseman & L. S. T. B. Orchestra, The",
+  "labels": [
+    {
+      "name": "Big Bear Records",
+      "catno": "BEAR 33",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 38721,
+      "resource_url": "https://api.discogs.com/labels/38721",
+      "thumbnail_url": "https://i.discogs.com/NJARmzrQv5J6jLelOphFtUJcNjLQZcyuchSaD85Hwtw/rs:fit/g:sm/q:90/h:386/w:467/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4NzIx/LTE1OTQ4NzUzMzAt/NzE0Ni5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "EMI Records Ltd.",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 63404,
+      "resource_url": "https://api.discogs.com/labels/63404",
+      "thumbnail_url": "https://i.discogs.com/jPWYmNtGDIPTntXH79umBL4q4lbnLQqaMW6KhcinFT4/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTYzNDA0/LTE1ODg2MTgxODMt/MTE2Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Sonopress",
+      "catno": "D-5460",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 95728,
+      "resource_url": "https://api.discogs.com/labels/95728",
+      "thumbnail_url": "https://i.discogs.com/qZ4DZUQLGiVs6HXXio49gkacsG1xYJU3vfFyR0i2Ohg/rs:fit/g:sm/q:90/h:180/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk1NzI4/LTE1NzE4NjA3MDIt/Njk4Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Black Barn Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 302356,
+      "resource_url": "https://api.discogs.com/labels/302356",
+      "thumbnail_url": "https://i.discogs.com/IX29OeaqnmLL4PTKJ3scv4tSqVGADNsAh0n6I_xXcdo/rs:fit/g:sm/q:90/h:98/w:184/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwMjM1/Ni0xMzE5ODIzMzI2/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Sonopress",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 95728,
+      "resource_url": "https://api.discogs.com/labels/95728",
+      "thumbnail_url": "https://i.discogs.com/qZ4DZUQLGiVs6HXXio49gkacsG1xYJU3vfFyR0i2Ohg/rs:fit/g:sm/q:90/h:180/w:479/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTk1NzI4/LTE1NzE4NjA3MDIt/Njk4Mi5qcGVn.jpeg"
+    },
+    {
+      "name": "Big Bear Records",
+      "catno": "",
+      "entity_type": "13",
+      "entity_type_name": "Phonographic Copyright (p)",
+      "id": 38721,
+      "resource_url": "https://api.discogs.com/labels/38721",
+      "thumbnail_url": "https://i.discogs.com/NJARmzrQv5J6jLelOphFtUJcNjLQZcyuchSaD85Hwtw/rs:fit/g:sm/q:90/h:386/w:467/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4NzIx/LTE1OTQ4NzUzMzAt/NzE0Ni5qcGVn.jpeg"
+    },
+    {
+      "name": "Big Bear Records",
+      "catno": "",
+      "entity_type": "14",
+      "entity_type_name": "Copyright (c)",
+      "id": 38721,
+      "resource_url": "https://api.discogs.com/labels/38721",
+      "thumbnail_url": "https://i.discogs.com/NJARmzrQv5J6jLelOphFtUJcNjLQZcyuchSaD85Hwtw/rs:fit/g:sm/q:90/h:386/w:467/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTM4NzIx/LTE1OTQ4NzUzMzAt/NzE0Ni5qcGVn.jpeg"
+    },
+    {
+      "name": "Chappell Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 268244,
+      "resource_url": "https://api.discogs.com/labels/268244",
+      "thumbnail_url": "https://i.discogs.com/qUyRlqgsOqcU-1ptn8ilsCigNOh-H5BJ3biDGjLFvCg/rs:fit/g:sm/q:90/h:47/w:450/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2ODI0/NC0xNDkxOTYxMDM4/LTczNDAuanBlZw.jpeg"
+    },
+    {
+      "name": "Campbell Connelly & Co. Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 279173,
+      "resource_url": "https://api.discogs.com/labels/279173",
+      "thumbnail_url": "https://i.discogs.com/d8JLM4Zu4CPzV5efmQRuA86YIM8gd3vl7YD2Alfp8N8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3OTE3/My0xNTA0Mzc4Njcy/LTI2MTIucG5n.jpeg"
+    },
+    {
+      "name": "EMI Music Publishing Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 265460,
+      "resource_url": "https://api.discogs.com/labels/265460",
+      "thumbnail_url": "https://i.discogs.com/QUVURY3OB4iixKDJbWXcejxXVjfw64FEPr6tx2MyyFc/rs:fit/g:sm/q:90/h:192/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTQ2/MC0xNjE3MDIxMTM3/LTQxMjguanBlZw.jpeg"
+    },
+    {
+      "name": "Keith Prowse Music Co. Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 857621,
+      "resource_url": "https://api.discogs.com/labels/857621"
+    },
+    {
+      "name": "B. Feldman & Co. Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 266605,
+      "resource_url": "https://api.discogs.com/labels/266605",
+      "thumbnail_url": "https://i.discogs.com/subQJsDAI0TY1pd2Ci4OvZpnskaBn-4mGZFcwdrmmp0/rs:fit/g:sm/q:90/h:159/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NjYw/NS0xNDgyMTgxNDI5/LTY0OTcuanBlZw.jpeg"
+    },
+    {
+      "name": "Cinephonic Music Co., Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 275969,
+      "resource_url": "https://api.discogs.com/labels/275969",
+      "thumbnail_url": "https://i.discogs.com/InxikQqx1bKY0kQIKcyo3Fdr8aBNrEGGcn5g_VxWqfM/rs:fit/g:sm/q:90/h:222/w:222/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NTk2/OS0xNDk1ODg4Mzg5/LTUwODIucG5n.jpeg"
+    },
+    {
+      "name": "Francis, Day & Hunter Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 273216,
+      "resource_url": "https://api.discogs.com/labels/273216",
+      "thumbnail_url": "https://i.discogs.com/kxDDlgGtibYB7yAjaETOKBvlZTN1hsGxuCoPjme_CwQ/rs:fit/g:sm/q:90/h:247/w:246/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3MzIx/Ni0xNDU4MTA3MjU4/LTIyNjQuanBlZw.jpeg"
+    },
+    {
+      "name": "Carlin Music Corp.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 265523,
+      "resource_url": "https://api.discogs.com/labels/265523",
+      "thumbnail_url": "https://i.discogs.com/phAgzudf3PeZNQWjmKfCbtBxqFEjA8jmfx8BVKu6Hwc/rs:fit/g:sm/q:90/h:63/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2NTUy/My0xNzMyOTc3MzEz/LTU1MzAuanBlZw.jpeg"
+    },
+    {
+      "name": "J. R. Lafleur & Son Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 833281,
+      "resource_url": "https://api.discogs.com/labels/833281",
+      "thumbnail_url": "https://i.discogs.com/0rQ1mltpetuyNSFl3ZY_XWpi_QGwF9A1-g4wL9L3v0U/rs:fit/g:sm/q:90/h:151/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTgzMzI4/MS0xNjI3MjEyMjYx/LTk0NzIuanBlZw.jpeg"
+    },
+    {
+      "name": "MCA Music Ltd.",
+      "catno": "",
+      "entity_type": "21",
+      "entity_type_name": "Published By",
+      "id": 266869,
+      "resource_url": "https://api.discogs.com/labels/266869",
+      "thumbnail_url": "https://i.discogs.com/IVR6KVSD1g_UfBqCpuBHS7GmqyqITcaR-6cvL6Umnps/rs:fit/g:sm/q:90/h:65/w:371/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2Njg2/OS0xNTgxNjgwNzMw/LTI2ODkuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 11,
+    "want": 2,
+    "rating": {
+      "count": 3,
+      "average": 3.33
+    },
+    "submitter": {
+      "username": "sheepdean",
+      "resource_url": "https://api.discogs.com/users/sheepdean"
+    },
+    "contributors": [
+      {
+        "username": "sheepdean",
+        "resource_url": "https://api.discogs.com/users/sheepdean"
+      },
+      {
+        "username": "andygrayrecords",
+        "resource_url": "https://api.discogs.com/users/andygrayrecords"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "Stathisan",
+        "resource_url": "https://api.discogs.com/users/Stathisan"
+      },
+      {
+        "username": "boysandgirls",
+        "resource_url": "https://api.discogs.com/users/boysandgirls"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-12-11T12:21:40-08:00",
+  "date_changed": "2019-03-14T17:05:46-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 7.09,
+  "master_id": 1517331,
+  "master_url": "https://api.discogs.com/masters/1517331",
+  "title": "Lady Sings The Blues",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5018128003310",
+      "description": "Scanned"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "006 DM D-5460 A-1",
+      "description": "A-side runout, stamped"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "006 DM D-5460 B-1",
+      "description": "B-side runout, stamped"
+    },
+    {
+      "type": "Pressing Plant ID",
+      "value": "[Bass clef]",
+      "description": "Embossed on side B label"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=PsvzD8u4JUI",
+      "title": "Val Wiseman",
+      "description": "Lady Sings the Blues",
+      "duration": 901,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=PsvzD8u4JUI",
+      "title": "Val Wiseman",
+      "description": "Lady Sings the Blues",
+      "duration": 901,
+      "embed": true
+    }
+  ],
+  "genres": ["Jazz", "Blues"],
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Eeny Meeny Miny Mo",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "What Shall I Say?",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "One, Two, Button Your Shoe",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "I'll Never Be The Same",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "How Could You?",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Am I Blue?",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "What A Little Moonlight Can Do",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Miss Brown To You",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "On The Sentimental Side",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "It's Easy To Blame The Weather",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "He's Funny That Way",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "If Dreams Come True",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Lover Man",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Just One Of Those Things",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Al Gay",
+      "anv": "",
+      "join": "",
+      "role": "Clarinet",
+      "tracks": "",
+      "id": 1795920,
+      "resource_url": "https://api.discogs.com/artists/1795920"
+    },
+    {
+      "name": "Digby Fairweather",
+      "anv": "",
+      "join": "",
+      "role": "Cornet",
+      "tracks": "",
+      "id": 1177134,
+      "resource_url": "https://api.discogs.com/artists/1177134"
+    },
+    {
+      "name": "Len Skeat",
+      "anv": "",
+      "join": "",
+      "role": "Double Bass",
+      "tracks": "",
+      "id": 1293622,
+      "resource_url": "https://api.discogs.com/artists/1293622"
+    },
+    {
+      "name": "Eddie Taylor (5)",
+      "anv": "",
+      "join": "",
+      "role": "Drums",
+      "tracks": "",
+      "id": 2084813,
+      "resource_url": "https://api.discogs.com/artists/2084813"
+    },
+    {
+      "name": "Matt Oliver",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Assistant]",
+      "tracks": "",
+      "id": 590215,
+      "resource_url": "https://api.discogs.com/artists/590215"
+    },
+    {
+      "name": "Robin Black",
+      "anv": "",
+      "join": "",
+      "role": "Engineer [Recording And Mixing]",
+      "tracks": "",
+      "id": 290765,
+      "resource_url": "https://api.discogs.com/artists/290765"
+    },
+    {
+      "name": "Digby Fairweather",
+      "anv": "",
+      "join": "",
+      "role": "Flugelhorn [Fluegelhorn]",
+      "tracks": "",
+      "id": 1177134,
+      "resource_url": "https://api.discogs.com/artists/1177134"
+    },
+    {
+      "name": "Jim Douglas",
+      "anv": "",
+      "join": "",
+      "role": "Guitar",
+      "tracks": "",
+      "id": 1171983,
+      "resource_url": "https://api.discogs.com/artists/1171983"
+    },
+    {
+      "name": "Brian Lemon",
+      "anv": "",
+      "join": "",
+      "role": "Piano",
+      "tracks": "",
+      "id": 311977,
+      "resource_url": "https://api.discogs.com/artists/311977"
+    },
+    {
+      "name": "Jim Simpson",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 459059,
+      "resource_url": "https://api.discogs.com/artists/459059"
+    },
+    {
+      "name": "Al Gay",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Saxophone",
+      "tracks": "",
+      "id": 1795920,
+      "resource_url": "https://api.discogs.com/artists/1795920"
+    },
+    {
+      "name": "Roy Williams (3)",
+      "anv": "",
+      "join": "",
+      "role": "Trombone",
+      "tracks": "",
+      "id": 1428367,
+      "resource_url": "https://api.discogs.com/artists/1428367"
+    },
+    {
+      "name": "Digby Fairweather",
+      "anv": "",
+      "join": "",
+      "role": "Trumpet",
+      "tracks": "",
+      "id": 1177134,
+      "resource_url": "https://api.discogs.com/artists/1177134"
+    },
+    {
+      "name": "Val Wiseman",
+      "anv": "",
+      "join": "",
+      "role": "Vocals",
+      "tracks": "",
+      "id": 2569486,
+      "resource_url": "https://api.discogs.com/artists/2569486"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/-N8jNvxCxciksx3AxXh06jFTsZa5qOSatAuGN-y_vm8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My02OTkwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/-N8jNvxCxciksx3AxXh06jFTsZa5qOSatAuGN-y_vm8/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My02OTkwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/wu1TgMOFSrtATTmYHRTIZyjenpf_2MN0YP7jvQvEuro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My02OTkwLmpwZWc.jpeg",
+      "width": 600,
+      "height": 590
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/eStLPZ1ee90GK5bC2-dJU_KS6xR63WKl6TlHn2lIVx4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My0yMzU4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/eStLPZ1ee90GK5bC2-dJU_KS6xR63WKl6TlHn2lIVx4/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My0yMzU4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/OZm_26zpk8B87v_TxbNDjcQ48PClUI9DOFXGyAmPnps/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My0yMzU4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 589
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/xI55VOOYsoCHTeS0daHcI7WE2YBsEfwXG2GWl-shryM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My03ODMyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/xI55VOOYsoCHTeS0daHcI7WE2YBsEfwXG2GWl-shryM/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My03ODMyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/WudT_LJYm2IklTVVS3A8WPBIggnITfqnaJMzeZ9gyG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My03ODMyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ZPHkTF_SRioh1XUpto4zQ7WOUSJ3MQRr0XIWIRSc778/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My0xMDM4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ZPHkTF_SRioh1XUpto4zQ7WOUSJ3MQRr0XIWIRSc778/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My0xMDM4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/1r7WUwkfVVGvPtf81u-cUkdg_m5JHUbXVeIUjJu2bw0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My0xMDM4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 597
+    }
+  ],
+  "thumb": "https://i.discogs.com/wu1TgMOFSrtATTmYHRTIZyjenpf_2MN0YP7jvQvEuro/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUxODM2/MzAtMTQxOTk1ODc1/My02OTkwLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

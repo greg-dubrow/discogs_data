@@ -1,0 +1,229 @@
+{
+  "id": 450158,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/450158",
+  "uri": "https://www.discogs.com/release/450158-Its-Immaterial-Song",
+  "artists": [
+    {
+      "name": "It's Immaterial",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 118545,
+      "resource_url": "https://api.discogs.com/artists/118545",
+      "thumbnail_url": "https://i.discogs.com/ZmQCCscEegGN5qYKYaBf5XY-Hl-dbxlaVXyU_IjSqPc/rs:fit/g:sm/q:90/h:337/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTExODU0/NS0xNjU2OTY2MjIy/LTMyMzkuanBlZw.jpeg"
+    }
+  ],
+  "artists_sort": "It's Immaterial",
+  "labels": [
+    {
+      "name": "Siren (3)",
+      "catno": "SRNLP 27",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 240907,
+      "resource_url": "https://api.discogs.com/labels/240907",
+      "thumbnail_url": "https://i.discogs.com/sckrYI-DUxhg_OL97LgHQ8hScfv79Se7a-siqy2Tiqg/rs:fit/g:sm/q:90/h:276/w:277/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI0MDkw/Ny0xMzUyODQxMTE1/LTk2MTkuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 253,
+    "want": 223,
+    "rating": {
+      "count": 23,
+      "average": 4.17
+    },
+    "submitter": {
+      "username": "Finn",
+      "resource_url": "https://api.discogs.com/users/Finn"
+    },
+    "contributors": [
+      {
+        "username": "Finn",
+        "resource_url": "https://api.discogs.com/users/Finn"
+      },
+      {
+        "username": "SillyKees",
+        "resource_url": "https://api.discogs.com/users/SillyKees"
+      },
+      {
+        "username": "clint680",
+        "resource_url": "https://api.discogs.com/users/clint680"
+      },
+      {
+        "username": "FromLondon",
+        "resource_url": "https://api.discogs.com/users/FromLondon"
+      },
+      {
+        "username": "loulediscos",
+        "resource_url": "https://api.discogs.com/users/loulediscos"
+      },
+      {
+        "username": "Vivalafica",
+        "resource_url": "https://api.discogs.com/users/Vivalafica"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2005-05-03T06:18:22-07:00",
+  "date_changed": "2022-04-05T15:35:46-07:00",
+  "num_for_sale": 3,
+  "lowest_price": 14.76,
+  "master_id": 96679,
+  "master_url": "https://api.discogs.com/masters/96679",
+  "title": "Song",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=qMZZ1XeOHTQ",
+      "title": "It's Immaterial - New Brighton",
+      "description": "The rarely seen video for their fabulous 'New Brighton' single, taken from an old Virgin labels compilation VHS.",
+      "duration": 345,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=zHcPioEw6rk",
+      "title": "It's Immaterial - In The Neighbourhood",
+      "description": "SUPPORT THE BAND:\n\nhttps://itunes.apple.com/us/artist/its-immaterial/id14551582\nhttps://open.spotify.com/artist/62LaH15bE6s0rsq4SbxftC\n\n\nDISCLAIMER: The content within these recordings is the sole property of their respective Owners, Designers, Writers, C",
+      "duration": 305,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=X_rRl0NnlfQ",
+      "title": "It's Immaterial  \"Life On The Hill\"",
+      "description": "The intelligent art pop duet of John Campbell and Jarvis Whitehead, named \"It's Immaterial\",  released the second album titled \"Song\", back in 1990. A nice special story amongst the numerous diamonds of the album, is this one, \"Life On The Hill\".\nI don't ",
+      "duration": 376,
+      "embed": true
+    }
+  ],
+  "genres": "Electronic",
+  "styles": "Synth-pop",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "New Brighton",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Endless Holiday",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "An Ordinary Life",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Heaven Knows",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "In The Neighbourhood",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Missing",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Homecoming",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Summer Winds",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Life On The Hill",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Your Voice",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Calum Malcolm",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 270655,
+      "resource_url": "https://api.discogs.com/artists/270655"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/bjjkNAIN2a51fRL4jRIzOi-Rk38rTifiYYW9xWqoY6k/rs:fit/g:sm/q:90/h:458/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ3OTQ2NTI3/LTM0MTIuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/bjjkNAIN2a51fRL4jRIzOi-Rk38rTifiYYW9xWqoY6k/rs:fit/g:sm/q:90/h:458/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ3OTQ2NTI3/LTM0MTIuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/SxO92sDjVE4UwRMogqY8W5xM-TSF55tmlgc5wFdk_Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ3OTQ2NTI3/LTM0MTIuanBlZw.jpeg",
+      "width": 480,
+      "height": 458
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/x36DrgQKvCy6bnHaarBzj0RCYGDoPh_cGd3w3nbwHSg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MDk3/LTE2OTguanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/x36DrgQKvCy6bnHaarBzj0RCYGDoPh_cGd3w3nbwHSg/rs:fit/g:sm/q:90/h:588/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MDk3/LTE2OTguanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/QU5Mr2X0aHsY3HIUlqtOOCfNbUETA7Vt0RSZKyW7fww/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MDk3/LTE2OTguanBlZw.jpeg",
+      "width": 600,
+      "height": 588
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/3hMauL8lneMzUq5kr_dd2RiZC9n1dROpWwIHkS2m-nU/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MTAz/LTc1MDUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/3hMauL8lneMzUq5kr_dd2RiZC9n1dROpWwIHkS2m-nU/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MTAz/LTc1MDUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/yn_l0rSpy1Z0UyIGyAP0YBLrs95NPByAUDmPUiS4X6o/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MTAz/LTc1MDUuanBlZw.jpeg",
+      "width": 600,
+      "height": 576
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ipi5Az8B4q55wRRzc61zUjO2Qj9QN_Q_Ucd5RR7NEeQ/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MTA3/LTE1ODkuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/ipi5Az8B4q55wRRzc61zUjO2Qj9QN_Q_Ucd5RR7NEeQ/rs:fit/g:sm/q:90/h:573/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MTA3/LTE1ODkuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/YQMmkUqyKrxy7ZSlJv3kyTkxuim1vGw8PX6PgI3Hes0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ5MTk4MTA3/LTE1ODkuanBlZw.jpeg",
+      "width": 600,
+      "height": 573
+    }
+  ],
+  "thumb": "https://i.discogs.com/SxO92sDjVE4UwRMogqY8W5xM-TSF55tmlgc5wFdk_Dk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1MDE1/OC0xNjQ3OTQ2NTI3/LTM0MTIuanBlZw.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

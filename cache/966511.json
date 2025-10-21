@@ -1,0 +1,2449 @@
+{
+  "id": 966511,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/966511",
+  "uri": "https://www.discogs.com/release/966511-Various-The-Last-Temptation-Of-Elvis",
+  "artists": [
+    {
+      "name": "Various",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 194,
+      "resource_url": "https://api.discogs.com/artists/194"
+    }
+  ],
+  "artists_sort": "Various",
+  "labels": [
+    {
+      "name": "New Musical Express",
+      "catno": "NME LP 038/039",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 15335,
+      "resource_url": "https://api.discogs.com/labels/15335",
+      "thumbnail_url": "https://i.discogs.com/5khZvHfUTuL1g-SXktjXZvMzgtz8vr9gdVZfiUpH6CM/rs:fit/g:sm/q:90/h:300/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE1MzM1/LTEyNjQzMzU4Mjku/anBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Mayking Records",
+      "catno": "",
+      "entity_type": "10",
+      "entity_type_name": "Manufactured By",
+      "id": 91833,
+      "resource_url": "https://api.discogs.com/labels/91833",
+      "thumbnail_url": "https://i.discogs.com/OWFq_1jMyBkpU-kLIitcBXB-DKEq4OBDgQ6wlQADqaM/rs:fit/g:sm/q:90/h:240/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTkxODMz/LTEzMzc2NzkxMjIt/MjA1MC5qcGVn.jpeg"
+    },
+    {
+      "name": "Tape One",
+      "catno": "",
+      "entity_type": "29",
+      "entity_type_name": "Mastered At",
+      "id": 173687,
+      "resource_url": "https://api.discogs.com/labels/173687",
+      "thumbnail_url": "https://i.discogs.com/zL9RGCEJ00F05UReH3BYuWMlOX6K8ITyZAmjiAgQ1sY/rs:fit/g:sm/q:90/h:177/w:207/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTE3MzY4/Ny0xMzI5NzI3NzU4/LmpwZWc.jpeg"
+    },
+    {
+      "name": "MPO",
+      "catno": "",
+      "entity_type": "17",
+      "entity_type_name": "Pressed By",
+      "id": 56025,
+      "resource_url": "https://api.discogs.com/labels/56025",
+      "thumbnail_url": "https://i.discogs.com/ESRU3eTUmc1632Us6_7LBipnaQGV6lJe-D5nyFxssyw/rs:fit/g:sm/q:90/h:336/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTU2MDI1/LTEzMTQ2OTg5ODQu/anBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "2",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 1542,
+    "want": 166,
+    "rating": {
+      "count": 78,
+      "average": 3.78
+    },
+    "submitter": {
+      "username": "DS_Helder",
+      "resource_url": "https://api.discogs.com/users/DS_Helder"
+    },
+    "contributors": [
+      {
+        "username": "DS_Helder",
+        "resource_url": "https://api.discogs.com/users/DS_Helder"
+      },
+      {
+        "username": "c0ch0",
+        "resource_url": "https://api.discogs.com/users/c0ch0"
+      },
+      {
+        "username": "ApeAstbury",
+        "resource_url": "https://api.discogs.com/users/ApeAstbury"
+      },
+      {
+        "username": "Drama_Ft._Justified",
+        "resource_url": "https://api.discogs.com/users/Drama_Ft._Justified"
+      },
+      {
+        "username": "jopla2",
+        "resource_url": "https://api.discogs.com/users/jopla2"
+      },
+      {
+        "username": "gone4sure",
+        "resource_url": "https://api.discogs.com/users/gone4sure"
+      },
+      {
+        "username": "DiscogsUpdateBot",
+        "resource_url": "https://api.discogs.com/users/DiscogsUpdateBot"
+      },
+      {
+        "username": "Lillen",
+        "resource_url": "https://api.discogs.com/users/Lillen"
+      },
+      {
+        "username": "HundredShadesOfBlue",
+        "resource_url": "https://api.discogs.com/users/HundredShadesOfBlue"
+      },
+      {
+        "username": "geordi11",
+        "resource_url": "https://api.discogs.com/users/geordi11"
+      },
+      {
+        "username": "mesteren",
+        "resource_url": "https://api.discogs.com/users/mesteren"
+      },
+      {
+        "username": "gemini80s",
+        "resource_url": "https://api.discogs.com/users/gemini80s"
+      },
+      {
+        "username": "snookeroo",
+        "resource_url": "https://api.discogs.com/users/snookeroo"
+      },
+      {
+        "username": "beatlesmikey",
+        "resource_url": "https://api.discogs.com/users/beatlesmikey"
+      },
+      {
+        "username": "steve.fletcher",
+        "resource_url": "https://api.discogs.com/users/steve.fletcher"
+      },
+      {
+        "username": "roskone",
+        "resource_url": "https://api.discogs.com/users/roskone"
+      },
+      {
+        "username": "gatip",
+        "resource_url": "https://api.discogs.com/users/gatip"
+      },
+      {
+        "username": "olinad01",
+        "resource_url": "https://api.discogs.com/users/olinad01"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Accepted"
+  },
+  "format_quantity": 2,
+  "date_added": "2007-12-24T00:09:51-08:00",
+  "date_changed": "2024-03-14T16:42:00-07:00",
+  "num_for_sale": 65,
+  "lowest_price": 7.09,
+  "master_id": 29587,
+  "master_url": "https://api.discogs.com/masters/29587",
+  "title": "The Last Temptation Of Elvis",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Gatefold Sleeve\r\nSub-title: \"Songs From His Movies\".\r\n\r\nAll profits from this album are to be donated to the Nordoff-Robbins Music Therapy Centre, London.\r\n\r\nThis album is dedicated to the memory of Roger Scott.\r\n\r\nTrack D6 are previously unissued takes 1-3.\r\n\r\nA1 recorded at One On One Studio, North Hollywood, California.\r\nA2 recorded at Studio 17, Neckarhausen, West Germany.\r\nA3 recorded at Red House Studio.\r\nA4 recorded at Korner Studios, West London. Additional recording and mixing at Olympic Sound Studios, Barnes, London.\r\nA5 recorded at Korner Studios, West London.\r\nA6 recorded at Marcus Studios, Fulham, London.\r\nB2 recorded at Studio Four, Philadelphia, Pennsylvania.\r\nB3 recorded at The Church Recording Studios, North London.\r\nB4 recorded at Chicago Recording Company, Chicago.\r\nB5 recorded on location. Source: Monitor mix.\r\nB6 recorded at The Fallout Shelter, Island Studios, Chiswick, London. Additional recording at Audio One Studios, Soho, London and Angel Recording Studios, Islington, London.\r\nB7 recorded at Cabin Studios, Coventry.\r\nC1 recorded at A-Pawling Studios, New York.\r\nC2 recorded at The Fallout Shelter, Island Studios, Chiswick, London.\r\nC3 recorded at The Windings, North Wales.\r\nC4 recorded at Rich Bitch Studios, Birmingham.\r\nC5 recorded at KGM Studios, Wakefield, Yorkshire.\r\nC6 recorded at The Townhouse Studios, West London.\r\nC7 recorded at Sunnyside Studios, Ilford. Mixed at the Point Recording Studio, Belgravia, London.\r\nD1 recorded at Windmill Lane Studio No.2, Dublin.\r\nD2 recorded at Ardent Studio, Memphis, Tennessee.\r\nD3 recorded at Ocean Way, Hollywood, Los Angeles.\r\nD4 recorded at Studio Devout, Paris.\r\nD5 recorded at Maison Rouge Studios, London.\r\nD6 recorded at Radio Recorders, Hollywood, California.\r\n",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "NME 038/039 A¹ JA MPO"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "NME 038/039 A̶̷ B¹ MPO"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "NME 038/039 C¹ JA MPO"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "NME 038/039 C̶̷¹̶̷ D¹ MPO"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "NME 038/039 A^ JA MPO",
+      "description": "Side 1 variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "NME 038/039 A̶̷ B^ MPO",
+      "description": "Side 2 variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "NME 038/039 C^ JA MPO",
+      "description": "Side 3 variant 2"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "NME 038/039 C̶̷¹̶̷ D^ MPO",
+      "description": "Side 4 variant 2"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=AbbRQHBh2a0",
+      "title": "Aaron Neville - Young and Beautiful",
+      "description": "Aaron Neville singing \"Young and Beautiful\" from the \"Last Temptation of Elvis\" benefit CD.",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Or5ashg6Grk",
+      "title": "King Creole (Cath carroll and Steve Albini)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nKing Creole · Cath Caroll · Steve Albini\n\nWhen It All Comes Down\n\n℗ 1990; 2002 Copyright Control\n\nReleased on: 2002-01-12\n\nAuto-generated by YouTube.",
+      "duration": 135,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AbbRQHBh2a0",
+      "title": "Aaron Neville - Young and Beautiful",
+      "description": "Aaron Neville singing \"Young and Beautiful\" from the \"Last Temptation of Elvis\" benefit CD.",
+      "duration": 298,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Or5ashg6Grk",
+      "title": "King Creole (Cath carroll and Steve Albini)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nKing Creole · Cath Caroll · Steve Albini\n\nWhen It All Comes Down\n\n℗ 1990; 2002 Copyright Control\n\nReleased on: 2002-01-12\n\nAuto-generated by YouTube.",
+      "duration": 135,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Pmg46-OlyH4",
+      "title": "Viva las vegas / Bruce Springsteen + Lyrics",
+      "description": "i don't own this music.\r\n\r\nHey blackjack dealer, hit me man!\r\n\r\nBright lights city gonna set my soul gonna set my soul on fire\r\nI got a whole lotta money that's ready to burn so get those stakes up high\r\nThere's a thousand pretty women just-a waiting out ",
+      "duration": 191,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6o_ymi3brSs",
+      "title": "Sydney Youngblood - (Let Me Be Your) Teddy Bear",
+      "description": "Passion, Grace And Serious Bass... (1991)",
+      "duration": 108,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=LP440PgkI_U",
+      "title": "Tanita Tikaram - Loving you",
+      "description": "Tanita Tikaram, e o seu contributo para o album, \"The last temptation of Elvis.",
+      "duration": 134,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=1BltU4_GYFM",
+      "title": "Let's have a party - Robert Plant by Patachunga",
+      "description": "",
+      "duration": 223,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bQWXDPOR_Hw",
+      "title": "The Pogues - Got A Lot O'Livin' To Do",
+      "description": "From the album \"The Last Temptation Of Elvis\", Sub-title: \"Songs From His Movies\". \r\n\r\nAll profits from this album are to be donated to the Nordoff-Robbins Music Therapy Centre, London. \r\n\r\nThis album is dedicated to the memory of Roger Scott.",
+      "duration": 152,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=d2tV-xQsakI",
+      "title": "Love Me Tender",
+      "description": "Provided to YouTube by Universal Music Group\n\nLove Me Tender · Holly Johnson\n\nBlast\n\n℗ 1990 Universal-MCA Music (UK) Ltd., a Universal Music Company\n\nReleased on: 2010-01-01\n\nComposer  Lyricist: Elvis Presley\nComposer  Lyricist: Vera Matson\n\nAuto-generate",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=95AEmfr3aCQ",
+      "title": "Paul McCartney - Its Now Or Never (Unreleased Song)",
+      "description": " ",
+      "duration": 184,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=R-xct_SjpYY",
+      "title": "Mean Woman Blues - Dion Dimucci",
+      "description": "Descripción",
+      "duration": 235,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ANEoicw82KE",
+      "title": "Guitarman",
+      "description": "Provided to YouTube by Rhino\n\nGuitarman · The Jesus And Mary Chain\n\nHoney's Dead\n\n℗ 1992 Warner Music UK Ltd\n\nComposer: Jerry Reed Hubbard\n\nAuto-generated by YouTube.",
+      "duration": 224,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Or5ashg6Grk",
+      "title": "King Creole (Cath carroll and Steve Albini)",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nKing Creole · Cath Caroll · Steve Albini\n\nWhen It All Comes Down\n\n℗ 1990; 2002 Copyright Control\n\nReleased on: 2002-01-12\n\nAuto-generated by YouTube.",
+      "duration": 135,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=VhI7dmuKvZ4",
+      "title": "Aaron Neville - Young And Beautiful  (Elvis Presley cover)",
+      "description": "The Last Temptation Of Elvis     1990",
+      "duration": 255,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=xrSTmBGGLsc",
+      "title": "Vivian Stanshall & The Big Boys - (There's) No Room To Rhumba In A Sports' Car",
+      "description": "From the album \"The Last Temptation Of Elvis\", Sub-title: \"Songs From His Movies\". \r\n\r\nAll profits from this album are to be donated to the Nordoff-Robbins Music Therapy Centre, London. \r\n\r\nThis album is dedicated to the memory of Roger Scott. \r\n\r\nVivian ",
+      "duration": 164,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=apiPOpgWl7w",
+      "title": "Primitives - Baby I Don't Care",
+      "description": "The Primitives contribution to the NME 1990 tribute collection The Last Temptation of Elvis.",
+      "duration": 125,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=AxAaoc3ehO0",
+      "title": "Can't Help Falling In Love Daryl Hall & John Oates",
+      "description": "Daryl Hall & John Oates singing a cover song on the album The Last Temptation of Elvis.https://www.facebook.com/groups/nogoodbyes/?ref=bookmarks\n\n\n- video upload powered by https://www.TunesToTube.com",
+      "duration": 256,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=IritOaD7TA8",
+      "title": "THE REGGAE PHILHARMONIC ORCHESTRA  \"Crawfish\"",
+      "description": "Artiesten zingen Elvis Presley.",
+      "duration": 215,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=rSgYbuqlpds",
+      "title": "Return to Sender",
+      "description": "Provided to YouTube by Rhino\n\nReturn to Sender · Ian McCulloch\n\nMysterio\n\n℗ 1990 East West Records\n\nEngineer: Gary Bradshaw\nEngineer: Gerard Johnson\nProducer: Ray Shulman\nComposer, Lyricist: BLACKWELL\nComposer, Lyricist: Scott\n\nAuto-generated by YouTube.",
+      "duration": 156,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=bv98Kz2XNfg",
+      "title": "Trouble",
+      "description": "Provided to YouTube by Rhino\n\nTrouble · Fuzzbox\n\nBig Bang\n\n℗ 1986 Warner Music (UK) Ltd.\n\nWriter: Jerry Leiber\nWriter: Mike Stoller\n\nAuto-generated by YouTube.",
+      "duration": 157,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=UC9ClVDO5Wc",
+      "title": "The Hollow Men - The Rolling Sea",
+      "description": "From the album \"Last Temptation Of Elvis\"\nProduced by The Hollow Men\n© BMG 1990\n\nThe Hollow Men\nDavid Ashmoore - vocals\nChoque Hosein - rythm guitar\nHoward Taylor - bass\nBrian E Roberts - lead guitar \nJonny Cragg - drums",
+      "duration": 221,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Ap6_XA1mJi8",
+      "title": "Blue Suede Shoes",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nBlue Suede Shoes · Mick Green · Lemmy · The Upsetters\n\nBlue Suede Shoes - Paradise\n\n℗ 2018 Cleopatra Records, under exclusive license from the Mick Green estate\n\nReleased on: 2018-06-13\n\nMusic  Publisher: Wr",
+      "duration": 190,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=ER2CCVRhJRQ",
+      "title": "Wooden Heart",
+      "description": "Provided to YouTube by Universal Music Group\n\nWooden Heart · Nanci Griffith\n\nThe Complete MCA Studio Recordings\n\n℗ 2003 MCA Nashville, a Division of UMG Recordings, Inc.\n\nReleased on: 2003-01-01\n\nProducer, Studio  Personnel, Mixer: Glyn Johns\nStudio  Pers",
+      "duration": 148,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=6S-MTzLiy4s",
+      "title": "Jeff Healey - Down in the alley",
+      "description": "",
+      "duration": 209,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=Buly8L-HZMk",
+      "title": "Jailhouse Rock",
+      "description": "Provided to YouTube by The Orchard Enterprises\n\nJailhouse Rock · The Cramps\n\nStay Sick!\n\n℗ 2014 Vengeance Records\n\nReleased on: 2014-10-28\n\nAuto-generated by YouTube.",
+      "duration": 149,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=_43iPGziqVg",
+      "title": "Marguerita",
+      "description": "Provided to YouTube by Because Music\n\nMarguerita · Les Négresses Vertes\n\nÀ l'affiche\n\n℗ Because Music LC33186\n\nReleased on: 2006-03-20\n\nLyricist: Robertson\nComposer: Robertson\n\nAuto-generated by YouTube.",
+      "duration": 132,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3Hn0ipFfHyI",
+      "title": "Pop Will Eat Itself  - Rock-A-Hula-Baby",
+      "description": "From the album \"The Last Temptation Of Elvis\", Sub-title: \"Songs From His Movies\". \n\nAll profits from this album are to be donated to the Nordoff-Robbins Music Therapy Centre, London. \n\nThis album is dedicated to the memory of Roger Scott.",
+      "duration": 274,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=eWvzt3_Pl6A",
+      "title": "Elvis Presley - King of the Whole Wide World - HD movie version, re-edited with RCA/Sony audio",
+      "description": "The first of Elvis' movies not to feature a track which also doubled as the title of the film was in 1962 with \"Kid Galahad\" which had the wonderful \"King Of The Whole Wide World\" played over the opening titles and although \"Follow That Dream\" had \"What A",
+      "duration": 161,
+      "embed": true
+    }
+  ],
+  "genres": "Rock",
+  "styles": ["Rock & Roll", "Rockabilly", "Classic Rock"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 219986,
+          "resource_url": "https://api.discogs.com/artists/219986"
+        }
+      ],
+      "title": "Viva Las Vegas",
+      "extraartists": [
+        {
+          "name": "Bob Glaub",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 260499,
+          "resource_url": "https://api.discogs.com/artists/260499"
+        },
+        {
+          "name": "Jeff Porcaro",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 332625,
+          "resource_url": "https://api.discogs.com/artists/332625"
+        },
+        {
+          "name": "Toby Scott",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 293630,
+          "resource_url": "https://api.discogs.com/artists/293630"
+        },
+        {
+          "name": "Mike Tacci",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 493288,
+          "resource_url": "https://api.discogs.com/artists/493288"
+        },
+        {
+          "name": "Bob Clearmountain",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 11415,
+          "resource_url": "https://api.discogs.com/artists/11415"
+        },
+        {
+          "name": "Bill Kennedy",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By [Assistant]",
+          "tracks": "",
+          "id": 62068,
+          "resource_url": "https://api.discogs.com/artists/62068"
+        },
+        {
+          "name": "Ian McLagan",
+          "anv": "",
+          "join": "",
+          "role": "Piano, Organ",
+          "tracks": "",
+          "id": 306714,
+          "resource_url": "https://api.discogs.com/artists/306714"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 219986,
+          "resource_url": "https://api.discogs.com/artists/219986"
+        },
+        {
+          "name": "Chuck Plotkin",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 219987,
+          "resource_url": "https://api.discogs.com/artists/219987"
+        },
+        {
+          "name": "Jon Landau",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 219989,
+          "resource_url": "https://api.discogs.com/artists/219989"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Guitar",
+          "tracks": "",
+          "id": 219986,
+          "resource_url": "https://api.discogs.com/artists/219986"
+        },
+        {
+          "name": "Doc Pomus",
+          "anv": "Pomus",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 261803,
+          "resource_url": "https://api.discogs.com/artists/261803"
+        },
+        {
+          "name": "Mort Shuman",
+          "anv": "Shuman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 261801,
+          "resource_url": "https://api.discogs.com/artists/261801"
+        }
+      ],
+      "duration": "3:13"
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Sydney Youngblood",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 36547,
+          "resource_url": "https://api.discogs.com/artists/36547"
+        }
+      ],
+      "title": "(Let Me Be Your) Teddy Bear",
+      "extraartists": [
+        {
+          "name": "Claus Zundel",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By, Mixed By",
+          "tracks": "",
+          "id": 125104,
+          "resource_url": "https://api.discogs.com/artists/125104"
+        },
+        {
+          "name": "Bernie Lowe",
+          "anv": "Lowe",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 636992,
+          "resource_url": "https://api.discogs.com/artists/636992"
+        },
+        {
+          "name": "Kal Mann",
+          "anv": "Mann",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 673555,
+          "resource_url": "https://api.discogs.com/artists/673555"
+        }
+      ],
+      "duration": "1:48"
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Tanita Tikaram",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 112763,
+          "resource_url": "https://api.discogs.com/artists/112763"
+        }
+      ],
+      "title": "Loving You",
+      "extraartists": [
+        {
+          "name": "Simon Hurrell",
+          "anv": "Simon Hurral",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 95207,
+          "resource_url": "https://api.discogs.com/artists/95207"
+        },
+        {
+          "name": "Peter Van Hooke",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 117762,
+          "resource_url": "https://api.discogs.com/artists/117762"
+        },
+        {
+          "name": "Rod Argent",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 117761,
+          "resource_url": "https://api.discogs.com/artists/117761"
+        },
+        {
+          "name": "Leiber & Stoller",
+          "anv": "Leiber/Stoller",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281667,
+          "resource_url": "https://api.discogs.com/artists/281667"
+        }
+      ],
+      "duration": "2:14"
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 180586,
+          "resource_url": "https://api.discogs.com/artists/180586"
+        }
+      ],
+      "title": "Let's Have A Party",
+      "extraartists": [
+        {
+          "name": "Steve Shone",
+          "anv": "Steve Shoan",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 762392,
+          "resource_url": "https://api.discogs.com/artists/762392"
+        },
+        {
+          "name": "Richard Marcangelo",
+          "anv": "Richard Mark Angelo",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 223212,
+          "resource_url": "https://api.discogs.com/artists/223212"
+        },
+        {
+          "name": "Damian Korner",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 93015,
+          "resource_url": "https://api.discogs.com/artists/93015"
+        },
+        {
+          "name": "Ted Bunting",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 303274,
+          "resource_url": "https://api.discogs.com/artists/303274"
+        },
+        {
+          "name": "Jesse Gillet",
+          "anv": "Jesse Gillett",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 360526,
+          "resource_url": "https://api.discogs.com/artists/360526"
+        },
+        {
+          "name": "Mick Green",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Lead]",
+          "tracks": "",
+          "id": 339122,
+          "resource_url": "https://api.discogs.com/artists/339122"
+        },
+        {
+          "name": "Pete Willsher",
+          "anv": "",
+          "join": "",
+          "role": "Guitar [Pedal Steel]",
+          "tracks": "",
+          "id": 581383,
+          "resource_url": "https://api.discogs.com/artists/581383"
+        },
+        {
+          "name": "Keith Miller (3)",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 640982,
+          "resource_url": "https://api.discogs.com/artists/640982"
+        },
+        {
+          "name": "Robert Plant",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 180586,
+          "resource_url": "https://api.discogs.com/artists/180586"
+        },
+        {
+          "name": "Robert Plant",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Guitar",
+          "tracks": "",
+          "id": 180586,
+          "resource_url": "https://api.discogs.com/artists/180586"
+        },
+        {
+          "name": "Jessie Mae Robinson",
+          "anv": "Robinson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 512890,
+          "resource_url": "https://api.discogs.com/artists/512890"
+        }
+      ],
+      "duration": "3:46"
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Pogues",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 253234,
+          "resource_url": "https://api.discogs.com/artists/253234"
+        }
+      ],
+      "title": "Got A Lot O'Livin' To Do",
+      "extraartists": [
+        {
+          "name": "Damian Korner",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 93015,
+          "resource_url": "https://api.discogs.com/artists/93015"
+        },
+        {
+          "name": "Ted Bunting",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 303274,
+          "resource_url": "https://api.discogs.com/artists/303274"
+        },
+        {
+          "name": "Jesse Gillet",
+          "anv": "Jesse Gillett",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 360526,
+          "resource_url": "https://api.discogs.com/artists/360526"
+        },
+        {
+          "name": "Dave Jordan",
+          "anv": "David Jordan",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 139030,
+          "resource_url": "https://api.discogs.com/artists/139030"
+        },
+        {
+          "name": "Aaron Schroeder",
+          "anv": "Schroeder",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 660513,
+          "resource_url": "https://api.discogs.com/artists/660513"
+        },
+        {
+          "name": "Ben Weisman (2)",
+          "anv": "Weisman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 661418,
+          "resource_url": "https://api.discogs.com/artists/661418"
+        }
+      ],
+      "duration": "2:35"
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Holly Johnson",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 96221,
+          "resource_url": "https://api.discogs.com/artists/96221"
+        }
+      ],
+      "title": "Love Me Tender",
+      "extraartists": [
+        {
+          "name": "Tim Hunt",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 284277,
+          "resource_url": "https://api.discogs.com/artists/284277"
+        },
+        {
+          "name": "Vini Reilly",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 184877,
+          "resource_url": "https://api.discogs.com/artists/184877"
+        },
+        {
+          "name": "Holly & Co",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 851845,
+          "resource_url": "https://api.discogs.com/artists/851845"
+        },
+        {
+          "name": "Holly Johnson",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 96221,
+          "resource_url": "https://api.discogs.com/artists/96221"
+        },
+        {
+          "name": "Nick Bagnall",
+          "anv": "",
+          "join": "",
+          "role": "Programmed By",
+          "tracks": "",
+          "id": 276089,
+          "resource_url": "https://api.discogs.com/artists/276089"
+        },
+        {
+          "name": "Elvis Presley",
+          "anv": "Presley",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 27518,
+          "resource_url": "https://api.discogs.com/artists/27518"
+        },
+        {
+          "name": "Vera Matson",
+          "anv": "Matson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 636369,
+          "resource_url": "https://api.discogs.com/artists/636369"
+        }
+      ],
+      "duration": "3:10"
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 35301,
+          "resource_url": "https://api.discogs.com/artists/35301"
+        }
+      ],
+      "title": "It's Now Or Never",
+      "extraartists": [
+        {
+          "name": "Chris Whitten",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 327714,
+          "resource_url": "https://api.discogs.com/artists/327714"
+        },
+        {
+          "name": "Mick Green",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 339122,
+          "resource_url": "https://api.discogs.com/artists/339122"
+        },
+        {
+          "name": "Micky Gallagher",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 325401,
+          "resource_url": "https://api.discogs.com/artists/325401"
+        },
+        {
+          "name": "Paul McCartney",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 35301,
+          "resource_url": "https://api.discogs.com/artists/35301"
+        },
+        {
+          "name": "Paul McCartney",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Bass",
+          "tracks": "",
+          "id": 35301,
+          "resource_url": "https://api.discogs.com/artists/35301"
+        },
+        {
+          "name": "Aaron Schroeder",
+          "anv": "Schroeder",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 660513,
+          "resource_url": "https://api.discogs.com/artists/660513"
+        },
+        {
+          "name": "Eduardo di Capua",
+          "anv": "Di Capua",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 525468,
+          "resource_url": "https://api.discogs.com/artists/525468"
+        },
+        {
+          "name": "Wally Gold",
+          "anv": "Gold",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 268927,
+          "resource_url": "https://api.discogs.com/artists/268927"
+        }
+      ],
+      "duration": "3:05"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Dion DiMucci",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 628976,
+          "resource_url": "https://api.discogs.com/artists/628976"
+        }
+      ],
+      "title": "Mean Woman Blues",
+      "extraartists": [
+        {
+          "name": "Gabe Vales",
+          "anv": "",
+          "join": "",
+          "role": "Bass, Vocals",
+          "tracks": "",
+          "id": 851842,
+          "resource_url": "https://api.discogs.com/artists/851842"
+        },
+        {
+          "name": "Larry Hirt",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 851833,
+          "resource_url": "https://api.discogs.com/artists/851833"
+        },
+        {
+          "name": "Andy Kravitz",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 208488,
+          "resource_url": "https://api.discogs.com/artists/208488"
+        },
+        {
+          "name": "John Sambataro",
+          "anv": "Johnny Sambataro",
+          "join": "",
+          "role": "Guitar [Lead], Vocals",
+          "tracks": "",
+          "id": 273645,
+          "resource_url": "https://api.discogs.com/artists/273645"
+        },
+        {
+          "name": "Terry Harr",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards, Vocals",
+          "tracks": "",
+          "id": 851843,
+          "resource_url": "https://api.discogs.com/artists/851843"
+        },
+        {
+          "name": "Dion DiMucci",
+          "anv": "",
+          "join": "",
+          "role": "Lead Vocals, Guitar",
+          "tracks": "",
+          "id": 628976,
+          "resource_url": "https://api.discogs.com/artists/628976"
+        },
+        {
+          "name": "Paul Harris (2)",
+          "anv": "",
+          "join": "",
+          "role": "Piano",
+          "tracks": "",
+          "id": 161917,
+          "resource_url": "https://api.discogs.com/artists/161917"
+        },
+        {
+          "name": "Dion DiMucci",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 628976,
+          "resource_url": "https://api.discogs.com/artists/628976"
+        },
+        {
+          "name": "Claude DeMetrius",
+          "anv": "De Metrius",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 622492,
+          "resource_url": "https://api.discogs.com/artists/622492"
+        }
+      ],
+      "duration": "4:03"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Jesus And Mary Chain",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 243280,
+          "resource_url": "https://api.discogs.com/artists/243280"
+        }
+      ],
+      "title": "Guitar Man",
+      "extraartists": [
+        {
+          "name": "Alan Moulder",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 2768,
+          "resource_url": "https://api.discogs.com/artists/2768"
+        },
+        {
+          "name": "Dick Meaney",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 40687,
+          "resource_url": "https://api.discogs.com/artists/40687"
+        },
+        {
+          "name": "Jim Reid",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 53883,
+          "resource_url": "https://api.discogs.com/artists/53883"
+        },
+        {
+          "name": "William Reid",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 232797,
+          "resource_url": "https://api.discogs.com/artists/232797"
+        },
+        {
+          "name": "Jerry Reed",
+          "anv": "Reed",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 283281,
+          "resource_url": "https://api.discogs.com/artists/283281"
+        }
+      ],
+      "duration": "3:40"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Cath Carroll",
+          "anv": "",
+          "join": "&",
+          "role": "",
+          "tracks": "",
+          "id": 12390,
+          "resource_url": "https://api.discogs.com/artists/12390"
+        },
+        {
+          "name": "Steve Albini",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 59373,
+          "resource_url": "https://api.discogs.com/artists/59373"
+        }
+      ],
+      "title": "King Creole",
+      "extraartists": [
+        {
+          "name": "Some Fuckin' Derd Niffer",
+          "anv": "Perd Niffer",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 310309,
+          "resource_url": "https://api.discogs.com/artists/310309"
+        },
+        {
+          "name": "Leiber & Stoller",
+          "anv": "Leiber/Stoller",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281667,
+          "resource_url": "https://api.discogs.com/artists/281667"
+        }
+      ],
+      "duration": "2:14"
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 15261,
+          "resource_url": "https://api.discogs.com/artists/15261"
+        }
+      ],
+      "title": "Young And Beautiful",
+      "extraartists": [
+        {
+          "name": "Aaron Schroeder",
+          "anv": "Schroeder",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 660513,
+          "resource_url": "https://api.discogs.com/artists/660513"
+        },
+        {
+          "name": "Abner Silver",
+          "anv": "Silver",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 662461,
+          "resource_url": "https://api.discogs.com/artists/662461"
+        }
+      ],
+      "duration": "4:57"
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Vivian Stanshall",
+          "anv": "",
+          "join": "&",
+          "role": "",
+          "tracks": "",
+          "id": 394483,
+          "resource_url": "https://api.discogs.com/artists/394483"
+        },
+        {
+          "name": "The Big Boys",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 851830,
+          "resource_url": "https://api.discogs.com/artists/851830"
+        }
+      ],
+      "title": "(There's) No Room To Rhumba In A Sports Car",
+      "extraartists": [
+        {
+          "name": "Rob Burns",
+          "anv": "",
+          "join": "",
+          "role": "Bass",
+          "tracks": "",
+          "id": 90245,
+          "resource_url": "https://api.discogs.com/artists/90245"
+        },
+        {
+          "name": "Francis Serlau",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 851839,
+          "resource_url": "https://api.discogs.com/artists/851839"
+        },
+        {
+          "name": "Ingmar King",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 336066,
+          "resource_url": "https://api.discogs.com/artists/336066"
+        },
+        {
+          "name": "Rob Townshend",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 851836,
+          "resource_url": "https://api.discogs.com/artists/851836"
+        },
+        {
+          "name": "Leon Mintz Carr",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Recording Assistant]",
+          "tracks": "",
+          "id": 851841,
+          "resource_url": "https://api.discogs.com/artists/851841"
+        },
+        {
+          "name": "T.C. (15)",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Recording Assistant]",
+          "tracks": "",
+          "id": 1125489,
+          "resource_url": "https://api.discogs.com/artists/1125489"
+        },
+        {
+          "name": "Rowan Laxton",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Additional Recording]",
+          "tracks": "",
+          "id": 851829,
+          "resource_url": "https://api.discogs.com/artists/851829"
+        },
+        {
+          "name": "Zebbie",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 242061,
+          "resource_url": "https://api.discogs.com/artists/242061"
+        },
+        {
+          "name": "Tim Stone",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 194456,
+          "resource_url": "https://api.discogs.com/artists/194456"
+        },
+        {
+          "name": "Keith Miller (3)",
+          "anv": "",
+          "join": "",
+          "role": "Keyboards",
+          "tracks": "",
+          "id": 640982,
+          "resource_url": "https://api.discogs.com/artists/640982"
+        },
+        {
+          "name": "Keith Miller (3)",
+          "anv": "\"Biggie\" Miller",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 640982,
+          "resource_url": "https://api.discogs.com/artists/640982"
+        },
+        {
+          "name": "Rob Burns",
+          "anv": "\"Wah Wah\" Burns",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 90245,
+          "resource_url": "https://api.discogs.com/artists/90245"
+        },
+        {
+          "name": "Vivian Stanshall",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 394483,
+          "resource_url": "https://api.discogs.com/artists/394483"
+        },
+        {
+          "name": "Vivian Stanshall",
+          "anv": "",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 394483,
+          "resource_url": "https://api.discogs.com/artists/394483"
+        },
+        {
+          "name": "Dick Manning",
+          "anv": "Manning",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 706105,
+          "resource_url": "https://api.discogs.com/artists/706105"
+        },
+        {
+          "name": "Fred Wise",
+          "anv": "Wise",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 255831,
+          "resource_url": "https://api.discogs.com/artists/255831"
+        }
+      ],
+      "duration": "2:43"
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Primitives",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 159650,
+          "resource_url": "https://api.discogs.com/artists/159650"
+        }
+      ],
+      "title": "(You're So Square) Baby I Don't Care",
+      "extraartists": [
+        {
+          "name": "Paul Sampson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 24645,
+          "resource_url": "https://api.discogs.com/artists/24645"
+        },
+        {
+          "name": "Paul Sampson",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 24645,
+          "resource_url": "https://api.discogs.com/artists/24645"
+        },
+        {
+          "name": "The Primitives",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 159650,
+          "resource_url": "https://api.discogs.com/artists/159650"
+        },
+        {
+          "name": "Leiber & Stoller",
+          "anv": "Leiber/Stoller",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281667,
+          "resource_url": "https://api.discogs.com/artists/281667"
+        }
+      ],
+      "duration": "2:00"
+    },
+    {
+      "position": "C1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "anv": "Hall & Oates",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 95886,
+          "resource_url": "https://api.discogs.com/artists/95886"
+        }
+      ],
+      "title": "Can't Help Falling In Love",
+      "extraartists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "anv": "Hall & Oates Band",
+          "join": "",
+          "role": "Arranged By",
+          "tracks": "",
+          "id": 95886,
+          "resource_url": "https://api.discogs.com/artists/95886"
+        },
+        {
+          "name": "Bernard Edwards",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 51071,
+          "resource_url": "https://api.discogs.com/artists/51071"
+        },
+        {
+          "name": "Larry Alexander",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 110387,
+          "resource_url": "https://api.discogs.com/artists/110387"
+        },
+        {
+          "name": "Daryl Hall & John Oates",
+          "anv": "Hall & Oates",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 95886,
+          "resource_url": "https://api.discogs.com/artists/95886"
+        },
+        {
+          "name": "George David Weiss",
+          "anv": "Weiss",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 436074,
+          "resource_url": "https://api.discogs.com/artists/436074"
+        },
+        {
+          "name": "Hugo Peretti",
+          "anv": "Peretti",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 436073,
+          "resource_url": "https://api.discogs.com/artists/436073"
+        },
+        {
+          "name": "Luigi Creatore",
+          "anv": "Creatore",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 436072,
+          "resource_url": "https://api.discogs.com/artists/436072"
+        }
+      ],
+      "duration": "4:17"
+    },
+    {
+      "position": "C2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Reggae Philharmonic Orchestra",
+          "anv": "The Reggae Philharmonic Orchestra",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 525922,
+          "resource_url": "https://api.discogs.com/artists/525922"
+        }
+      ],
+      "title": "Crawfish",
+      "extraartists": [
+        {
+          "name": "Roger King",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 203701,
+          "resource_url": "https://api.discogs.com/artists/203701"
+        },
+        {
+          "name": "Zebbie",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 242061,
+          "resource_url": "https://api.discogs.com/artists/242061"
+        },
+        {
+          "name": "Mykaell Riley",
+          "anv": "Mykaell S. Riley",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 47280,
+          "resource_url": "https://api.discogs.com/artists/47280"
+        },
+        {
+          "name": "Ben Weisman (2)",
+          "anv": "Weisman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 661418,
+          "resource_url": "https://api.discogs.com/artists/661418"
+        },
+        {
+          "name": "Fred Wise",
+          "anv": "Wise",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 255831,
+          "resource_url": "https://api.discogs.com/artists/255831"
+        }
+      ],
+      "duration": "3:28"
+    },
+    {
+      "position": "C3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Ian McCulloch",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 37859,
+          "resource_url": "https://api.discogs.com/artists/37859"
+        }
+      ],
+      "title": "Return To Sender",
+      "extraartists": [
+        {
+          "name": "Pete Coleman",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 169631,
+          "resource_url": "https://api.discogs.com/artists/169631"
+        },
+        {
+          "name": "Ian McCulloch",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 37859,
+          "resource_url": "https://api.discogs.com/artists/37859"
+        },
+        {
+          "name": "Otis Blackwell",
+          "anv": "Blackwell",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 294300,
+          "resource_url": "https://api.discogs.com/artists/294300"
+        },
+        {
+          "name": "Winfield Scott",
+          "anv": "Scott",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 687521,
+          "resource_url": "https://api.discogs.com/artists/687521"
+        }
+      ],
+      "duration": "2:38"
+    },
+    {
+      "position": "C4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "We've Got A Fuzzbox And We're Gonna Use It",
+          "anv": "Fuzzbox",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 276072,
+          "resource_url": "https://api.discogs.com/artists/276072"
+        }
+      ],
+      "title": "Trouble",
+      "extraartists": [
+        {
+          "name": "Mark Bruce",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 364496,
+          "resource_url": "https://api.discogs.com/artists/364496"
+        },
+        {
+          "name": "Robert Lloyd",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 292345,
+          "resource_url": "https://api.discogs.com/artists/292345"
+        },
+        {
+          "name": "Bobby Bird",
+          "anv": "",
+          "join": "",
+          "role": "Producer [Pre-production]",
+          "tracks": "",
+          "id": 249522,
+          "resource_url": "https://api.discogs.com/artists/249522"
+        },
+        {
+          "name": "Leiber & Stoller",
+          "anv": "Leiber/Stoller",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281667,
+          "resource_url": "https://api.discogs.com/artists/281667"
+        }
+      ],
+      "duration": "2:38"
+    },
+    {
+      "position": "C5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Hollow Men",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 217317,
+          "resource_url": "https://api.discogs.com/artists/217317"
+        }
+      ],
+      "title": "Thanks To The Rolling Sea",
+      "extraartists": [
+        {
+          "name": "Tony Bonner",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 288910,
+          "resource_url": "https://api.discogs.com/artists/288910"
+        },
+        {
+          "name": "The Hollow Men",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 217317,
+          "resource_url": "https://api.discogs.com/artists/217317"
+        },
+        {
+          "name": "Bob Roberts",
+          "anv": "Roberts",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 621943,
+          "resource_url": "https://api.discogs.com/artists/621943"
+        },
+        {
+          "name": "Ruth Batchelor",
+          "anv": "Batchelor",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 716504,
+          "resource_url": "https://api.discogs.com/artists/716504"
+        }
+      ],
+      "duration": "3:39"
+    },
+    {
+      "position": "C6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Blow Monkeys",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 56449,
+          "resource_url": "https://api.discogs.com/artists/56449"
+        }
+      ],
+      "title": "Follow That Dream",
+      "extraartists": [
+        {
+          "name": "Andy Mason",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 421926,
+          "resource_url": "https://api.discogs.com/artists/421926"
+        },
+        {
+          "name": "Springtime For The World Productions",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 851844,
+          "resource_url": "https://api.discogs.com/artists/851844"
+        },
+        {
+          "name": "Ben Weisman (2)",
+          "anv": "Weisman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 661418,
+          "resource_url": "https://api.discogs.com/artists/661418"
+        },
+        {
+          "name": "Fred Wise",
+          "anv": "Wise",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 255831,
+          "resource_url": "https://api.discogs.com/artists/255831"
+        }
+      ],
+      "duration": "3:13"
+    },
+    {
+      "position": "C7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Lemmy & The Upsetters",
+          "anv": "",
+          "join": "With",
+          "role": "",
+          "tracks": "",
+          "id": 851831,
+          "resource_url": "https://api.discogs.com/artists/851831"
+        },
+        {
+          "name": "Mick Green",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 339122,
+          "resource_url": "https://api.discogs.com/artists/339122"
+        }
+      ],
+      "title": "Blue Suede Shoes",
+      "extraartists": [
+        {
+          "name": "Simon Holdgate",
+          "anv": "",
+          "join": "",
+          "role": "Drums",
+          "tracks": "",
+          "id": 851840,
+          "resource_url": "https://api.discogs.com/artists/851840"
+        },
+        {
+          "name": "Mike Franks",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 388360,
+          "resource_url": "https://api.discogs.com/artists/388360"
+        },
+        {
+          "name": "Mick Green",
+          "anv": "",
+          "join": "",
+          "role": "Guitar",
+          "tracks": "",
+          "id": 339122,
+          "resource_url": "https://api.discogs.com/artists/339122"
+        },
+        {
+          "name": "Guy Bidmead",
+          "anv": "",
+          "join": "",
+          "role": "Mixed By",
+          "tracks": "",
+          "id": 321791,
+          "resource_url": "https://api.discogs.com/artists/321791"
+        },
+        {
+          "name": "Mick Jones",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 151145,
+          "resource_url": "https://api.discogs.com/artists/151145"
+        },
+        {
+          "name": "Lemmy",
+          "anv": "",
+          "join": "",
+          "role": "Vocals, Bass",
+          "tracks": "",
+          "id": 292898,
+          "resource_url": "https://api.discogs.com/artists/292898"
+        },
+        {
+          "name": "Carl Perkins",
+          "anv": "Perkins",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 251877,
+          "resource_url": "https://api.discogs.com/artists/251877"
+        }
+      ],
+      "duration": "3:08"
+    },
+    {
+      "position": "D1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Nanci Griffith",
+          "anv": "",
+          "join": "&",
+          "role": "",
+          "tracks": "",
+          "id": 343582,
+          "resource_url": "https://api.discogs.com/artists/343582"
+        },
+        {
+          "name": "Blue Moon Orchestra (2)",
+          "anv": "The Blue Moon Orchestra",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 746304,
+          "resource_url": "https://api.discogs.com/artists/746304"
+        }
+      ],
+      "title": "Wooden Heart",
+      "extraartists": [
+        {
+          "name": "Sean Leonard",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 255497,
+          "resource_url": "https://api.discogs.com/artists/255497"
+        },
+        {
+          "name": "Brian Masterson",
+          "anv": "",
+          "join": "",
+          "role": "Engineer, Mixed By",
+          "tracks": "",
+          "id": 457273,
+          "resource_url": "https://api.discogs.com/artists/457273"
+        },
+        {
+          "name": "Nanci Griffith",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Arranged By",
+          "tracks": "",
+          "id": 343582,
+          "resource_url": "https://api.discogs.com/artists/343582"
+        },
+        {
+          "name": "Ben Weisman (2)",
+          "anv": "Weisman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 661418,
+          "resource_url": "https://api.discogs.com/artists/661418"
+        },
+        {
+          "name": "Bert Kaempfert",
+          "anv": "Kaempfert",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 89631,
+          "resource_url": "https://api.discogs.com/artists/89631"
+        },
+        {
+          "name": "Fred Wise",
+          "anv": "Wise",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 255831,
+          "resource_url": "https://api.discogs.com/artists/255831"
+        },
+        {
+          "name": "Kay Twomey",
+          "anv": "Twomey",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 661426,
+          "resource_url": "https://api.discogs.com/artists/661426"
+        }
+      ],
+      "duration": "2:25"
+    },
+    {
+      "position": "D2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 267715,
+          "resource_url": "https://api.discogs.com/artists/267715"
+        }
+      ],
+      "title": "Down In The Alley",
+      "extraartists": [
+        {
+          "name": "Joe Hardy",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Engineer",
+          "tracks": "",
+          "id": 267598,
+          "resource_url": "https://api.discogs.com/artists/267598"
+        },
+        {
+          "name": "Jesse Stone",
+          "anv": "Stone",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 644434,
+          "resource_url": "https://api.discogs.com/artists/644434"
+        },
+        {
+          "name": "The Clovers",
+          "anv": "",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 289991,
+          "resource_url": "https://api.discogs.com/artists/289991"
+        }
+      ],
+      "duration": "3:27"
+    },
+    {
+      "position": "D3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "The Cramps",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 39779,
+          "resource_url": "https://api.discogs.com/artists/39779"
+        }
+      ],
+      "title": "Jailhouse Rock",
+      "extraartists": [
+        {
+          "name": "Joe Schiff",
+          "anv": "Joe Shiff",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 289623,
+          "resource_url": "https://api.discogs.com/artists/289623"
+        },
+        {
+          "name": "Lux Interior",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 263956,
+          "resource_url": "https://api.discogs.com/artists/263956"
+        },
+        {
+          "name": "Poison Ivy",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 262299,
+          "resource_url": "https://api.discogs.com/artists/262299"
+        },
+        {
+          "name": "Leiber & Stoller",
+          "anv": "Leiber/Stoller",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 281667,
+          "resource_url": "https://api.discogs.com/artists/281667"
+        }
+      ],
+      "duration": "2:28"
+    },
+    {
+      "position": "D4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Les Negresses Vertes",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 25893,
+          "resource_url": "https://api.discogs.com/artists/25893"
+        }
+      ],
+      "title": "Marguerita",
+      "extraartists": [
+        {
+          "name": "Petros Drossos",
+          "anv": "",
+          "join": "",
+          "role": "Engineer [Assistant]",
+          "tracks": "",
+          "id": 271796,
+          "resource_url": "https://api.discogs.com/artists/271796"
+        },
+        {
+          "name": "Peter Murray",
+          "anv": "",
+          "join": "",
+          "role": "Executive Producer",
+          "tracks": "",
+          "id": 0,
+          "resource_url": ""
+        },
+        {
+          "name": "Les Negresses Vertes",
+          "anv": "",
+          "join": "",
+          "role": "Lyrics By [French Lyrics], Arranged By",
+          "tracks": "",
+          "id": 25893,
+          "resource_url": "https://api.discogs.com/artists/25893"
+        },
+        {
+          "name": "Emmanuel Thibierge",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Engineer",
+          "tracks": "",
+          "id": 818245,
+          "resource_url": "https://api.discogs.com/artists/818245"
+        },
+        {
+          "name": "Sodi",
+          "anv": "",
+          "join": "",
+          "role": "Producer, Engineer",
+          "tracks": "",
+          "id": 25895,
+          "resource_url": "https://api.discogs.com/artists/25895"
+        },
+        {
+          "name": "Don Robertson (2)",
+          "anv": "Robertson",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 340205,
+          "resource_url": "https://api.discogs.com/artists/340205"
+        }
+      ],
+      "duration": "2:12"
+    },
+    {
+      "position": "D5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Pop Will Eat Itself",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 3111,
+          "resource_url": "https://api.discogs.com/artists/3111"
+        }
+      ],
+      "title": "Rock-A-Hula-Baby",
+      "extraartists": [
+        {
+          "name": "Robin Evans",
+          "anv": "",
+          "join": "",
+          "role": "Engineer",
+          "tracks": "",
+          "id": 283824,
+          "resource_url": "https://api.discogs.com/artists/283824"
+        },
+        {
+          "name": "Youth",
+          "anv": "",
+          "join": "",
+          "role": "Producer",
+          "tracks": "",
+          "id": 2656,
+          "resource_url": "https://api.discogs.com/artists/2656"
+        },
+        {
+          "name": "Ben Weisman (2)",
+          "anv": "Weisman",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 661418,
+          "resource_url": "https://api.discogs.com/artists/661418"
+        },
+        {
+          "name": "Dolores Fuller",
+          "anv": "Fuller",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 712997,
+          "resource_url": "https://api.discogs.com/artists/712997"
+        },
+        {
+          "name": "Fred Wise",
+          "anv": "Wise",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 255831,
+          "resource_url": "https://api.discogs.com/artists/255831"
+        }
+      ],
+      "duration": "4:36"
+    },
+    {
+      "position": "D6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 27518,
+          "resource_url": "https://api.discogs.com/artists/27518"
+        }
+      ],
+      "title": "King Of The Whole Wide World",
+      "extraartists": [
+        {
+          "name": "Bob Roberts",
+          "anv": "Roberts",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 621943,
+          "resource_url": "https://api.discogs.com/artists/621943"
+        },
+        {
+          "name": "Ruth Batchelor",
+          "anv": "Batchelor",
+          "join": "",
+          "role": "Written-By",
+          "tracks": "",
+          "id": 716504,
+          "resource_url": "https://api.discogs.com/artists/716504"
+        }
+      ],
+      "duration": "4:30"
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Roy Carr",
+      "anv": "",
+      "join": "",
+      "role": "Design, Sleeve [Concept]",
+      "tracks": "",
+      "id": 343360,
+      "resource_url": "https://api.discogs.com/artists/343360"
+    },
+    {
+      "name": "Roy Carr",
+      "anv": "",
+      "join": "",
+      "role": "Executive Producer",
+      "tracks": "",
+      "id": 0,
+      "resource_url": ""
+    },
+    {
+      "name": "Paul Garner (2)",
+      "anv": "",
+      "join": "",
+      "role": "Illustration",
+      "tracks": "",
+      "id": 2427722,
+      "resource_url": "https://api.discogs.com/artists/2427722"
+    },
+    {
+      "name": "Jack Adams (2)",
+      "anv": "Jack 'Jacko' Adams",
+      "join": "",
+      "role": "Mastered By",
+      "tracks": "",
+      "id": 622686,
+      "resource_url": "https://api.discogs.com/artists/622686"
+    },
+    {
+      "name": "Danny Kelly",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Associate]",
+      "tracks": "",
+      "id": 289897,
+      "resource_url": "https://api.discogs.com/artists/289897"
+    },
+    {
+      "name": "David Roper",
+      "anv": "",
+      "join": "",
+      "role": "Producer [Associate]",
+      "tracks": "",
+      "id": 851835,
+      "resource_url": "https://api.discogs.com/artists/851835"
+    },
+    {
+      "name": "Justin Langlands",
+      "anv": "",
+      "join": "",
+      "role": "Sleeve [Concept], Design",
+      "tracks": "",
+      "id": 730114,
+      "resource_url": "https://api.discogs.com/artists/730114"
+    },
+    {
+      "name": "Norma Martin",
+      "anv": "",
+      "join": "",
+      "role": "Typography",
+      "tracks": "",
+      "id": 2927614,
+      "resource_url": "https://api.discogs.com/artists/2927614"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/_RRMX2bwBz0wed1HJf1VkAVK0KwReCIK4t9nTs67t30/rs:fit/g:sm/q:90/h:581/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NDA0/LTUyNzAucG5n.jpeg",
+      "resource_url": "https://i.discogs.com/_RRMX2bwBz0wed1HJf1VkAVK0KwReCIK4t9nTs67t30/rs:fit/g:sm/q:90/h:581/w:580/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NDA0/LTUyNzAucG5n.jpeg",
+      "uri150": "https://i.discogs.com/1pmblg8NYl76vZxtW-mxtEs3P-0GOZQg7x0_GZiYQWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NDA0/LTUyNzAucG5n.jpeg",
+      "width": 580,
+      "height": 581
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Gl_2USms2J5LggIjw9jPM63rgag_R40BBve7fkkkY04/rs:fit/g:sm/q:90/h:568/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NDA2/LTM3MDEucG5n.jpeg",
+      "resource_url": "https://i.discogs.com/Gl_2USms2J5LggIjw9jPM63rgag_R40BBve7fkkkY04/rs:fit/g:sm/q:90/h:568/w:568/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NDA2/LTM3MDEucG5n.jpeg",
+      "uri150": "https://i.discogs.com/XvygHnbM8L3HD2vvT9bDJyBTWhdX1pK94I1swoVO4nI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NDA2/LTM3MDEucG5n.jpeg",
+      "width": 568,
+      "height": 568
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/yfgz5GVNDa2zeZtlcoqnKwrrT26CiRjJjAxJ6NqNUWw/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NzA4/LTg3OTkucG5n.jpeg",
+      "resource_url": "https://i.discogs.com/yfgz5GVNDa2zeZtlcoqnKwrrT26CiRjJjAxJ6NqNUWw/rs:fit/g:sm/q:90/h:303/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NzA4/LTg3OTkucG5n.jpeg",
+      "uri150": "https://i.discogs.com/whRHtWA8wMwd0sS2seiLb1d9ZEAk0dQFLz2qgQ5ox14/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NzA4/LTg3OTkucG5n.jpeg",
+      "width": 600,
+      "height": 303
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/vXQSJT3ZzoBCcxOsYhGDLlILr09LBaD8Ri90Jx8g1n8/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjE1/LTkzMjUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/vXQSJT3ZzoBCcxOsYhGDLlILr09LBaD8Ri90Jx8g1n8/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjE1/LTkzMjUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/lPkJdpnG7KfDRXv8cFfhK0xplkeZD0K3d7qKg6zw23E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjE1/LTkzMjUuanBlZw.jpeg",
+      "width": 451,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/bJH8TprJRFc9pI1HrOe9o6ais3Wz8DNYTiNS93IS4ak/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNDU5NTQ4Nzkw/LTk1NzUuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/bJH8TprJRFc9pI1HrOe9o6ais3Wz8DNYTiNS93IS4ak/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNDU5NTQ4Nzkw/LTk1NzUuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/wFRJ7QbRRcB56FXGWhTSrCF27FoCcxi3RVVosXqG_mU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNDU5NTQ4Nzkw/LTk1NzUuanBlZw.jpeg",
+      "width": 600,
+      "height": 599
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/qkMGh-Q__fHZFp2r7RZ6-N-3JwP_W6ij_WkCPMuKjJY/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjIx/LTQyMjcuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/qkMGh-Q__fHZFp2r7RZ6-N-3JwP_W6ij_WkCPMuKjJY/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjIx/LTQyMjcuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/JfltEkKh_k8hzT9SQ5ap9MU5mT9oYsPZCfJ9aOJXji8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjIx/LTQyMjcuanBlZw.jpeg",
+      "width": 451,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/QkbIerpCXuTuAIr0p6mup0uLsn2Y4PaSZZskPU8rBrg/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjUy/LTEwNDkuanBlZw.jpeg",
+      "resource_url": "https://i.discogs.com/QkbIerpCXuTuAIr0p6mup0uLsn2Y4PaSZZskPU8rBrg/rs:fit/g:sm/q:90/h:600/w:451/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjUy/LTEwNDkuanBlZw.jpeg",
+      "uri150": "https://i.discogs.com/FlUjpZz-sGkG4Crsn0f0BQejC8cT86ErbJKmuxWtQ8U/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNjY1NjUzNjUy/LTEwNDkuanBlZw.jpeg",
+      "width": 451,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/1pmblg8NYl76vZxtW-mxtEs3P-0GOZQg7x0_GZiYQWY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk2NjUx/MS0xNzEwNDU5NDA0/LTUyNzAucG5n.jpeg",
+  "estimated_weight": 460,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

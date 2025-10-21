@@ -1,0 +1,268 @@
+{
+  "id": 3607882,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/3607882",
+  "uri": "https://www.discogs.com/release/3607882-John-B-Spencers-Parlour-Games-John-B-Spencers-Parlour-Games",
+  "artists": [
+    {
+      "name": "John B. Spencer's Parlour Games",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 7966087,
+      "resource_url": "https://api.discogs.com/artists/7966087"
+    }
+  ],
+  "artists_sort": "John B. Spencer's Parlour Games",
+  "labels": [
+    {
+      "name": "Round Tower Music",
+      "catno": "RTM LP23",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 224019,
+      "resource_url": "https://api.discogs.com/labels/224019",
+      "thumbnail_url": "https://i.discogs.com/s_t65sfncVF4WdIvXoWverQGMp9hzlD2bmPnlhFglMs/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyNDAx/OS0xMjk5NzAwNzky/LmpwZWc.jpeg"
+    },
+    {
+      "name": "Round Tower Music",
+      "catno": "RTM LP 23",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 224019,
+      "resource_url": "https://api.discogs.com/labels/224019",
+      "thumbnail_url": "https://i.discogs.com/s_t65sfncVF4WdIvXoWverQGMp9hzlD2bmPnlhFglMs/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTIyNDAx/OS0xMjk5NzAwNzky/LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 40,
+    "want": 2,
+    "rating": {
+      "count": 3,
+      "average": 3
+    },
+    "submitter": {
+      "username": "steppenwolf_a_558",
+      "resource_url": "https://api.discogs.com/users/steppenwolf_a_558"
+    },
+    "contributors": [
+      {
+        "username": "steppenwolf_a_558",
+        "resource_url": "https://api.discogs.com/users/steppenwolf_a_558"
+      },
+      {
+        "username": "generalissimus_mongo",
+        "resource_url": "https://api.discogs.com/users/generalissimus_mongo"
+      },
+      {
+        "username": "teninchfan",
+        "resource_url": "https://api.discogs.com/users/teninchfan"
+      },
+      {
+        "username": "cheebacheebakid",
+        "resource_url": "https://api.discogs.com/users/cheebacheebakid"
+      },
+      {
+        "username": "NilsJohan",
+        "resource_url": "https://api.discogs.com/users/NilsJohan"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2012-05-16T09:06:53-07:00",
+  "date_changed": "2020-06-20T11:31:44-07:00",
+  "num_for_sale": 18,
+  "lowest_price": 1.99,
+  "master_id": 436616,
+  "master_url": "https://api.discogs.com/masters/436616",
+  "title": "John B Spencer's Parlour Games",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5 099330 002322"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "RTMLP 23 A1",
+      "description": "Runout side A, etched"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "RTMLP 23 B1",
+      "description": "Runout side B, etched"
+    }
+  ],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=3bI6gr0XHKg",
+      "title": "John B Spencer - Parlour Games '90",
+      "description": "Song is taken from album \"Parlour Games\" (1990).",
+      "duration": 150,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=35h_ETDW5yc",
+      "title": "John B.  Spencer - Will This House Be Blessed?",
+      "description": "John Barry Spencer 1944 - 2002",
+      "duration": 173,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=3bI6gr0XHKg",
+      "title": "John B Spencer - Parlour Games '90",
+      "description": "Song is taken from album \"Parlour Games\" (1990).",
+      "duration": 150,
+      "embed": true
+    },
+    {
+      "uri": "https://www.youtube.com/watch?v=35h_ETDW5yc",
+      "title": "John B.  Spencer - Will This House Be Blessed?",
+      "description": "John Barry Spencer 1944 - 2002",
+      "duration": 173,
+      "embed": true
+    }
+  ],
+  "genres": ["Rock", "Folk, World, & Country"],
+  "styles": ["Skiffle", "Pop Rock"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Parlour Games",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Billy",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Slow Beers",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Sweet Lucinda",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Poor Little Rich Boy",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "Drive-In Movies",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Behold The King Is Dead",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Dead Man's Shoes",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Alone Together",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Left Hand Of Love",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Count Ten",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "The London I Knew",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Going Down South",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "Quiet Nights",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/jHNCd9wYP7dC09TXX_2Tb-Ffk9aqrRULv4PaP2T5Svo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwOTg5MTQ3/NC04MzU4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/jHNCd9wYP7dC09TXX_2Tb-Ffk9aqrRULv4PaP2T5Svo/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwOTg5MTQ3/NC04MzU4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/NTVUUg0ZDwQ5QD40OgEsQzLT6isr6hjgD0-aDdxrasU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwOTg5MTQ3/NC04MzU4LmpwZWc.jpeg",
+      "width": 600,
+      "height": 592
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/gcZnNrrEboP6TRmP84dRPT_6c0oAiHBrt2OwnP5P6sY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwOTg5MTQ3/Ni0zNzU4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/gcZnNrrEboP6TRmP84dRPT_6c0oAiHBrt2OwnP5P6sY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwOTg5MTQ3/Ni0zNzU4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/HqUPeXpW_7maFMD7U1pWDduUWeI-dUWiqwJmnAXvOgg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwOTg5MTQ3/Ni0zNzU4LmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/h--4pb2FGxpRYA-O_4rHQOjuqZGt3qpiezUZCfQDsZc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwNzQ2Nzgy/MS04NzIzLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/h--4pb2FGxpRYA-O_4rHQOjuqZGt3qpiezUZCfQDsZc/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwNzQ2Nzgy/MS04NzIzLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/ke6ytqra5t4IlrDOr4fSZMXvQuiu9CVjJuweDwqS1js/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwNzQ2Nzgy/MS04NzIzLmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/_fTuxRdvfQnLvlyT5Xd2h3gZxgvKCmOIMdOcRa4_76Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwNzQ2Nzgy/MS05OTExLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/_fTuxRdvfQnLvlyT5Xd2h3gZxgvKCmOIMdOcRa4_76Y/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwNzQ2Nzgy/MS05OTExLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/EtRgk1FUGU8nbDCId-y24mitJ1mhbCVUdBMnerNwH7M/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwNzQ2Nzgy/MS05OTExLmpwZWc.jpeg",
+      "width": 596,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/NTVUUg0ZDwQ5QD40OgEsQzLT6isr6hjgD0-aDdxrasU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2MDc4/ODItMTUwOTg5MTQ3/NC04MzU4LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

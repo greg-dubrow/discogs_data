@@ -1,0 +1,259 @@
+{
+  "id": 7501194,
+  "status": "Draft",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/7501194",
+  "uri": "https://www.discogs.com/release/7501194-Double-Trouble-As-One",
+  "artists": [
+    {
+      "name": "Double Trouble",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 51324,
+      "resource_url": "https://api.discogs.com/artists/51324",
+      "thumbnail_url": "https://i.discogs.com/OqYujr61fufkUJtz49qcyghcxvxyV2tEl3lz_3hIPbI/rs:fit/g:sm/q:90/h:600/w:416/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTUxMzI0/LTE3MzA3NTYzMDct/NDE4MC5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Double Trouble",
+  "labels": [
+    {
+      "name": "Desire Records",
+      "catno": "LUVLP 6",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 4082,
+      "resource_url": "https://api.discogs.com/labels/4082",
+      "thumbnail_url": "https://i.discogs.com/0jtgIbU3Aby27ig3NTjywAjMfB6l3qXdu4HQJOjxpfM/rs:fit/g:sm/q:90/h:600/w:322/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTQwODIt/MTU3OTI4NzI4Mi03/NzU3LmpwZWc.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Correct",
+  "community": {
+    "have": 0,
+    "want": 0,
+    "rating": {
+      "count": 0,
+      "average": 0
+    },
+    "submitter": {
+      "username": "326Musicc",
+      "resource_url": "https://api.discogs.com/users/326Musicc"
+    },
+    "contributors": [
+      {
+        "username": "326Musicc",
+        "resource_url": "https://api.discogs.com/users/326Musicc"
+      }
+    ],
+    "data_quality": "Correct",
+    "status": "Draft"
+  },
+  "format_quantity": 1,
+  "date_added": "2015-09-20T11:54:12-07:00",
+  "date_changed": "2015-09-20T11:54:12-07:00",
+  "num_for_sale": 0,
+  "lowest_price": {},
+  "title": "As One",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": "Electronic",
+  "styles": ["Breakbeat", "Hip-House"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Talkback",
+      "extraartists": [
+        {
+          "name": "Janette Sewell",
+          "anv": "Jeanette Sewell",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 30225,
+          "resource_url": "https://api.discogs.com/artists/30225"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "All We Need Is Each Other",
+      "extraartists": [
+        {
+          "name": "Silk (5)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 175566,
+          "resource_url": "https://api.discogs.com/artists/175566"
+        },
+        {
+          "name": "Janette Sewell",
+          "anv": "Jeanette Sewell",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 30225,
+          "resource_url": "https://api.discogs.com/artists/30225"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Reach Out",
+      "extraartists": {},
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Love Don't Live Here Anymore",
+      "extraartists": [
+        {
+          "name": "Janette Sewell",
+          "anv": "Jeanette Sewell",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 30225,
+          "resource_url": "https://api.discogs.com/artists/30225"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Just Keep Rockin'",
+      "extraartists": [
+        {
+          "name": "Rebel MC",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 31526,
+          "resource_url": "https://api.discogs.com/artists/31526"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Street Tuff",
+      "extraartists": [
+        {
+          "name": "Rebel MC",
+          "anv": "",
+          "join": "",
+          "role": "Co-producer",
+          "tracks": "",
+          "id": 31526,
+          "resource_url": "https://api.discogs.com/artists/31526"
+        },
+        {
+          "name": "Janette Sewell",
+          "anv": "Jeanette Sewell",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 30225,
+          "resource_url": "https://api.discogs.com/artists/30225"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Don't Give Up",
+      "extraartists": [
+        {
+          "name": "Janette Sewell",
+          "anv": "Jeanette Sewell",
+          "join": "",
+          "role": "Vocals",
+          "tracks": "",
+          "id": 30225,
+          "resource_url": "https://api.discogs.com/artists/30225"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "(What Is It?) The Future",
+      "extraartists": [
+        {
+          "name": "Rebel MC",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 31526,
+          "resource_url": "https://api.discogs.com/artists/31526"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Double Trouble...",
+      "extraartists": [
+        {
+          "name": "Silk (5)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 175566,
+          "resource_url": "https://api.discogs.com/artists/175566"
+        }
+      ],
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Slow Down",
+      "extraartists": [
+        {
+          "name": "Silk (5)",
+          "anv": "",
+          "join": "",
+          "role": "Featuring",
+          "tracks": "",
+          "id": 175566,
+          "resource_url": "https://api.discogs.com/artists/175566"
+        }
+      ],
+      "duration": ""
+    }
+  ],
+  "images": [],
+  "thumb": "",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

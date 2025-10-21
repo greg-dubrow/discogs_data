@@ -1,0 +1,201 @@
+{
+  "id": 12387163,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/12387163",
+  "uri": "https://www.discogs.com/release/12387163-Geet-The-Mega-Band-No-Problem",
+  "artists": [
+    {
+      "name": "Geet The Mega Band",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 4275268,
+      "resource_url": "https://api.discogs.com/artists/4275268"
+    }
+  ],
+  "artists_sort": "Geet The Mega Band",
+  "labels": [
+    {
+      "name": "Star Records (19)",
+      "catno": "S/SRLP 5099",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 307399,
+      "resource_url": "https://api.discogs.com/labels/307399",
+      "thumbnail_url": "https://i.discogs.com/XCZR7wBTCkWWmEU0VGAMzKQ0fbX5fZ06zNmHky5dhL4/rs:fit/g:sm/q:90/h:429/w:452/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTMwNzM5/OS0xNDcyNTcxNjQ0/LTUwNDYuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [
+    {
+      "name": "Oriental Star Agencies Ltd",
+      "catno": "",
+      "entity_type": "4",
+      "entity_type_name": "Record Company",
+      "id": 123979,
+      "resource_url": "https://api.discogs.com/labels/123979"
+    },
+    {
+      "name": "Oriental Star Agencies Ltd",
+      "catno": "",
+      "entity_type": "9",
+      "entity_type_name": "Distributed By",
+      "id": 123979,
+      "resource_url": "https://api.discogs.com/labels/123979"
+    },
+    {
+      "name": "Mad Hat Studios",
+      "catno": "",
+      "entity_type": "23",
+      "entity_type_name": "Recorded At",
+      "id": 277284,
+      "resource_url": "https://api.discogs.com/labels/277284",
+      "thumbnail_url": "https://i.discogs.com/HXG0f9mYbAP_ilH2_v7sh5Vm0C8tT3cdq6m6UAkIl80/rs:fit/g:sm/q:90/h:450/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NzI4/NC0xMzM4NzI4ODM0/LTU4NTEuanBlZw.jpeg"
+    }
+  ],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 7,
+    "want": 28,
+    "rating": {
+      "count": 2,
+      "average": 5
+    },
+    "submitter": {
+      "username": "Dushto",
+      "resource_url": "https://api.discogs.com/users/Dushto"
+    },
+    "contributors": [
+      {
+        "username": "Dushto",
+        "resource_url": "https://api.discogs.com/users/Dushto"
+      },
+      {
+        "username": "RoobKay",
+        "resource_url": "https://api.discogs.com/users/RoobKay"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2018-08-14T01:52:39-07:00",
+  "date_changed": "2022-01-23T09:31:20-08:00",
+  "num_for_sale": 0,
+  "lowest_price": {},
+  "master_id": 1407560,
+  "master_url": "https://api.discogs.com/masters/1407560",
+  "title": "No Problem",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [
+    {
+      "uri": "https://www.youtube.com/watch?v=xEI7sgxeNlo",
+      "title": "John Peel's Geet The Mega Band - Ek Lak Da Holara (No Problem)",
+      "description": "John Peel plays a bhangra track from Geet The Mega Band, broadcast on BBC Radio One from 15th March 1990.",
+      "duration": 273,
+      "embed": true
+    }
+  ],
+  "genres": "Folk, World, & Country",
+  "styles": "Bhangra",
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Melay Wich Dholl Vajda",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Giddhe Wich Nachdi Noon",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Ek Lak Da Holara (No Problem)",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "The Mega Band Music",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Rang Gulabi Tor Shrabi",
+      "duration": "4:51"
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Kadeay Roya Karen Gee",
+      "duration": "7:57"
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Aa Yara Toon Aa Yaara ",
+      "duration": "5:19"
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Tere Nainon Se Peeti",
+      "duration": "5:16"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/klztnhiKSlbDefkTx2HTMYbGtVaYgpVBctU5UCGTVlc/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE2NDI5NTkw/MzktNDA3My5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/klztnhiKSlbDefkTx2HTMYbGtVaYgpVBctU5UCGTVlc/rs:fit/g:sm/q:90/h:600/w:578/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE2NDI5NTkw/MzktNDA3My5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/AolnyU8ZLkVTU5YcXiFY5QUxvCAQY4wamtHBC6k7vBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE2NDI5NTkw/MzktNDA3My5qcGVn.jpeg",
+      "width": 578,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/nsKoqDWfLMLjDP4_G89cYKgPqn8uDi4X1BgwTBYacVg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE2NDI5NTkw/NDUtMTAzNS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/nsKoqDWfLMLjDP4_G89cYKgPqn8uDi4X1BgwTBYacVg/rs:fit/g:sm/q:90/h:600/w:587/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE2NDI5NTkw/NDUtMTAzNS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/IcV9xfFdg14rJYdAMYZ9hcI6lV9ImYS7P60g69Qq2n8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE2NDI5NTkw/NDUtMTAzNS5qcGVn.jpeg",
+      "width": 587,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/lR-XcefTJVgSE4rLe2w9taqMolyoXjsr7tZIdEE24MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE1MzQyMzcz/MzItODY1OC5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/lR-XcefTJVgSE4rLe2w9taqMolyoXjsr7tZIdEE24MM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE1MzQyMzcz/MzItODY1OC5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/9ISeEjwPaJZgy4P8LFoaqsTTcO1xHsl_9clETBefbUk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE1MzQyMzcz/MzItODY1OC5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/FXgazp1vrvTZZCj37RFA6jpVyIUWJY0i2kBiymXkAtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE1MzQyMzcz/MzItMTA4Ni5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/FXgazp1vrvTZZCj37RFA6jpVyIUWJY0i2kBiymXkAtk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE1MzQyMzcz/MzItMTA4Ni5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/v_nIpJ7aAO3dpblQFH3SD-nkIRXB1cobupdWLKb1bPo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE1MzQyMzcz/MzItMTA4Ni5qcGVn.jpeg",
+      "width": 600,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/AolnyU8ZLkVTU5YcXiFY5QUxvCAQY4wamtHBC6k7vBI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg3/MTYzLTE2NDI5NTkw/MzktNDA3My5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

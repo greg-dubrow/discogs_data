@@ -1,0 +1,248 @@
+{
+  "id": 1232675,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/1232675",
+  "uri": "https://www.discogs.com/release/1232675-Ninjaman-Warning-You-Now",
+  "artists": [
+    {
+      "name": "Ninjaman",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 54520,
+      "resource_url": "https://api.discogs.com/artists/54520",
+      "thumbnail_url": "https://i.discogs.com/DwExMJLdyVolrTo-gGyq7BXRk28of13o7t69CvGtguE/rs:fit/g:sm/q:90/h:453/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTU0NTIw/LTE2NjQ4MTA2ODct/NDc3NS5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Ninjaman",
+  "labels": [
+    {
+      "name": "Jammy's Records",
+      "catno": "JAMLP 006",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 27656,
+      "resource_url": "https://api.discogs.com/labels/27656",
+      "thumbnail_url": "https://i.discogs.com/34rUaWb99UO6fbDogHNjOwERhXQAPRpui4UXGIfLBq4/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjU2/LTE1NjQ0MjIxOTEt/MTQ0MC5qcGVn.jpeg"
+    },
+    {
+      "name": "Jammy's Records",
+      "catno": "JM LP 006",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 27656,
+      "resource_url": "https://api.discogs.com/labels/27656",
+      "thumbnail_url": "https://i.discogs.com/34rUaWb99UO6fbDogHNjOwERhXQAPRpui4UXGIfLBq4/rs:fit/g:sm/q:90/h:575/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI3NjU2/LTE1NjQ0MjIxOTEt/MTQ0MC5qcGVn.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 52,
+    "want": 38,
+    "rating": {
+      "count": 11,
+      "average": 4
+    },
+    "submitter": {
+      "username": "david_v",
+      "resource_url": "https://api.discogs.com/users/david_v"
+    },
+    "contributors": [
+      {
+        "username": "david_v",
+        "resource_url": "https://api.discogs.com/users/david_v"
+      },
+      {
+        "username": "highpower",
+        "resource_url": "https://api.discogs.com/users/highpower"
+      },
+      {
+        "username": "bargainvinyl1",
+        "resource_url": "https://api.discogs.com/users/bargainvinyl1"
+      },
+      {
+        "username": "TopCats45s",
+        "resource_url": "https://api.discogs.com/users/TopCats45s"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2008-03-13T12:44:20-07:00",
+  "date_changed": "2017-03-31T06:16:30-07:00",
+  "num_for_sale": 3,
+  "lowest_price": 7.71,
+  "master_id": 201693,
+  "master_url": "https://api.discogs.com/masters/201693",
+  "title": "Warning You Now",
+  "country": "UK",
+  "released": "1990",
+  "notes": "Catalog number on labels: JAMLP 006\r\nCatalog number on sleeve: JM LP 006\r\n\r\nDistributed by Jet Star Records\r\n",
+  "released_formatted": "1990",
+  "identifiers": [],
+  "videos": [],
+  "genres": "Reggae",
+  "styles": ["Dancehall", "Ragga"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "Powder Puff",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "Assinating",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "Come Out A De Church",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Laugh And Grin",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "Nice Up The Lawn",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Loving Like Me",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Peeping Tom",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "Warning You Now",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Border Clash",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "King Jammy",
+      "anv": "",
+      "join": "",
+      "role": "Arranged By",
+      "tracks": "",
+      "id": 115766,
+      "resource_url": "https://api.discogs.com/artists/115766"
+    },
+    {
+      "name": "King Jammy",
+      "anv": "",
+      "join": "",
+      "role": "Edited By",
+      "tracks": "",
+      "id": 115766,
+      "resource_url": "https://api.discogs.com/artists/115766"
+    },
+    {
+      "name": "Fatman (3)",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 196085,
+      "resource_url": "https://api.discogs.com/artists/196085"
+    },
+    {
+      "name": "King Jammy",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 115766,
+      "resource_url": "https://api.discogs.com/artists/115766"
+    },
+    {
+      "name": "Snakie",
+      "anv": "",
+      "join": "",
+      "role": "Engineer",
+      "tracks": "",
+      "id": 788522,
+      "resource_url": "https://api.discogs.com/artists/788522"
+    },
+    {
+      "name": "King Jammy",
+      "anv": "",
+      "join": "",
+      "role": "Producer",
+      "tracks": "",
+      "id": 115766,
+      "resource_url": "https://api.discogs.com/artists/115766"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/piYJiEJqomaX7_An9L4CJ6KTcQR1quq7jBpsSOCjgzY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTQ5/OS01MzI2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/piYJiEJqomaX7_An9L4CJ6KTcQR1quq7jBpsSOCjgzY/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTQ5/OS01MzI2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/8IOl112mWPgmjzPKlpTfJ16hea2Y1eaKmdwMQbRgpKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTQ5/OS01MzI2LmpwZWc.jpeg",
+      "width": 597,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/7N6yptDbOD6RUAEF9iGZLg0c_pLm2DImwI_r7ne3Cos/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTQ5/OS0xNzIwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/7N6yptDbOD6RUAEF9iGZLg0c_pLm2DImwI_r7ne3Cos/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTQ5/OS0xNzIwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/5cDfJN3uZxnRXUrKG6sTmW5SuKrAZk-wNJo76HWEImA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTQ5/OS0xNzIwLmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/ENSj9KY1-jaqtCtnHnVZha5KmkVXbZU1VlH5q2AQh20/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTUw/MC02ODkyLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/ENSj9KY1-jaqtCtnHnVZha5KmkVXbZU1VlH5q2AQh20/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTUw/MC02ODkyLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/LD6v8Wv-DhrHrcspXDzgob5PbufNqdiP-PwVddz4Csc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTUw/MC02ODkyLmpwZWc.jpeg",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/s3dJ_Bn6Fh9_znhinSh0QyJ2hLDSsR5upJwSj9aDRiM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTUw/MC02ODU4LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/s3dJ_Bn6Fh9_znhinSh0QyJ2hLDSsR5upJwSj9aDRiM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTUw/MC02ODU4LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/Zv6Q9_dci5wPjUl02YWGwUyVjMLLk2feN4ssVY9ayU4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTUw/MC02ODU4LmpwZWc.jpeg",
+      "width": 599,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/8IOl112mWPgmjzPKlpTfJ16hea2Y1eaKmdwMQbRgpKQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzI2/NzUtMTQ5MDk2MTQ5/OS01MzI2LmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

@@ -1,0 +1,478 @@
+{
+  "id": 12086484,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/12086484",
+  "uri": "https://www.discogs.com/release/12086484-Royal-Philharmonic-Orchestra-Royal-Opera-House-Chorus-Robin-Stapleton-Opera-Spectacular",
+  "artists": [
+    {
+      "name": "Royal Philharmonic Orchestra",
+      "anv": "",
+      "join": "/",
+      "role": "",
+      "tracks": "",
+      "id": 341104,
+      "resource_url": "https://api.discogs.com/artists/341104",
+      "thumbnail_url": "https://i.discogs.com/I2SMl8x8fyF3nM7SdUCdgEiNNImfdO5KsgshNmSS4gg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTM0MTEw/NC0xNzAyNzM2OTUy/LTY3MTcuanBlZw.jpeg"
+    },
+    {
+      "name": "Chorus Of The Royal Opera House, Covent Garden",
+      "anv": "Royal Opera House Chorus",
+      "join": "/",
+      "role": "",
+      "tracks": "",
+      "id": 855066,
+      "resource_url": "https://api.discogs.com/artists/855066",
+      "thumbnail_url": "https://i.discogs.com/KHqO0uF3dHisMEGhKUU81-KZ6auc4Yd2BfgjTRK0DMQ/rs:fit/g:sm/q:90/h:399/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTg1NTA2/Ni0xNjA3MjQ4ODM1/LTM5MzAuanBlZw.jpeg"
+    },
+    {
+      "name": "Robin Stapleton",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 1207264,
+      "resource_url": "https://api.discogs.com/artists/1207264",
+      "thumbnail_url": "https://i.discogs.com/5DXZH7XdlME-ogn8ErVK9lm6xy5KaFDQjbX2epip0Xg/rs:fit/g:sm/q:90/h:231/w:174/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTEyMDcy/NjQtMTI3MjUzMDg0/OC5qcGVn.jpeg"
+    }
+  ],
+  "artists_sort": "Royal Philharmonic Orchestra / Chorus Of The Royal Opera House, Covent Garden / Robin Stapleton",
+  "labels": [
+    {
+      "name": "IMP Masters",
+      "catno": "MCL 15",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 262586,
+      "resource_url": "https://api.discogs.com/labels/262586",
+      "thumbnail_url": "https://i.discogs.com/IS5fFa5YgWUqe5jQ9YlxTDzYvHWkd77LylQzQlCz78o/rs:fit/g:sm/q:90/h:98/w:306/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTI2MjU4/Ni0xNDM2ODcxMDk4/LTk3NDAuanBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 12,
+    "want": 2,
+    "rating": {
+      "count": 0,
+      "average": 0
+    },
+    "submitter": {
+      "username": "CMC_23",
+      "resource_url": "https://api.discogs.com/users/CMC_23"
+    },
+    "contributors": [
+      {
+        "username": "CMC_23",
+        "resource_url": "https://api.discogs.com/users/CMC_23"
+      },
+      {
+        "username": "RATNAIL",
+        "resource_url": "https://api.discogs.com/users/RATNAIL"
+      },
+      {
+        "username": "AndyWhelan",
+        "resource_url": "https://api.discogs.com/users/AndyWhelan"
+      },
+      {
+        "username": "Mickes_SchlagerLager",
+        "resource_url": "https://api.discogs.com/users/Mickes_SchlagerLager"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2018-06-03T04:05:31-07:00",
+  "date_changed": "2024-01-26T04:30:41-08:00",
+  "num_for_sale": 2,
+  "lowest_price": 14.22,
+  "master_id": 3377050,
+  "master_url": "https://api.discogs.com/masters/3377050",
+  "title": "Opera Spectacular",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Matrix / Runout",
+      "value": "MCL 15 A1",
+      "description": "Side A"
+    },
+    {
+      "type": "Matrix / Runout",
+      "value": "MCL 15 B1",
+      "description": "Side B"
+    }
+  ],
+  "videos": [],
+  "genres": "Classical",
+  "styles": [],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 342543,
+          "resource_url": "https://api.discogs.com/artists/342543"
+        }
+      ],
+      "title": "(1838 - 1875) Toreador Song From Carmen",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 192327,
+          "resource_url": "https://api.discogs.com/artists/192327"
+        }
+      ],
+      "title": "(1813-1924) Chorus Of The Hebrew Slaves From Nabucco",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 369053,
+          "resource_url": "https://api.discogs.com/artists/369053"
+        }
+      ],
+      "title": "(1858-1924) \"Recondita Armonia\" From Tosca",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "anv": "Puccini",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 369053,
+          "resource_url": "https://api.discogs.com/artists/369053"
+        }
+      ],
+      "title": "\"E Lucevan Le Stelle\" From Tosca ",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "anv": "Puccini",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 369053,
+          "resource_url": "https://api.discogs.com/artists/369053"
+        }
+      ],
+      "title": "\"Un Bel Di\" From Madam Butterfly",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Léo Delibes",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 490777,
+          "resource_url": "https://api.discogs.com/artists/490777"
+        }
+      ],
+      "title": "(1836-1891) Flower Duet From Lakmé",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "anv": "Verdi",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 192327,
+          "resource_url": "https://api.discogs.com/artists/192327"
+        }
+      ],
+      "title": "Anvil Chorus From Il Trovatore",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 294746,
+          "resource_url": "https://api.discogs.com/artists/294746"
+        }
+      ],
+      "title": "(1813-1883) Ride Of The Valkyries From Die Walkure",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "anv": "Bizet",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 342543,
+          "resource_url": "https://api.discogs.com/artists/342543"
+        }
+      ],
+      "title": "\"Au Fond Du Temple Saint\" From The Perl Fishers",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "anv": "Verdi",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 192327,
+          "resource_url": "https://api.discogs.com/artists/192327"
+        }
+      ],
+      "title": "\"La Donna E Mobile\" From Rigoletto",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "anv": "Bizet",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 342543,
+          "resource_url": "https://api.discogs.com/artists/342543"
+        }
+      ],
+      "title": "Habanera From Carmen",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Gioacchino Rossini",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 442174,
+          "resource_url": "https://api.discogs.com/artists/442174"
+        }
+      ],
+      "title": "(1792-1868) \"Largo Al Factotum\" From The Barber Of Seville ",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "anv": "Puccini",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 369053,
+          "resource_url": "https://api.discogs.com/artists/369053"
+        }
+      ],
+      "title": "\"O Mio Babbino Caro\" From Gianni Schicchi",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Ruggiero Leoncavallo",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 525460,
+          "resource_url": "https://api.discogs.com/artists/525460"
+        }
+      ],
+      "title": "(1858-1919) \"Vesti La Giubba\" From I Pagliacci",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Charles Gounod",
+          "anv": "",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 555462,
+          "resource_url": "https://api.discogs.com/artists/555462"
+        }
+      ],
+      "title": "(1818-1893) Soldiers' Chorus From Faust",
+      "duration": ""
+    },
+    {
+      "position": "B9",
+      "type_": "track",
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "anv": "Puccini",
+          "join": "",
+          "role": "",
+          "tracks": "",
+          "id": 369053,
+          "resource_url": "https://api.discogs.com/artists/369053"
+        }
+      ],
+      "title": "\"Nessun Droma\" From Turandot",
+      "duration": ""
+    }
+  ],
+  "extraartists": [
+    {
+      "name": "Anthony Michaels-Moore",
+      "anv": "",
+      "join": "",
+      "role": "Baritone Vocals",
+      "tracks": "",
+      "id": 1561544,
+      "resource_url": "https://api.discogs.com/artists/1561544"
+    },
+    {
+      "name": "Robin Stapleton",
+      "anv": "",
+      "join": "",
+      "role": "Conductor",
+      "tracks": "",
+      "id": 1207264,
+      "resource_url": "https://api.discogs.com/artists/1207264"
+    },
+    {
+      "name": "Claire Powell",
+      "anv": "",
+      "join": "",
+      "role": "Mezzo-soprano Vocals",
+      "tracks": "",
+      "id": 5781744,
+      "resource_url": "https://api.discogs.com/artists/5781744"
+    },
+    {
+      "name": "Valérie Masterson",
+      "anv": "",
+      "join": "",
+      "role": "Soprano Vocals",
+      "tracks": "",
+      "id": 986211,
+      "resource_url": "https://api.discogs.com/artists/986211"
+    },
+    {
+      "name": "Edmund Barham",
+      "anv": "",
+      "join": "",
+      "role": "Tenor Vocals",
+      "tracks": "",
+      "id": 2381700,
+      "resource_url": "https://api.discogs.com/artists/2381700"
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/26vU8iuEAqkAWQvLmWrKpkuInkjuHaSR24rNNU3NqYw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzItMzEyOS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/26vU8iuEAqkAWQvLmWrKpkuInkjuHaSR24rNNU3NqYw/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzItMzEyOS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/T43tfWyq9qBYtbQsV0jRHI30j_2IV7KlzpB7nRD-DSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzItMzEyOS5qcGVn.jpeg",
+      "width": 589,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Rb7V2a4SWw2strjQQqjPKvVKGulJpKJ6tie3gQ6j1l4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtMTg4Ny5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/Rb7V2a4SWw2strjQQqjPKvVKGulJpKJ6tie3gQ6j1l4/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtMTg4Ny5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/lHplVfKhqU5jeFrc75tfyQZ0YLg3Luuy0wmYzhCufvc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtMTg4Ny5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/zFy_tzl7Pc5JDffkAMwOqdsaly_6YIx5N6vyI5EpLKs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtMzE5OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/zFy_tzl7Pc5JDffkAMwOqdsaly_6YIx5N6vyI5EpLKs/rs:fit/g:sm/q:90/h:600/w:595/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtMzE5OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/RDrhwZW_nQ7ofbyowC6Hf-q-z5WI4vJS4zTLe0v3oFo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtMzE5OS5qcGVn.jpeg",
+      "width": 595,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/9nJBnbvtq7sjR8XhoyrWVxkyzpxw-O_C2bxgqTvcj2Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtNTU0OS5qcGVn.jpeg",
+      "resource_url": "https://i.discogs.com/9nJBnbvtq7sjR8XhoyrWVxkyzpxw-O_C2bxgqTvcj2Y/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtNTU0OS5qcGVn.jpeg",
+      "uri150": "https://i.discogs.com/xCzPDhne1iDrtfr71U1MA9l-LsmtOWbu_C1JbXOaQEk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzEtNTU0OS5qcGVn.jpeg",
+      "width": 600,
+      "height": 596
+    }
+  ],
+  "thumb": "https://i.discogs.com/T43tfWyq9qBYtbQsV0jRHI30j_2IV7KlzpB7nRD-DSQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDg2/NDg0LTE1MjgwMjg0/MzItMzEyOS5qcGVn.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}

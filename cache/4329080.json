@@ -1,0 +1,220 @@
+{
+  "id": 4329080,
+  "status": "Accepted",
+  "year": 1990,
+  "resource_url": "https://api.discogs.com/releases/4329080",
+  "uri": "https://www.discogs.com/release/4329080-Santiago-Jimenez-Jr-Familia-Y-Tradicion",
+  "artists": [
+    {
+      "name": "Santiago Jimenez, Jr.",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 2167938,
+      "resource_url": "https://api.discogs.com/artists/2167938",
+      "thumbnail_url": "https://i.discogs.com/Q5fE8-DwLClwij3vot2VGtgnzvogBvRSMDN_42kLhB0/rs:fit/g:sm/q:90/h:398/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTIxNjc5/MzgtMTU0MzQ0NTQ5/OS0yMzEyLmpwZWc.jpeg"
+    }
+  ],
+  "artists_sort": "Santiago Jimenez, Jr.",
+  "labels": [
+    {
+      "name": "Special Delivery",
+      "catno": "SPD 1025",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 78602,
+      "resource_url": "https://api.discogs.com/labels/78602",
+      "thumbnail_url": "https://i.discogs.com/uvPA266pD7VjMANZLurbCkBTEqns5xJ7RO3ty0iJw0A/rs:fit/g:sm/q:90/h:115/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9MLTc4NjAy/LTEyMzM2ODAyMTUu/anBlZw.jpeg"
+    }
+  ],
+  "series": [],
+  "companies": [],
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "descriptions": "LP"
+    }
+  ],
+  "data_quality": "Needs Vote",
+  "community": {
+    "have": 41,
+    "want": 5,
+    "rating": {
+      "count": 3,
+      "average": 3.33
+    },
+    "submitter": {
+      "username": "mrbongo",
+      "resource_url": "https://api.discogs.com/users/mrbongo"
+    },
+    "contributors": [
+      {
+        "username": "mrbongo",
+        "resource_url": "https://api.discogs.com/users/mrbongo"
+      },
+      {
+        "username": "gippy",
+        "resource_url": "https://api.discogs.com/users/gippy"
+      },
+      {
+        "username": "CJSMUSIC-UK",
+        "resource_url": "https://api.discogs.com/users/CJSMUSIC-UK"
+      }
+    ],
+    "data_quality": "Needs Vote",
+    "status": "Accepted"
+  },
+  "format_quantity": 1,
+  "date_added": "2013-02-26T08:03:51-08:00",
+  "date_changed": "2017-09-09T06:39:07-07:00",
+  "num_for_sale": 11,
+  "lowest_price": 6.04,
+  "master_id": 1021673,
+  "master_url": "https://api.discogs.com/masters/1021673",
+  "title": "Familia Y Tradicion",
+  "country": "UK",
+  "released": "1990",
+  "released_formatted": "1990",
+  "identifiers": [
+    {
+      "type": "Barcode",
+      "value": "5016272102514",
+      "description": "Scanned"
+    }
+  ],
+  "videos": [],
+  "genres": "Latin",
+  "styles": ["Conjunto", "Ranchera"],
+  "tracklist": [
+    {
+      "position": "A1",
+      "type_": "track",
+      "title": "La Mujer",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "type_": "track",
+      "title": "De San Antonio A Penjamo",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "type_": "track",
+      "title": "El Corrido De Santiago Jimenez",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "type_": "track",
+      "title": "Ester Redova",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "type_": "track",
+      "title": "El Rosalito",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "type_": "track",
+      "title": "La Otra Modesta",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "type_": "track",
+      "title": "Daddy's Polka",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "type_": "track",
+      "title": "Ya Llegaron A La Luna",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "type_": "track",
+      "title": "Santiago's Schottis",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "type_": "track",
+      "title": "You Are My Sunshine",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "type_": "track",
+      "title": "Zulema Waltz",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "type_": "track",
+      "title": "Cotulla Polka",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "type_": "track",
+      "title": "Buscando A Mi Madre",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "type_": "track",
+      "title": "La Hawaiiana",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "type_": "track",
+      "title": "La Prision De Colorado",
+      "duration": ""
+    }
+  ],
+  "images": [
+    {
+      "type": "primary",
+      "uri": "https://i.discogs.com/gi8wmEPIJYCqtnb2TaUubt2K2ncNWXSKxoGTiptmUuw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTM2MTg5MzMx/Ny01MzIxLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/gi8wmEPIJYCqtnb2TaUubt2K2ncNWXSKxoGTiptmUuw/rs:fit/g:sm/q:90/h:160/w:160/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTM2MTg5MzMx/Ny01MzIxLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/FrL_DLY-Qd99RHfA_TprHeMO3WybxQMSeB7iQk2fKJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTM2MTg5MzMx/Ny01MzIxLmpwZWc.jpeg",
+      "width": 160,
+      "height": 160
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/Ojt3B9_J1MjstcI_lS5wtd5_by0uSrAt6nqJoujmGk4/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMz/Ny0yODQ2LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/Ojt3B9_J1MjstcI_lS5wtd5_by0uSrAt6nqJoujmGk4/rs:fit/g:sm/q:90/h:569/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMz/Ny0yODQ2LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/5S23LP2pChiDTr2Z8BTR65S4Z_Klu9i-eV5JBrc6hG4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMz/Ny0yODQ2LmpwZWc.jpeg",
+      "width": 600,
+      "height": 569
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/UWC1a6_ESiWT7CfgiFPQQKpupCUXIkBcs0a98H6ZT8A/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMw/OS0yMzQ3LmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/UWC1a6_ESiWT7CfgiFPQQKpupCUXIkBcs0a98H6ZT8A/rs:fit/g:sm/q:90/h:600/w:589/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMw/OS0yMzQ3LmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/O8MFxIXOV3dz6Tlfw8tNLeuP2v1ECN9fWgtreUG0gis/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMw/OS0yMzQ3LmpwZWc.jpeg",
+      "width": 589,
+      "height": 600
+    },
+    {
+      "type": "secondary",
+      "uri": "https://i.discogs.com/GeDx3hu8FCxYKhZbLH9b5UouPHOAdGVguPzD9yMsSJQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMw/OS03NzYwLmpwZWc.jpeg",
+      "resource_url": "https://i.discogs.com/GeDx3hu8FCxYKhZbLH9b5UouPHOAdGVguPzD9yMsSJQ/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMw/OS03NzYwLmpwZWc.jpeg",
+      "uri150": "https://i.discogs.com/b29viues9-0qU6MnelvcjZH-5Bn1pjZKPt5VZZ8O9D4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTUwNDk2NDMw/OS03NzYwLmpwZWc.jpeg",
+      "width": 598,
+      "height": 600
+    }
+  ],
+  "thumb": "https://i.discogs.com/FrL_DLY-Qd99RHfA_TprHeMO3WybxQMSeB7iQk2fKJk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMjkw/ODAtMTM2MTg5MzMx/Ny01MzIxLmpwZWc.jpeg",
+  "estimated_weight": 230,
+  "blocked_from_sale": false,
+  "is_offensive": false
+}
