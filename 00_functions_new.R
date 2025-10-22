@@ -6,6 +6,11 @@ library(purrr)
 library(tibble)
 library(stringr)
 
+
+# rate limit --------------------------------------------------------------
+
+
+
 respect_rate_limit <- function(res) {
   remaining <- as.integer(httr::headers(res)[["x-ratelimit-remaining"]])
   reset <- as.integer(httr::headers(res)[["x-ratelimit-reset"]])
@@ -21,11 +26,17 @@ respect_rate_limit <- function(res) {
 }
 
 
+# set up cache ------------------------------------------------------------
+
 ## set up cache directory
 if (!dir.exists("cache")) dir.create("cache")
 
 # This pulls from the Discogs search endpoint, applies
   # format + sub-format filters before returning.
+
+
+# search releases() -------------------------------------------------------
+
 
 search_releases <- function(country, year, format, key, secret, user_agent_string) {
   # Ensure format is correctly handled
@@ -75,7 +86,11 @@ search_releases <- function(country, year, format, key, secret, user_agent_strin
       purrr::map_lgl(format, ~ format_filter[[1]][2] %in% .x)
     )
 
-    all_data[[page]] <- tibble::as_tibble(filtered)
+    # Keep only what you need: id and optionally master_id
+    minimal <- dplyr::select(filtered, id, master_id)
+    all_data[[page]] <- tibble::as_tibble(minimal)
+
+    #all_data[[page]] <- tibble::as_tibble(filtered)
 
     if (page >= json_data$pagination$pages) break
     page <- page + 1
@@ -87,20 +102,7 @@ search_releases <- function(country, year, format, key, secret, user_agent_strin
 
 # This safely fetches full release JSON for a vector of IDs.
 
-# fetch_release_raw <- function(release_id, key, secret, user_agent_string) {
-#   url <- paste0("https://api.discogs.com/releases/", release_id)
-#
-#   res <- httr::GET(
-#     url,
-#     httr::user_agent(user_agent_string),
-#     query = list(key = key, secret = secret)
-#   )
-#
-#   httr::stop_for_status(res)
-#   respect_rate_limit(res)
-#
-#   jsonlite::fromJSON(httr::content(res, "text", encoding = "UTF-8"), flatten = FALSE)
-# }
+# fetch_release_raw_cached() ----------------------------------------------
 
 fetch_release_raw_cached <- function(release_id, key, secret, user_agent_string, cache_dir = "cache") {
   if (!dir.exists(cache_dir)) dir.create(cache_dir)
@@ -135,26 +137,7 @@ fetch_release_raw_cached <- function(release_id, key, secret, user_agent_string,
 }
 
 
-# fetch_release_details <- function(release_ids, key, secret, user_agent_string) {
-#   release_list <- purrr::map(
-#     release_ids,
-#     function(id) {
-#       message("Fetching release ID: ", id)
-#       release <- tryCatch(
-#         fetch_release_raw(id, key, secret, user_agent_string),
-#         error = function(e) {
-#           message("Failed to fetch release ", id, ": ", conditionMessage(e))
-#           return(NULL)
-#         }
-#       )
-#       release
-#     }
-#   )
-#
-#   # Return list of release JSONs
-#   compact(release_list)
-# }
-
+# fetch_release_details() -------------------------------------------------
 
 fetch_release_details <- function(release_ids, key, secret, user_agent_string, cache_dir = "cache") {
   release_list <- purrr::map(
@@ -174,6 +157,7 @@ fetch_release_details <- function(release_ids, key, secret, user_agent_string, c
   purrr::compact(release_list)
 }
 
+# clean_release_data() ----------------------------------------------------
 
 # This parses the release and cleanly separates labels and companies.
 clean_release_data <- function(release) {
@@ -193,15 +177,6 @@ clean_release_data <- function(release) {
   } else {
     NA_character_
   }
-
-  # # --- First Label (just name) ---
-  # label1 <- if (
-  #   !is.null(release$labels) && is.data.frame(release$labels) &&
-  #     "name" %in% names(release$labels)) {
-  #   release$labels$name[1] %||% NA_character_
-  # } else {
-  #   NA_character_
-  # }
 
   # --- Catno ---
   catno1 <- if (
@@ -226,43 +201,36 @@ clean_release_data <- function(release) {
     }
   }
 
-  # # --- Labels ---
-  # label_names <- if (!is.null(release$labels)) {
-  #   purrr::map_chr(release$labels, function(x) if (is.list(x) && "name" %in% names(x)) x$name else NA_character_)
-  # } else {
-  #   rep(NA_character_, 2)
-  # }
-  #
-  # catnos <- if (!is.null(release$labels)) {
-  #   purrr::map_chr(release$labels, function(x) if (is.list(x) && "catno" %in% names(x)) x$catno else NA_character_)
-  # } else {
-  #   rep(NA_character_, 2)
-  # }
-#
-#   catnos <- if (!is.null(release$labels)) {
-#     purrr::map_chr(release$labels, function(x) if (is.list(x) && "catno" %in% names(x)) x$catno else NA_character_)
-#   } else {
-#     rep(NA_character_, 2)
-#   }
-#
-#   # --- Formats ---
-#   formats <- tryCatch({
-#     desc <- purrr::pluck(release, "formats", 1, "descriptions", .default = NA_character_)
-#     if (is.list(desc)) unlist(desc)[1:2] else rep(desc, length.out = 2)
-#   }, error = function(e) rep(NA_character_, 2))
-#
+  # --- Format ---
+  format1 <- format2 <- NA_character_
+
+  if (!is.null(release$formats) &&
+      is.data.frame(release$formats) &&
+      "name" %in% names(release$formats)) {
+    if (nrow(release$formats) >= 1) {
+      format1 <- release$formats$name[1] %||% NA_character_
+    }
+    if (nrow(release$formats) >= 2) {
+      format2 <- release$formats$name[2] %||% NA_character_
+    }
+  }
+
 
   # --- Genres ---
   genre1 <- purrr::pluck(release, "genres", 1, .default = NA_character_)
   genre2 <- purrr::pluck(release, "genres", 2, .default = NA_character_)
+  genre3 <- purrr::pluck(release, "genres", 3, .default = NA_character_)
   genre1 <- if (is.list(genre1)) unlist(genre1)[1] else genre1
   genre2 <- if (is.list(genre2)) unlist(genre2)[1] else genre2
+  genre3 <- if (is.list(genre3)) unlist(genre3)[1] else genre3
 
   # --- Styles ---
   style1 <- purrr::pluck(release, "styles", 1, .default = NA_character_)
   style2 <- purrr::pluck(release, "styles", 2, .default = NA_character_)
+  style3 <- purrr::pluck(release, "styles", 3, .default = NA_character_)
   style1 <- if (is.list(style1)) unlist(style1)[1] else style1
   style2 <- if (is.list(style2)) unlist(style2)[1] else style2
+  style3 <- if (is.list(style2)) unlist(style3)[1] else style3
 
   # --- Companies ---
   if (!is.null(release$companies) && is.data.frame(release$companies)) {
@@ -296,19 +264,26 @@ clean_release_data <- function(release) {
     status        = release$status %||% NA_character_,
     artist        = artist,
     catno1        = catno1,
+    catno2        = catno2,
     label1        = label1,
     label2        = label2,
+    format1        = format1,
+    format2        = format2,
     # format1       = formats[1],
     # format2       = formats[2],
     genre1        = genre1,
     genre2        = genre2,
+    genre3        = genre3,
     style1        = style1,
     style2        = style2,
+    style3        = style3,
     mastered_at   = company_df$`Mastered At`[[1]] %||% NA_character_,
-    published_by  = company_df$`Published By`[[1]] %||% NA_character_,
+    published_by = (paste(company_df$`Published By`[[1]], collapse = "; ")) %||% NA_character_,
+#    published_by  = company_df$`Published By`[[1]] %||% NA_character_,
     licensed_to   = company_df$`Licensed To`[[1]] %||% NA_character_,
     copyright_by  = company_df$`Copyright ©`[[1]] %||% NA_character_,
-    distributed_by = company_df$`Distributed By`[[1]] %||% NA_character_,
+    distributed_by = (paste(company_df$`Distributed By`[[1]], collapse = "; ")) %||% NA_character_,
+#    distributed_by = company_df$`Distributed By`[[1]] %||% NA_character_,
     pressed_by     = company_df$`Pressed By`[[1]] %||% NA_character_,
     note1         = note1
   )
@@ -318,36 +293,43 @@ clean_release_data <- function(release) {
 
 
 # This cleans a whole batch of full releases.
-clean_all_releases <- function(release_json_list) {
-  cleaned_list <- purrr::map(release_json_list, clean_release_data)
-  dplyr::bind_rows(cleaned_list)
-}
+# clean_all_releases <- function(release_json_list) {
+#   cleaned_list <- purrr::map(release_json_list, clean_release_data)
+#   dplyr::bind_rows(cleaned_list)
+# }
 
-clean_all_releases <- function(release_json_list) {
-  safe_clean <- purrr::safely(clean_release_data)
-  cleaned_list <- purrr::map(release_json_list, safe_clean)
 
-  # Pull out errors
-  errors <- purrr::keep(cleaned_list, ~ !is.null(.x$error))
-  n_errors <- length(errors)
+# clean_all_releases() ----------------------------------------------------
 
-  if (n_errors > 0) {
-    message("Some records failed to clean: ", n_errors)
-    message("First error:")
-    print(errors[[1]]$error)
+clean_all_releases <- function(release_json_list, .progress = FALSE) {
+  safe_clean <- purrr::safely(clean_release_data, otherwise = NULL, quiet = TRUE)
+
+  # Apply safely
+  results <- purrr::map(release_json_list, safe_clean, .progress = .progress)
+
+  # Separate successes and failures
+  successes <- purrr::map(results, "result")
+  errors    <- purrr::map(results, "error")
+
+  failed_indices <- which(purrr::map_lgl(errors, ~ !is.null(.x)))
+  if (length(failed_indices) > 0) {
+    message("Some records failed to clean: ", length(failed_indices))
+    message("First error:\n", errors[[failed_indices[1]]])
   }
 
-  results <- purrr::map(cleaned_list, "result") %>% purrr::compact()
+  # Combine successful results into a tibble
+  final_df <- dplyr::bind_rows(purrr::compact(successes))
 
-  if (length(results) == 0) {
-    warning("No results to return.")
-    return(tibble())
-  }
+  # Attach metadata
+  attr(final_df, "failed_indices") <- failed_indices
+  attr(final_df, "failed_errors")  <- errors[failed_indices]
 
-  dplyr::bind_rows(results)
+  return(final_df)
 }
 
 
+
+# sample usage ------------------------------------------------------------
 
 ## sample usage
 # Step 1: Search filtered releases (e.g., only Vinyl LPs)
@@ -357,17 +339,28 @@ search_df <- search_releases("UK", 1990, "Vinyl",
 test_ids <- head(search_df$id, 100)
 
 # Step 2: Pull full details
+
 release_jsons <- fetch_release_details(test_ids,
   discogs_key, discogs_secret, ua_string)
 
-release_jsons <- fetch_release_details(search_df$id,
+release_jsons_all <- fetch_release_details(search_df$id,
   discogs_key, discogs_secret, ua_string)
 
 # Step 3: Clean
 final_df <- clean_all_releases(release_jsons)
+final_df_all <- clean_all_releases(release_jsons_all)
 
-glimpse(final_df)
+final_df_all3 <- clean_all_releases(release_jsons_all)
 
+glimpse(final_df_all3)
+
+saveRDS(final_df_all2, "data/uk_vinyl_1990.rds")
+
+# inspect which recrds failed and why
+failed_i <- attr(final_df_all2, "failed_indices")
+failed_errors <- attr(final_df_all2, "failed_errors")
+failed_errors[[2]]
+glimpse(final_df_all2)
 
 ####
 # clean_release_data <- function(release) {
@@ -457,3 +450,96 @@ glimpse(final_df)
 # copyright_by  = company_df$`Copyright ©`[[1]] %||% NA_character_
 # distributed_by = company_df$`Distributed By`[[1]] %||% NA_character_,
 # pressed_by     = company_df$`Pressed By`[[1]] %||% NA_character_,
+
+# clean releases old - without error checks
+# clean_all_releases <- function(release_json_list) {
+#   safe_clean <- purrr::safely(clean_release_data)
+#   cleaned_list <- purrr::map(release_json_list, safe_clean)
+#
+#   # Pull out errors
+#   errors <- purrr::keep(cleaned_list, ~ !is.null(.x$error))
+#   n_errors <- length(errors)
+#
+#   if (n_errors > 0) {
+#     message("Some records failed to clean: ", n_errors)
+#     message("First error:")
+#     print(errors[[1]]$error)
+#   }
+#
+#   results <- purrr::map(cleaned_list, "result") %>% purrr::compact()
+#
+#   if (length(results) == 0) {
+#     warning("No results to return.")
+#     return(tibble())
+#   }
+#
+#   dplyr::bind_rows(results)
+# }
+## regfactored code from clean_release_data
+# # --- Labels ---
+# label_names <- if (!is.null(release$labels)) {
+#   purrr::map_chr(release$labels, function(x) if (is.list(x) && "name" %in% names(x)) x$name else NA_character_)
+# } else {
+#   rep(NA_character_, 2)
+# }
+#
+# catnos <- if (!is.null(release$labels)) {
+#   purrr::map_chr(release$labels, function(x) if (is.list(x) && "catno" %in% names(x)) x$catno else NA_character_)
+# } else {
+#   rep(NA_character_, 2)
+# }
+#
+#   catnos <- if (!is.null(release$labels)) {
+#     purrr::map_chr(release$labels, function(x) if (is.list(x) && "catno" %in% names(x)) x$catno else NA_character_)
+#   } else {
+#     rep(NA_character_, 2)
+#   }
+#
+#   # --- Formats ---
+#   formats <- tryCatch({
+#     desc <- purrr::pluck(release, "formats", 1, "descriptions", .default = NA_character_)
+#     if (is.list(desc)) unlist(desc)[1:2] else rep(desc, length.out = 2)
+#   }, error = function(e) rep(NA_character_, 2))
+# # --- First Label (just name) ---
+# label1 <- if (
+#   !is.null(release$labels) && is.data.frame(release$labels) &&
+#     "name" %in% names(release$labels)) {
+#   release$labels$name[1] %||% NA_character_
+# } else {
+#   NA_character_
+# }
+# fetch_release_details <- function(release_ids, key, secret, user_agent_string) {
+#   release_list <- purrr::map(
+#     release_ids,
+#     function(id) {
+#       message("Fetching release ID: ", id)
+#       release <- tryCatch(
+#         fetch_release_raw(id, key, secret, user_agent_string),
+#         error = function(e) {
+#           message("Failed to fetch release ", id, ": ", conditionMessage(e))
+#           return(NULL)
+#         }
+#       )
+#       release
+#     }
+#   )
+#
+#   # Return list of release JSONs
+#   compact(release_list)
+# }
+
+# fetch_release_raw <- function(release_id, key, secret, user_agent_string) {
+#   url <- paste0("https://api.discogs.com/releases/", release_id)
+#
+#   res <- httr::GET(
+#     url,
+#     httr::user_agent(user_agent_string),
+#     query = list(key = key, secret = secret)
+#   )
+#
+#   httr::stop_for_status(res)
+#   respect_rate_limit(res)
+#
+#   jsonlite::fromJSON(httr::content(res, "text", encoding = "UTF-8"), flatten = FALSE)
+# }
+

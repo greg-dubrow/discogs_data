@@ -17,3 +17,4 @@ analysis_ideas.*
 analysis_ideas*
 /data
 /data/*.RDS
+cache/*.json
