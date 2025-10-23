@@ -25,7 +25,7 @@ ukvinyl90_release_jsons <- fetch_release_details(ukvinyl90_search_df$id,
   discogs_key, discogs_secret, ua_string)
 
 # Step 3: Clean & save
-uk_vinyl_1990 <- clean_all_releases(release_jsons_all)
+uk_vinyl_1990 <- clean_all_releases(ukvinyl90_release_jsons)
 
 glimpse(uk_vinyl_1990)
 
@@ -110,3 +110,44 @@ us_vinyl_1990 <- clean_all_releases(release_jsons_all)
 glimpse(us_vinyl_1990)
 
 saveRDS(us_vinyl_1990, "data/us_vinyl_1990.rds")
+
+
+## pull CD
+# Step 1: Search filtered releases
+uscd90_search_df <- search_releases("US", 1990, "CD",
+  discogs_key, discogs_secret, ua_string)
+
+glimpse(uscd90_search_df )
+
+# Step 2: Pull full details
+
+# run as background job
+uscd90_release_jsons <- fetch_release_details(uscd90_search_df$id,
+  discogs_key, discogs_secret, ua_string)
+
+# Step 3: Clean & save
+us_cd_1990 <- clean_all_releases(uscd90_release_jsons)
+
+glimpse(us_cd_1990)
+
+saveRDS(us_cd_1990, "data/us_vinyl_1990.rds")
+
+## pull Cassette
+# Step 1: Search filtered releases
+uscas90_search_df <- search_releases("US", 1990, "Cassette",
+  discogs_key, discogs_secret, ua_string)
+
+glimpse(uscas90_search_df )
+
+# Step 2: Pull full details
+
+# run as background job
+uscas90_release_jsons <- fetch_release_details(uscas90_search_df$id,
+  discogs_key, discogs_secret, ua_string)
+
+# Step 3: Clean & save
+us_cas_1990 <- clean_all_releases(uscas90_release_jsons)
+
+glimpse(us_cd_1990)
+
+saveRDS(us_cd_1990, "data/us_vinyl_1990.rds")
