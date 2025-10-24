@@ -6,12 +6,14 @@ library(tidyverse)
 library(tidylog)
 library(gregeRs)
 
-source("00_functions.R")
 
 # load Discogs API credentials
 discogs_key    <- Sys.getenv("DISCOGS_KEY")
 discogs_secret <- Sys.getenv("DISCOGS_SECRET")
 ua_string      <- "MyDiscogsApp/1.0 +https://example.com"
+
+source("00_functions_new.R")
+
 
 # 1990 -------------------------------------------------------------
 

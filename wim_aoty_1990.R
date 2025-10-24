@@ -7,6 +7,13 @@ library(tidyverse)
 library(tidylog)
 library(gregeRs)
 
+# load Discogs API credentials
+discogs_key    <- Sys.getenv("DISCOGS_KEY")
+discogs_secret <- Sys.getenv("DISCOGS_SECRET")
+ua_string      <- "MyDiscogsApp/1.0 +https://example.com"
+
+source("00_functions_new.R")
+
 ## need to pulls separate
 
 ## pull vinyl
@@ -148,6 +155,9 @@ uscas90_release_jsons <- fetch_release_details(uscas90_search_df$id,
 # Step 3: Clean & save
 us_cas_1990 <- clean_all_releases(uscas90_release_jsons)
 
-glimpse(us_cd_1990)
+glimpse(us_cas_1990)
 
-saveRDS(us_cd_1990, "data/us_vinyl_1990.rds")
+saveRDS(us_cas_1990, "data/us_cas_1990.rds")
+
+
+

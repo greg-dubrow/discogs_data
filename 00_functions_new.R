@@ -7,29 +7,84 @@ library(tibble)
 library(stringr)
 
 
-# rate limit --------------------------------------------------------------
-
-
-
-respect_rate_limit <- function(res) {
-  remaining <- as.integer(httr::headers(res)[["x-ratelimit-remaining"]])
-  reset <- as.integer(httr::headers(res)[["x-ratelimit-reset"]])
-
-  message("Rate limit remaining: ", remaining, " | Reset in: ", reset, " sec")
-
-  if (!is.na(remaining) && !is.na(reset) && remaining <= 1) {
-    message("Rate limit reached. Waiting ", reset, " seconds...")
-    Sys.sleep(reset + 1)
-  } else {
-    Sys.sleep(1)  # Be polite
-  }
-}
+# test headers
+# res <- httr::GET(
+#   "https://api.discogs.com/database/search",
+#   httr::user_agent(ua_string),
+#   query = list(
+#     key = discogs_key,
+#     secret = discogs_secret,
+#     country = "US",
+#     year = 1990,
+#     type = "release",
+#     per_page = 1
+#   )
+# )
+#
+# names(httr::headers(res))
 
 
 # set up cache ------------------------------------------------------------
 
 ## set up cache directory
 if (!dir.exists("cache")) dir.create("cache")
+
+# rate limit --------------------------------------------------------------
+
+respect_rate_limit <- function(res, log_file = "rate_limit_log.txt") {
+  # Ensure the log file exists
+  if (!file.exists(log_file)) file.create(log_file)
+
+  timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S")
+
+  # Extract headers safely
+  headers <- httr::headers(res)
+  remaining_raw <- headers[["x-ratelimit-remaining"]]
+  reset_raw     <- headers[["x-ratelimit-reset"]]
+
+  # Default values
+  remaining <- suppressWarnings(as.integer(remaining_raw))
+  reset     <- suppressWarnings(as.integer(reset_raw))
+
+  # Compose info for logging
+  msg <- paste0(
+    "[", timestamp, "] Headers: remaining=", remaining_raw,
+    " reset=", reset_raw
+  )
+  write(msg, file = log_file, append = TRUE)
+  message(msg)
+
+  # If headers missing or NA, just sleep politely and exit
+  if (is.null(remaining_raw) || is.null(reset_raw) || is.na(remaining) || is.na(reset)) {
+    warn_msg <- paste0("[", timestamp, "] Missing rate-limit headers. Sleeping 1s.")
+    write(warn_msg, file = log_file, append = TRUE)
+    message(warn_msg)
+    Sys.sleep(1)
+    return(invisible(NULL))
+  }
+
+  # Normal behavior if we have both headers
+  msg <- paste0(
+    "[", timestamp, "] Rate limit remaining: ", remaining,
+    " | Reset in: ", reset, " sec"
+  )
+  write(msg, file = log_file, append = TRUE)
+  message(msg)
+
+  if (remaining <= 1) {
+    wait_msg <- paste0("[", timestamp, "] Rate limit reached. Waiting ", reset, " seconds...")
+    write(wait_msg, file = log_file, append = TRUE)
+    message(wait_msg)
+    Sys.sleep(reset + 1)
+  } else {
+    Sys.sleep(1)
+  }
+
+  invisible(NULL)
+}
+
+
+
 
 # This pulls from the Discogs search endpoint, applies
   # format + sub-format filters before returning.
@@ -76,6 +131,7 @@ search_releases <- function(country, year, format, key, secret, user_agent_strin
 
     httr::stop_for_status(res)
     respect_rate_limit(res)
+    #respect_rate_limit(res, endpoint = "database/search")
 
     json_data <- jsonlite::fromJSON(httr::content(res, "text", encoding = "UTF-8"), flatten = TRUE)
 
@@ -277,14 +333,16 @@ clean_release_data <- function(release) {
     style1        = style1,
     style2        = style2,
     style3        = style3,
+    recorded_at    = paste(company_df$`Recorded At`[[1]], collapse = "; ") %||% NA_character_,
+    mixed_at       = paste(company_df$`Mixed At`[[1]], collapse = "; ") %||% NA_character_,
     mastered_at   = company_df$`Mastered At`[[1]] %||% NA_character_,
-    published_by = (paste(company_df$`Published By`[[1]], collapse = "; ")) %||% NA_character_,
+    published_by  = (paste(company_df$`Published By`[[1]], collapse = "; ")) %||% NA_character_,
 #    published_by  = company_df$`Published By`[[1]] %||% NA_character_,
     licensed_to   = company_df$`Licensed To`[[1]] %||% NA_character_,
     copyright_by  = company_df$`Copyright ©`[[1]] %||% NA_character_,
     distributed_by = (paste(company_df$`Distributed By`[[1]], collapse = "; ")) %||% NA_character_,
 #    distributed_by = company_df$`Distributed By`[[1]] %||% NA_character_,
-    pressed_by     = company_df$`Pressed By`[[1]] %||% NA_character_,
+    pressed_by    = company_df$`Pressed By`[[1]] %||% NA_character_,
     note1         = note1
   )
 }
@@ -301,66 +359,113 @@ clean_release_data <- function(release) {
 
 # clean_all_releases() ----------------------------------------------------
 
-clean_all_releases <- function(release_json_list, .progress = FALSE) {
+clean_all_releases <- function(release_json_list, log_file = "failed_records_log.txt") {
+  message("Cleaning ", length(release_json_list), " release records...")
+
   safe_clean <- purrr::safely(clean_release_data, otherwise = NULL, quiet = TRUE)
+  results <- purrr::map(release_json_list, safe_clean)
 
-  # Apply safely
-  results <- purrr::map(release_json_list, safe_clean, .progress = .progress)
+  # Split into successes and failures
+  successes <- purrr::map(results, "result") |> purrr::compact()
+  failures  <- purrr::map(results, "error")
 
-  # Separate successes and failures
-  successes <- purrr::map(results, "result")
-  errors    <- purrr::map(results, "error")
+  failed_indices <- which(!purrr::map_lgl(failures, is.null))
+  n_failed <- length(failed_indices)
 
-  failed_indices <- which(purrr::map_lgl(errors, ~ !is.null(.x)))
-  if (length(failed_indices) > 0) {
-    message("Some records failed to clean: ", length(failed_indices))
-    message("First error:\n", errors[[failed_indices[1]]])
+  if (n_failed > 0) {
+    message("Some records failed to clean: ", n_failed)
+
+    # Extract error messages safely
+    failed_errors <- purrr::map_chr(failures[failed_indices], ~ conditionMessage(.x) %||% "Unknown error")
+
+    # Combine into data frame
+    log_df <- tibble::tibble(
+      index = failed_indices,
+      error = failed_errors
+    )
+
+    # Add timestamp to the log file
+    timestamp <- format(Sys.time(), "%Y-%m-%d %H:%M:%S")
+    cat("\n--- Cleaning run at", timestamp, "---\n", file = log_file, append = TRUE)
+    readr::write_tsv(log_df, log_file, append = TRUE)
+
+    message("Logged failed records to: ", log_file)
+
+    # Save indices and errors as attributes to the returned tibble
+    combined <- dplyr::bind_rows(successes)
+    attr(combined, "failed_indices") <- failed_indices
+    attr(combined, "failed_errors") <- failed_errors
+
+  } else {
+    message("All records cleaned successfully.")
+    combined <- dplyr::bind_rows(successes)
   }
 
-  # Combine successful results into a tibble
-  final_df <- dplyr::bind_rows(purrr::compact(successes))
-
-  # Attach metadata
-  attr(final_df, "failed_indices") <- failed_indices
-  attr(final_df, "failed_errors")  <- errors[failed_indices]
-
-  return(final_df)
+  combined
 }
+
+
+
+# clean_all_releases <- function(release_json_list, .progress = FALSE) {
+#   safe_clean <- purrr::safely(clean_release_data, otherwise = NULL, quiet = TRUE)
+#
+#   # Apply safely
+#   results <- purrr::map(release_json_list, safe_clean, .progress = .progress)
+#
+#   # Separate successes and failures
+#   successes <- purrr::map(results, "result")
+#   errors    <- purrr::map(results, "error")
+#
+#   failed_indices <- which(purrr::map_lgl(errors, ~ !is.null(.x)))
+#   if (length(failed_indices) > 0) {
+#     message("Some records failed to clean: ", length(failed_indices))
+#     message("First error:\n", errors[[failed_indices[1]]])
+#   }
+#
+#   # Combine successful results into a tibble
+#   final_df <- dplyr::bind_rows(purrr::compact(successes))
+#
+#   # Attach metadata
+#   attr(final_df, "failed_indices") <- failed_indices
+#   attr(final_df, "failed_errors")  <- errors[failed_indices]
+#
+#   return(final_df)
+# }
 
 
 
 # sample usage ------------------------------------------------------------
 
-## sample usage
-# Step 1: Search filtered releases (e.g., only Vinyl LPs)
-search_df <- search_releases("UK", 1990, "Vinyl",
-  discogs_key, discogs_secret, ua_string)
-
-test_ids <- head(search_df$id, 100)
-
-# Step 2: Pull full details
-
-release_jsons <- fetch_release_details(test_ids,
-  discogs_key, discogs_secret, ua_string)
-
-release_jsons_all <- fetch_release_details(search_df$id,
-  discogs_key, discogs_secret, ua_string)
-
-# Step 3: Clean
-final_df <- clean_all_releases(release_jsons)
-final_df_all <- clean_all_releases(release_jsons_all)
-
-final_df_all3 <- clean_all_releases(release_jsons_all)
-
-glimpse(final_df_all3)
-
-saveRDS(final_df_all2, "data/uk_vinyl_1990.rds")
-
-# inspect which recrds failed and why
-failed_i <- attr(final_df_all2, "failed_indices")
-failed_errors <- attr(final_df_all2, "failed_errors")
-failed_errors[[2]]
-glimpse(final_df_all2)
+# ## sample usage
+# # Step 1: Search filtered releases (e.g., only Vinyl LPs)
+# search_df <- search_releases("UK", 1990, "Vinyl",
+#   discogs_key, discogs_secret, ua_string)
+#
+# test_ids <- head(search_df$id, 100)
+#
+# # Step 2: Pull full details
+#
+# release_jsons <- fetch_release_details(test_ids,
+#   discogs_key, discogs_secret, ua_string)
+#
+# release_jsons_all <- fetch_release_details(search_df$id,
+#   discogs_key, discogs_secret, ua_string)
+#
+# # Step 3: Clean
+# final_df <- clean_all_releases(release_jsons)
+# final_df_all <- clean_all_releases(release_jsons_all)
+#
+# final_df_all3 <- clean_all_releases(release_jsons_all)
+#
+# glimpse(final_df_all3)
+#
+# saveRDS(final_df_all2, "data/uk_vinyl_1990.rds")
+#
+# # inspect which recrds failed and why
+# failed_i <- attr(final_df_all2, "failed_indices")
+# failed_errors <- attr(final_df_all2, "failed_errors")
+# failed_errors[[2]]
+# glimpse(final_df_all2)
 
 ####
 # clean_release_data <- function(release) {
@@ -541,5 +646,19 @@ glimpse(final_df_all2)
 #   respect_rate_limit(res)
 #
 #   jsonlite::fromJSON(httr::content(res, "text", encoding = "UTF-8"), flatten = FALSE)
+# }
+
+# respect_rate_limit <- function(res) {
+#   remaining <- as.integer(httr::headers(res)[["x-ratelimit-remaining"]])
+#   reset <- as.integer(httr::headers(res)[["x-ratelimit-reset"]])
+#
+#   message("Rate limit remaining: ", remaining, " | Reset in: ", reset, " sec")
+#
+#   if (!is.na(remaining) && !is.na(reset) && remaining <= 1) {
+#     message("Rate limit reached. Waiting ", reset, " seconds...")
+#     Sys.sleep(reset + 1)
+#   } else {
+#     Sys.sleep(1)  # Be polite
+#   }
 # }
 
