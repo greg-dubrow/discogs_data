@@ -21,9 +21,7 @@ source("00_functions_new.R")
 ukvinyl90_search_df <- search_releases("UK", 1990, "Vinyl",
   discogs_key, discogs_secret, ua_string)
 
-glimpse(search_df)
-
-# test_ids <- head(ukvinyl90_search_df$id, 100)
+glimpse(ukvinyl90_search_df)
 
 # Step 2: Pull full details
 
@@ -35,11 +33,6 @@ ukvinyl90_release_jsons <- fetch_release_details(ukvinyl90_search_df$id,
 uk_vinyl_1990 <- clean_all_releases(ukvinyl90_release_jsons)
 
 glimpse(uk_vinyl_1990)
-
-# # inspect which records failed and why
-# failed_i <- attr(uk_vinyl_1990, "failed_indices")
-# failed_errors <- attr(uk_vinyl_1990, "failed_errors")
-# failed_errors[[2]]
 
 saveRDS(uk_vinyl_1990, "data/uk_vinyl_1990.rds")
 
@@ -85,17 +78,6 @@ saveRDS(uk_cas_1990, "data/uk_cas_1990.rds")
 
 
 
-## build UK 1990 file with vinyl, cd & cassette
-
-uk_1990_all <- uk_cd_1990 %>%
-  rbind(uk_cd_1990) %>%
-  rbind(uk_cas_1990)
-
-glimpse(uk_1990_all)
-
-uk_1990_all %>%
-  count(format1, format2)
-
 
 ### get us releases
 ## pull vinyl
@@ -112,7 +94,7 @@ usvinyl90_release_jsons <- fetch_release_details(usvinyl90_search_df$id,
   discogs_key, discogs_secret, ua_string)
 
 # Step 3: Clean & save
-us_vinyl_1990 <- clean_all_releases(release_jsons_all)
+us_vinyl_1990 <- clean_all_releases(usvinyl90_release_jsons)
 
 glimpse(us_vinyl_1990)
 
@@ -137,7 +119,7 @@ us_cd_1990 <- clean_all_releases(uscd90_release_jsons)
 
 glimpse(us_cd_1990)
 
-saveRDS(us_cd_1990, "data/us_vinyl_1990.rds")
+saveRDS(us_cd_1990, "data/us_cd_1990.rds")
 
 ## pull Cassette
 # Step 1: Search filtered releases
@@ -160,4 +142,77 @@ glimpse(us_cas_1990)
 saveRDS(us_cas_1990, "data/us_cas_1990.rds")
 
 
+# combine files
+uk_aoty_1990 <- uk_vinyl_1990 %>%
+  rbind(uk_cd_1990) %>%
+  rbind(uk_cas_1990) %>%
+  mutate(non_music = ifelse(
+    genre1 == "Non-Music" | genre2 == "Non-Music" | genre3 == "Non-Music",
+    1, 0)) %>%
+  mutate(non_music = ifelse(is.na(non_music), 0, non_music)) %>%
+  filter(non_music == 0) %>%
+  mutate(artist = str_remove(artist, "\\s*\\([0-9]+\\)$")) %>%
+  mutate(artist = str_replace_all(artist, '"([^"]+)"', '\\1')) %>%
+  mutate(artist = str_trim(artist)) %>%
+  mutate(title = str_trim(title)) %>%
+  arrange(artist, title, master_id, status) %>%
+  distinct(artist, title, master_id, .keep_all = T) %>%
+  distinct(artist, title, .keep_all = T)
 
+glimpse(uk_aoty_1990)
+
+uk_aoty_1990 %>%
+  count(artist, title) %>%
+  arrange(desc(n), artist, title)
+
+us_aoty_1990 <- us_vinyl_1990 %>%
+  rbind(us_cd_1990) %>%
+  rbind(us_cas_1990) %>%
+  mutate(non_music = ifelse(
+    genre1 == "Non-Music" | genre2 == "Non-Music" | genre3 == "Non-Music",
+    1, 0)) %>%
+  mutate(non_music = ifelse(is.na(non_music), 0, non_music)) %>%
+  filter(non_music == 0) %>%
+  mutate(artist = str_remove(artist, "\\s*\\([0-9]+\\)$")) %>%
+  mutate(artist = str_replace_all(artist, '"([^"]+)"', '\\1')) %>%
+  mutate(artist = str_trim(artist)) %>%
+  mutate(title = str_trim(title)) %>%
+  arrange(artist, title, master_id, status) %>%
+  distinct(artist, title, master_id, .keep_all = T) %>%
+  distinct(artist, title, .keep_all = T)
+
+glimpse(us_aoty_1990)
+
+us_aoty_1990 %>%
+  count(artist, title) %>%
+  arrange(desc(n), artist, title)
+
+aoty_1990 <- uk_aoty_1990 %>%
+  rbind(us_aoty_1990) %>%
+  arrange(artist, title, master_id, status, country) %>%
+  distinct(artist, title, master_id, .keep_all = T) %>%
+  distinct(artist, title, .keep_all = T)
+
+aoty_1990 %>%
+  count(artist, title) %>%
+  arrange(desc(n), artist, title) %>%
+  view()
+
+aoty_1990 %>%
+  count(artist) %>%
+  arrange(desc(n), artist) %>%
+  view()
+
+
+aoty_1990 %>%
+  count(genre1)
+aoty_1990 %>%
+  count(genre1, genre2) %>%
+  filter(!is.na(genre2)) %>%
+  arrange(desc(n))
+
+aoty_1990 %>%
+  count(genre1, genre2, genre3) %>%
+  filter(!is.na(genre2)) %>%
+  filter(!is.na(genre3)) %>%
+  arrange(desc(n))

@@ -109,7 +109,7 @@ usvinyl87_release_jsons <- fetch_release_details(usvinyl87_search_df$id,
   discogs_key, discogs_secret, ua_string)
 
 # Step 3: Clean & save
-us_vinyl_1987 <- clean_all_releases(release_jsons_all)
+us_vinyl_1987 <- clean_all_releases(usvinyl87_release_jsons)
 
 glimpse(us_vinyl_1987)
 
@@ -134,7 +134,7 @@ us_cd_1987 <- clean_all_releases(uscd87_release_jsons)
 
 glimpse(us_cd_1987)
 
-saveRDS(us_cd_1987, "data/us_vinyl_1987.rds")
+saveRDS(us_cd_1987, "data/us_cd_1987.rds")
 
 ## pull Cassette
 # Step 1: Search filtered releases
@@ -157,9 +157,67 @@ glimpse(us_cas_1987)
 saveRDS(us_cas_1987, "data/us_cas_1987.rds")
 
 
+## join datasets
+
+uk_vinyl_1987 %>%
+  count(artist, title) %>%
+  arrange(desc(n), artist, title)
+
+uk_aoty_1987 <- uk_vinyl_1987 %>%
+  rbind(uk_cd_1987) %>%
+  rbind(uk_cas_1987) %>%
+  mutate(non_music = ifelse(
+    genre1 == "Non-Music" | genre2 == "Non-Music" | genre3 == "Non-Music",
+    1, 0)) %>%
+  mutate(non_music = ifelse(is.na(non_music), 0, non_music)) %>%
+  filter(non_music == 0) %>%
+  mutate(artist = str_remove(artist, "\\s*\\([0-9]+\\)$")) %>%
+  mutate(artist = str_replace_all(artist, '"([^"]+)"', '\\1')) %>%
+  arrange(artist, title, master_id, status) %>%
+  distinct(artist, title, master_id, .keep_all = T) %>%
+  distinct(artist, title, .keep_all = T) %>%
+  filter(!title == "")
+
+glimpse(uk_aoty_1987)
+
+uk_aoty_1987 %>%
+  count(non_music, genre1, genre2, genre3) %>%
+  view()
+
+uk_aoty_1987 %>%
+  count(artist, title) %>%
+  arrange(desc(n), artist, title)
+
+us_aoty_1987 <- us_vinyl_1987 %>%
+  rbind(us_cd_1987) %>%
+  rbind(us_cas_1987) %>%
+  mutate(non_music = ifelse(
+    genre1 == "Non-Music" | genre2 == "Non-Music" | genre3 == "Non-Music",
+    1, 0)) %>%
+  mutate(non_music = ifelse(is.na(non_music), 0, non_music)) %>%
+  filter(non_music == 0) %>%
+  mutate(artist = str_remove(artist, "\\s*\\([0-9]+\\)$")) %>%
+  mutate(artist = str_replace_all(artist, '"([^"]+)"', '\\1')) %>%
+  arrange(artist, title, master_id, status) %>%
+  distinct(artist, title, master_id, .keep_all = T) %>%
+  distinct(artist, title, .keep_all = T)
+
+us_aoty_1987 %>%
+  count(artist, title)%>%
+  arrange(desc(n), artist, title)
+
+aoty_1987 <- uk_aoty_1987 %>%
+  rbind(us_aoty_1987) %>%
+  arrange(artist, title, master_id, status, country) %>%
+  distinct(artist, title, master_id, .keep_all = T) %>%
+  distinct(artist, title, .keep_all = T)
+
+aoty_1987 %>%
+  count(artist, title)%>%
+  arrange(desc(n), artist, title)
+
 
 #### diagnostics
-
 attr(uk_vinyl_1987, "failed_indices")
 attr(uk_vinyl_1987, "failed_errors")
 
